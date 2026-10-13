@@ -11,6 +11,9 @@ edits a hand-picked show.**
 | `panamacity.json` | https://panamacity.whatsgoodlocal.com/live-music/ | https://panamacity.whatsgoodlocal.com/live-music/shows.json (and tootsies.php for Tootsie's) |
 | `tampa.json` | https://tampa.whatsgoodlocal.com/live-music/ | https://tampa.whatsgoodlocal.com/live-music/shows.json |
 
+The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
+`football/CLAUDE.md`. The live music task never touches it.
+
 ## The one rule: no source, no listing
 
 Every show needs a `source`: an https link to a venue calendar, the band's own show page, an event
