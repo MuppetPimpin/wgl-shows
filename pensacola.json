@@ -1,5 +1,162 @@
 {
-  "_readme": "What's Good Local weekly show feed for pensacola. Written by a weekly scheduled task; read by that city's live music page, which adds these to its hand-picked shows. Every show needs a source link that confirms the date.",
+  "_readme": "What's Good Local weekly show feed for Pensacola. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-10-13",
-  "shows": []
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Schofield",
+      "venue": "Seville Quarter (End o' the Alley Courtyard)",
+      "town": "Pensacola",
+      "when": "Wed Oct 14 · 9 PM",
+      "start": "2026-10-14T21:00",
+      "end": "2026-10-14T23:30",
+      "address": "130 E Government St, Pensacola, FL 32502",
+      "source": "https://www.sevillequarter.com/events/"
+    },
+    {
+      "kind": "free",
+      "band": "Dana Hunt Black",
+      "venue": "Sandshaker Lounge",
+      "town": "Pensacola Beach",
+      "when": "Thu Oct 15 · 8 PM",
+      "start": "2026-10-15T20:00",
+      "end": "2026-10-15T23:00",
+      "source": "https://www.bandsintown.com/e/108975557-dana-hunt-black-at-sandshaker-lounge"
+    },
+    {
+      "kind": "free",
+      "band": "Hunter Clark",
+      "venue": "Flora-Bama",
+      "town": "Perdido Key",
+      "when": "Fri Oct 16 · 6 PM",
+      "start": "2026-10-16T18:00",
+      "end": "2026-10-16T21:00",
+      "address": "17401 Perdido Key Dr, Pensacola, FL 32507",
+      "source": "https://www.bandsintown.com/e/1039994032-hunter-clark-at-flora-bama",
+      "free": true,
+      "details": "Full band show. Free admission."
+    },
+    {
+      "kind": "free",
+      "band": "Jessie Ritter",
+      "venue": "Crabs",
+      "town": "Pensacola Beach",
+      "when": "Fri Oct 16 · 6 PM",
+      "start": "2026-10-16T18:00",
+      "end": "2026-10-16T21:00",
+      "source": "https://www.bandsintown.com/e/107860688-jessie-ritter-at-crabs",
+      "free": true,
+      "details": "Free admission."
+    },
+    {
+      "kind": "free",
+      "band": "John Hart Project",
+      "venue": "Paradise Bar & Grill",
+      "town": "Pensacola Beach",
+      "when": "Sat Oct 17 · 5:30 PM",
+      "start": "2026-10-17T17:30",
+      "end": "2026-10-17T20:30",
+      "address": "21 Via de Luna Dr, Pensacola Beach, FL 32561",
+      "source": "https://www.bandsintown.com/e/108938911-john-hart-project-at-paradise-bar-and-grill"
+    },
+    {
+      "kind": "free",
+      "band": "Frank Fletcher",
+      "venue": "Juana's Pagodas",
+      "town": "Navarre Beach",
+      "when": "Sat Oct 17 · 8 PM",
+      "start": "2026-10-17T20:00",
+      "end": "2026-10-17T23:00",
+      "source": "https://www.bandsintown.com/e/108863790-frank-fletcher-at-juana's-pagodas"
+    },
+    {
+      "kind": "free",
+      "band": "Pensacola Opera: Jan Miller Studio Artists & Pensacola Opera Chorus",
+      "venue": "Perfect Plain Brewing Co.",
+      "town": "Pensacola",
+      "when": "Sun Oct 18 · 2 PM",
+      "start": "2026-10-18T14:00",
+      "end": "2026-10-18T17:00",
+      "address": "50 E Garden St, Pensacola, FL 32502",
+      "source": "https://pensacolaopera.com/events/pours-encores-october-2026/",
+      "free": true,
+      "tag": "Pours & Encores",
+      "details": "Free, no tickets required."
+    },
+    {
+      "kind": "concert",
+      "band": "Felicity",
+      "venue": "The Handlebar",
+      "town": "Pensacola",
+      "when": "Wed Oct 21 · 7 PM",
+      "start": "2026-10-21T19:00",
+      "end": "2026-10-21T22:00",
+      "address": "319 N Tarragona St, Pensacola, FL 32501",
+      "source": "https://www.jambase.com/show/felicity-handlebar-20261021",
+      "details": "Tickets from $15 through See Tickets."
+    },
+    {
+      "kind": "free",
+      "band": "Pensacola Opera: Jan Miller Studio Artists",
+      "venue": "UWF Historic Trust Museum Plaza",
+      "town": "Pensacola",
+      "when": "Fri Oct 23 · 7:30 PM",
+      "start": "2026-10-23T19:30",
+      "end": "2026-10-23T22:30",
+      "address": "300 S Tarragona St, Pensacola, FL 32502",
+      "source": "https://pensacolaopera.com/events/opera-after-dark-2026/",
+      "free": true,
+      "tag": "Opera After Dark",
+      "details": "Free outdoor concert. Food trucks open at 7 PM."
+    },
+    {
+      "kind": "free",
+      "band": "Sugarcane Jane",
+      "venue": "Flora-Bama",
+      "town": "Perdido Key",
+      "when": "Sat Oct 24 · 4 PM",
+      "start": "2026-10-24T16:00",
+      "end": "2026-10-24T19:00",
+      "address": "17401 Perdido Key Dr, Pensacola, FL 32507",
+      "source": "https://www.bandsintown.com/e/1040113606-sugarcane-jane-at-flora-bama"
+    },
+    {
+      "kind": "concert",
+      "band": "Jonathon \"Boogie\" Long & Kara Grainger",
+      "with": "Soulman Sam and the Backstreet Blues Band",
+      "venue": "Calvert's in the Heights",
+      "town": "Pensacola",
+      "when": "Sun Oct 25 · 2 PM",
+      "start": "2026-10-25T14:00",
+      "end": "2026-10-25T17:00",
+      "address": "670 Scenic Hwy, Pensacola, FL 32503",
+      "source": "https://calvertsintheheights.ticketspice.com/blues-on-the-bluff",
+      "tickets": "https://calvertsintheheights.ticketspice.com/blues-on-the-bluff",
+      "tag": "Blues on the Bluff",
+      "details": "Outdoor event. Doors at noon. General admission $25 plus fee. Bring a chair or blanket."
+    },
+    {
+      "kind": "concert",
+      "band": "The Linda Lindas",
+      "venue": "The Handlebar",
+      "town": "Pensacola",
+      "when": "Thu Oct 29 · 7:30 PM",
+      "start": "2026-10-29T19:30",
+      "end": "2026-10-29T22:30",
+      "address": "319 N Tarragona St, Pensacola, FL 32501",
+      "source": "https://www.jambase.com/show/the-linda-lindas-handlebar-20261029",
+      "details": "Tickets from $20 through See Tickets."
+    },
+    {
+      "kind": "free",
+      "band": "Joey Collins",
+      "venue": "Seville Quarter (End o' the Alley Bar)",
+      "town": "Pensacola",
+      "when": "Mon Nov 2 · 9 PM",
+      "start": "2026-11-02T21:00",
+      "end": "2026-11-02T23:30",
+      "address": "130 E Government St, Pensacola, FL 32502",
+      "source": "https://www.sevillequarter.com/events/"
+    }
+  ]
 }
