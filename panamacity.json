@@ -1,153 +1,106 @@
 {
   "_readme": "What's Good Local weekly show feed for Panama City. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-10-13",
+  "updated": "2026-10-19",
   "shows": [
     {
       "kind": "free",
+      "band": "Jared Herzog",
+      "venue": "The Pearl",
+      "town": "Rosemary Beach",
+      "when": "Mon Oct 19 · 6 PM",
+      "start": "2026-10-19T18:00",
+      "end": "2026-10-19T21:00",
+      "address": "63 Main St, Rosemary Beach, FL 32461",
+      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
+    },
+    {
+      "kind": "free",
+      "band": "Ronnie Randolph Acoustic Entertainment",
+      "venue": "Mango Marley's",
+      "town": "Panama City Beach",
+      "when": "Wed Oct 21 · 7 PM",
+      "start": "2026-10-21T19:00",
+      "end": "2026-10-21T22:00",
+      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
+    },
+    {
+      "kind": "free",
+      "band": "Cat Ridgeway and the Tourists",
+      "venue": "Marina Lawn",
+      "town": "Panama City",
+      "when": "Thu Oct 22 · 7 PM",
+      "start": "2026-10-22T19:00",
+      "end": "2026-10-22T22:00",
+      "address": "7 Harrison Ave, Panama City, FL 32401",
+      "source": "https://destinationpanamacity.com/annual-event/backstage-pass/",
+      "tag": "Backstage Pass concert series",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Kinder Gentler",
+      "with": "Vallencourt",
+      "venue": "Mosey's Downtown",
+      "town": "Panama City",
+      "when": "Thu Oct 22 · 7 PM",
+      "start": "2026-10-22T19:00",
+      "end": "2026-10-22T22:00",
+      "source": "https://www.bandsintown.com/en/c/panama-city-fl",
+      "tag": "Pre-Fest punk show"
+    },
+    {
+      "kind": "free",
+      "band": "Frank Fletcher",
+      "venue": "Ms Newby's Liquors",
+      "town": "Panama City Beach",
+      "when": "Fri Oct 23 · 8 PM",
+      "start": "2026-10-23T20:00",
+      "end": "2026-10-23T23:00",
+      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
+    },
+    {
+      "kind": "free",
       "band": "John Hart Project",
-      "venue": "30Avenue",
+      "venue": "Papa Surf Burger Bar",
       "town": "Inlet Beach",
-      "when": "Tue Oct 13 · 6 PM",
-      "start": "2026-10-13T18:00",
-      "end": "2026-10-13T21:00",
-      "source": "https://www.bandsintown.com/e/108938946-john-hart-project-at-30-avenue"
+      "when": "Sat Oct 24 · 6 PM",
+      "start": "2026-10-24T18:00",
+      "end": "2026-10-24T21:00",
+      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
     },
     {
       "kind": "free",
       "band": "Frank Fletcher",
       "venue": "The Dive",
       "town": "Panama City",
-      "when": "Wed Oct 14 · 6:30 PM",
-      "start": "2026-10-14T18:30",
-      "end": "2026-10-14T21:30",
+      "when": "Wed Oct 28 · 6:30 PM",
+      "start": "2026-10-28T18:30",
+      "end": "2026-10-28T21:30",
       "address": "1118 Bayview Ave, Panama City, FL",
-      "source": "https://www.bandsintown.com/e/108863734-frank-fletcher-at-the-dive"
+      "source": "https://www.bandsintown.com/c/callaway-fl/all-dates/genre/alternative"
     },
     {
       "kind": "free",
-      "band": "All Is Calm",
-      "with": "Cascades",
-      "venue": "Sound Collective Studios",
+      "band": "Webb Wilder Band",
+      "venue": "The Pavilion at Watersound Town Center",
+      "town": "Inlet Beach",
+      "when": "Fri Nov 6 · 6 PM",
+      "start": "2026-11-06T18:00",
+      "end": "2026-11-06T20:00",
+      "address": "85 Origins Main St, Inlet Beach, FL 32461",
+      "source": "https://sowal.com/node/158982",
+      "tag": "First Friday Concert Series",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Drosera",
+      "venue": "Mosey's Downtown",
       "town": "Panama City",
-      "when": "Thu Oct 15 · 7 PM",
-      "start": "2026-10-15T19:00",
-      "end": "2026-10-15T22:00",
-      "address": "111 Beck Ave, Panama City, FL",
-      "source": "https://www.bandsintown.com/e/109014213-all-is-calm-at-sound-collective-studios",
-      "details": "Tickets $10."
-    },
-    {
-      "kind": "free",
-      "band": "Sons of Saints",
-      "venue": "Sharky's Beachfront Restaurant",
-      "town": "Panama City Beach",
-      "when": "Thu Oct 15 · 9 PM",
-      "start": "2026-10-15T21:00",
-      "end": "2026-10-16T00:00",
-      "address": "15201 Front Beach Rd, Panama City Beach, FL 32413",
-      "source": "https://sharkysbeach.com/event/sons-of-saints-10/2026-10-15/"
-    },
-    {
-      "kind": "free",
-      "band": "TooTall & Tanita",
-      "venue": "Patches Pub & Grill",
-      "town": "Panama City Beach",
-      "when": "Fri Oct 16 · 5 PM",
-      "start": "2026-10-16T17:00",
-      "end": "2026-10-16T21:00",
-      "address": "4723 Thomas Dr, Panama City Beach, FL",
-      "source": "https://allevents.in/panama-city-beach/patches-pub-and-grill-panama-city-beach-with-tootallandtanita-most-mediocre-music/200030426803216"
-    },
-    {
-      "kind": "free",
-      "band": "Frank Fletcher",
-      "venue": "Buster's Beer & Bait",
-      "town": "Panama City Beach",
-      "when": "Fri Oct 16 · 8 PM",
-      "start": "2026-10-16T20:00",
-      "end": "2026-10-16T23:00",
-      "source": "https://www.bandsintown.com/e/108863782-frank-fletcher-at-buster's-beer-and-bait"
-    },
-    {
-      "kind": "free",
-      "band": "Steven Theriot",
-      "venue": "NEAT Bottle Shop",
-      "town": "Alys Beach",
-      "when": "Tue Oct 20 · 5 PM",
-      "start": "2026-10-20T17:00",
-      "end": "2026-10-20T19:00",
-      "address": "11 N Castle Harbour Dr, Alys Beach, FL 32461",
-      "source": "https://alysbeach.com/event/wine-song-8/2026-10-20/",
-      "tag": "Wine + Song",
-      "details": "$30 per person, includes four wine tastings."
-    },
-    {
-      "kind": "free",
-      "band": "Velvet Gypsy",
-      "venue": "Sharky's Beachfront Restaurant",
-      "town": "Panama City Beach",
-      "when": "Fri Oct 23 · 9 PM",
-      "start": "2026-10-23T21:00",
-      "end": "2026-10-24T00:00",
-      "address": "15201 Front Beach Rd, Panama City Beach, FL 32413",
-      "source": "https://sharkysbeach.com/event/velvet-gypsy-2/2026-10-23/"
-    },
-    {
-      "kind": "free",
-      "band": "Corey Hall",
-      "venue": "NEAT Bottle Shop",
-      "town": "Alys Beach",
-      "when": "Tue Oct 27 · 5 PM",
-      "start": "2026-10-27T17:00",
-      "end": "2026-10-27T19:00",
-      "address": "11 N Castle Harbour Dr, Alys Beach, FL 32461",
-      "source": "https://alysbeach.com/event/wine-song-8/2026-10-27/",
-      "tag": "Wine + Song",
-      "details": "$30 per person, includes four wine tastings."
-    },
-    {
-      "kind": "free",
-      "band": "Jamah Terry",
-      "venue": "Sharky's Beachfront Restaurant",
-      "town": "Panama City Beach",
-      "when": "Wed Oct 28 · 7 PM",
-      "start": "2026-10-28T19:00",
-      "end": "2026-10-28T22:00",
-      "address": "15201 Front Beach Rd, Panama City Beach, FL 32413",
-      "source": "https://sharkysbeach.com/event/jamah-terry-8/2026-10-28/"
-    },
-    {
-      "kind": "free",
-      "band": "Michael Johnson",
-      "venue": "Havana Beach Bar & Grill at The Pearl",
-      "town": "Rosemary Beach",
-      "when": "Thu Oct 29 · 5 PM",
-      "start": "2026-10-29T17:00",
-      "end": "2026-10-29T19:00",
-      "address": "63 Main St, Rosemary Beach, FL 32461",
-      "source": "https://new.sowal.com/event/michael-johnson-at-havana-beach-bar-grill-165?date=2026-10-29"
-    },
-    {
-      "kind": "free",
-      "band": "Steven Theriot",
-      "venue": "Peddlers Pavilion",
-      "town": "Seacrest",
-      "when": "Fri Oct 30 · 9:30 AM",
-      "start": "2026-10-30T09:30",
-      "end": "2026-10-30T12:30",
-      "address": "10343 E County Hwy 30A, Panama City Beach, FL 32413",
-      "source": "https://www.songkick.com/concerts/42992860-steven-theriot-at-peddlers-pavilion"
-    },
-    {
-      "kind": "free",
-      "band": "Jared Herzog",
-      "venue": "Peddlers Pavilion",
-      "town": "Seacrest",
-      "when": "Sat Oct 31 · 6 PM",
-      "start": "2026-10-31T18:00",
-      "end": "2026-10-31T21:30",
-      "address": "10343 E County Hwy 30A, Panama City Beach, FL 32413",
-      "source": "https://www.songkick.com/concerts/43443049-jared-herzog-at-peddlers-pavilion"
+      "when": "Sun Nov 8 · 6 PM",
+      "start": "2026-11-08T18:00",
+      "end": "2026-11-08T21:00",
+      "source": "https://bandsintown.com/c/panama-city-beach-fl/all-dates/genre/punk"
     }
   ]
 }
