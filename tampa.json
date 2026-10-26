@@ -1,57 +1,7 @@
 {
   "_readme": "What's Good Local weekly show feed for Tampa. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "shows": [
-    {
-      "kind": "free",
-      "band": "Rent Strike",
-      "venue": "Dunedin Brewery",
-      "town": "Dunedin",
-      "when": "Tue Oct 20 · 7 PM",
-      "start": "2026-10-20T19:00",
-      "end": "2026-10-20T22:00",
-      "source": "https://bandsintown.com/v/10002270-dunedin-brewery",
-      "drive": "Dunedin, just north of Clearwater"
-    },
-    {
-      "kind": "concert",
-      "band": "Gameface & Drag The River",
-      "with": "The Arrival Note",
-      "venue": "New World Music Hall",
-      "town": "Tampa",
-      "when": "Thu Oct 22 · 7 PM",
-      "start": "2026-10-22T19:00",
-      "end": "2026-10-22T23:00",
-      "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://thatssotampa.com/event/gameface-drag-the-river-w-the-arrival-note/",
-      "tickets": "https://gameface26.eventbrite.com",
-      "details": "Tickets $20 to $25."
-    },
-    {
-      "kind": "free",
-      "band": "Crossfire Creek",
-      "venue": "Frenchy's Original Cafe",
-      "town": "Clearwater Beach",
-      "when": "Fri Oct 23 · 8 PM",
-      "start": "2026-10-23T20:00",
-      "end": "2026-10-23T22:00",
-      "address": "41 Baymont St, Clearwater Beach, FL 33767",
-      "source": "https://happeningnext.com/event/42nd-annual-frenchys-stone-crab-festival-crossfire-creek-show-eid3a0e48burd",
-      "url": "https://www.visitstpeteclearwater.com/event/frenchys-annual-stone-crab-festival/1556",
-      "tag": "Frenchy's Stone Crab Festival",
-      "details": "Free festival admission.",
-      "free": true
-    },
-    {
-      "kind": "concert",
-      "band": "The Linda Lindas",
-      "venue": "The Orpheum",
-      "town": "Tampa",
-      "when": "Sun Oct 25 · 7 PM",
-      "start": "2026-10-25T19:00",
-      "end": "2026-10-25T22:00",
-      "source": "https://www.tickpick.com/buy-the-linda-lindas-tickets-orpheum-tampa-10-25-26-7pm/8131303/"
-    },
     {
       "kind": "concert",
       "band": "Damon Fowler & Friends",
@@ -65,6 +15,20 @@
       "tag": "2026 Freaker's Ball: The Big Uneasy"
     },
     {
+      "kind": "free",
+      "band": "Between Bluffs",
+      "venue": "Dunedin Brewery",
+      "town": "Dunedin",
+      "when": "Sat Oct 31 · 8 PM",
+      "start": "2026-10-31T20:00",
+      "end": "2026-10-31T23:00",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "tag": "Back From The Dead Halloween Show",
+      "details": "Free admission.",
+      "drive": "Dunedin, just north of Clearwater",
+      "free": true
+    },
+    {
       "kind": "concert",
       "band": "Sawyer Hill",
       "venue": "New World Music Hall",
@@ -73,7 +37,8 @@
       "start": "2026-11-04T19:00",
       "end": "2026-11-04T23:00",
       "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://thatssotampa.com/venue/new-world-tampa-music-hall",
+      "source": "https://thatssotampa.com/event/sawyer-hill/",
+      "tickets": "https://sawyerhill26.eventbrite.com",
       "details": "Tickets $25."
     },
     {
@@ -101,14 +66,17 @@
     },
     {
       "kind": "free",
-      "band": "Kristopher James",
+      "band": "Unusual Noise: Music from the Edge of Florida",
+      "with": "Skerik, Mike Dillon, Joe Marcinek, Electric Kif and others",
       "venue": "Dunedin Brewery",
       "town": "Dunedin",
-      "when": "Sat Nov 7 · 7 PM",
-      "start": "2026-11-07T19:00",
-      "end": "2026-11-07T22:00",
-      "source": "https://bandsintown.com/v/10002270-dunedin-brewery",
-      "drive": "Dunedin, just north of Clearwater"
+      "when": "Sat Nov 7 · 4 PM",
+      "start": "2026-11-07T16:00",
+      "end": "2026-11-07T19:00",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "details": "Free admission.",
+      "drive": "Dunedin, just north of Clearwater",
+      "free": true
     },
     {
       "kind": "concert",
@@ -122,6 +90,84 @@
       "source": "https://happeningnext.com/event/the-black-honkeys-in-concert-eid1ef0l4hokgwr",
       "details": "Doors 7 PM.",
       "drive": "Safety Harbor, east of Clearwater"
+    },
+    {
+      "kind": "concert",
+      "band": "Sweet Pill",
+      "venue": "New World Music Hall",
+      "town": "Tampa",
+      "when": "Mon Nov 9 · 7 PM",
+      "start": "2026-11-09T19:00",
+      "end": "2026-11-09T21:00",
+      "address": "810 E Skagway Ave, Tampa, FL 33604",
+      "source": "https://www.visittampabay.com/tampa-events/details/sweet-pill-tampa/101325/",
+      "url": "https://www.newworldtampa.com/events/sweet-pill-and-more-tba"
+    },
+    {
+      "kind": "concert",
+      "band": "First to Eleven",
+      "venue": "New World Music Hall",
+      "town": "Tampa",
+      "when": "Tue Nov 10 · 8 PM",
+      "start": "2026-11-10T20:00",
+      "end": "2026-11-10T23:00",
+      "address": "810 E Skagway Ave, Tampa, FL 33604",
+      "source": "https://www.tickpick.com/buy-first-to-eleven-tickets-new-world-brewery-11-10-26-8pm/8149891/"
+    },
+    {
+      "kind": "concert",
+      "band": "Fitz and The Tantrums",
+      "with": "Plain White T's, Vundabar, Beach Weather, Hotel Fiction, Dani Rucker, Rohna",
+      "venue": "St. Pete Pier (Spa Beach Park)",
+      "town": "St. Petersburg",
+      "when": "Fri Nov 13 · 2 PM",
+      "start": "2026-11-13T14:00",
+      "end": "2026-11-13T22:00",
+      "address": "615 2nd Ave NE, St. Petersburg, FL 33701",
+      "source": "https://www.visitstpeteclearwater.com/event/fin-fest-st-pete/63237",
+      "tickets": "https://www.eventliveus.com/event/10438/fl-fin-fest-st-pete-2026",
+      "tag": "Florida Fin Fest, day one",
+      "details": "Concert area open 2 to 10 PM. Single-day and two-day passes; children 12 and under free with a paid guardian."
+    },
+    {
+      "kind": "concert",
+      "band": "Richy Mitch & The Coal Miners",
+      "with": "Sun Room, Bay Ledges, Evening Elephants, Tounds, Shevonne & The Force, Speak Easy, The Annie Dukes",
+      "venue": "St. Pete Pier (Spa Beach Park)",
+      "town": "St. Petersburg",
+      "when": "Sat Nov 14 · 2 PM",
+      "start": "2026-11-14T14:00",
+      "end": "2026-11-14T22:00",
+      "address": "615 2nd Ave NE, St. Petersburg, FL 33701",
+      "source": "https://www.visitstpeteclearwater.com/event/fin-fest-st-pete/63237",
+      "tickets": "https://www.eventliveus.com/event/10438/fl-fin-fest-st-pete-2026",
+      "tag": "Florida Fin Fest, day two",
+      "details": "Concert area open 2 to 10 PM. Children 12 and under free with a paid guardian."
+    },
+    {
+      "kind": "free",
+      "band": "Gent Treadly",
+      "venue": "Dunedin Brewery",
+      "town": "Dunedin",
+      "when": "Sat Nov 14 · 8 PM",
+      "start": "2026-11-14T20:00",
+      "end": "2026-11-14T23:00",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "details": "Free admission. Followed by a blues jam tied to the Dunedin Wines The Blues festival.",
+      "drive": "Dunedin, just north of Clearwater",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "Reverend Peyton's Big Damn Band",
+      "with": "Adrian & Meredith",
+      "venue": "Bayboro Brewing Co.",
+      "town": "St. Petersburg",
+      "when": "Sun Nov 15 · 8 PM",
+      "start": "2026-11-15T20:00",
+      "end": "2026-11-15T23:00",
+      "address": "2390 5th Ave S, St. Petersburg, FL 33712",
+      "source": "https://songkick.com/concerts/43419010-reverend-peytons-big-damn-band-at-bayboro-brewing-co"
     }
   ]
 }

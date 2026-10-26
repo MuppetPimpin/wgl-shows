@@ -1,87 +1,7 @@
 {
   "_readme": "What's Good Local weekly show feed for Pensacola. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "shows": [
-    {
-      "kind": "free",
-      "band": "The Oliver's Twist Band",
-      "venue": "Gulfside Pavilion at Casino Beach",
-      "town": "Pensacola Beach",
-      "when": "Tue Oct 20 · 7 PM",
-      "start": "2026-10-20T19:00",
-      "end": "2026-10-20T21:00",
-      "source": "https://www.visitpensacola.com/events/bands-on-the-beach-the-olivers-twist-band/",
-      "free": true,
-      "tag": "Bands on the Beach",
-      "details": "Free. Bring a lawn chair or blanket. No pets or glass."
-    },
-    {
-      "kind": "free",
-      "band": "Jessie Ritter",
-      "venue": "Crabs",
-      "town": "Pensacola Beach",
-      "when": "Fri Oct 23 · 6 PM",
-      "start": "2026-10-23T18:00",
-      "end": "2026-10-23T21:00",
-      "source": "https://bandsintown.com/c/pensacola-fl/all-dates/genre/country"
-    },
-    {
-      "kind": "free",
-      "band": "Sugarcane Jane",
-      "venue": "Flora-Bama",
-      "town": "Perdido Key",
-      "when": "Sat Oct 24 · 4 PM",
-      "start": "2026-10-24T16:00",
-      "end": "2026-10-24T19:00",
-      "address": "17401 Perdido Key Dr, Pensacola, FL 32507",
-      "source": "https://bandsintown.com/v/10053661-flora-bama"
-    },
-    {
-      "kind": "free",
-      "band": "Saucy Fuzz",
-      "venue": "Bamboo Willie's",
-      "town": "Pensacola Beach",
-      "when": "Sat Oct 24 · 8 PM",
-      "start": "2026-10-24T20:00",
-      "end": "2026-10-24T23:00",
-      "address": "400 Quietwater Beach Rd Suite 14, Pensacola Beach, FL 32561",
-      "source": "https://bamboowillies.com/"
-    },
-    {
-      "kind": "concert",
-      "band": "Goodbye June",
-      "venue": "The Handlebar",
-      "town": "Pensacola",
-      "when": "Sun Oct 25 · 7 PM",
-      "start": "2026-10-25T19:00",
-      "end": "2026-10-25T22:00",
-      "address": "319 N Tarragona St, Pensacola, FL 32501",
-      "source": "https://bandsintown.com/c/pensacola-fl/all-dates/genre/blues"
-    },
-    {
-      "kind": "free",
-      "band": "Horseshoe Kitty",
-      "venue": "Gulfside Pavilion at Casino Beach",
-      "town": "Pensacola Beach",
-      "when": "Tue Oct 27 · 7 PM",
-      "start": "2026-10-27T19:00",
-      "end": "2026-10-27T21:00",
-      "source": "https://www.visitpensacola.com/events/bands-on-the-beach-horseshoe-kitty/",
-      "free": true,
-      "tag": "Bands on the Beach",
-      "details": "Free. Bring a lawn chair or blanket. No pets or glass. Free parking at Casino Beach."
-    },
-    {
-      "kind": "free",
-      "band": "D. Scott Riggs",
-      "venue": "Five Sisters Blues Cafe",
-      "town": "Pensacola",
-      "when": "Thu Oct 29 · 6 PM",
-      "start": "2026-10-29T18:00",
-      "end": "2026-10-29T21:00",
-      "address": "421 W Belmont St, Pensacola, FL 32501",
-      "source": "https://bandsintown.com/c/pensacola-fl/all-dates/genre/blues"
-    },
     {
       "kind": "concert",
       "band": "The Linda Lindas",
@@ -99,11 +19,11 @@
       "band": "Dash Rip Rock",
       "venue": "Paradise Bar & Grill",
       "town": "Pensacola Beach",
-      "when": "Fri Oct 30 · 6 PM",
-      "start": "2026-10-30T18:00",
-      "end": "2026-10-30T21:00",
+      "when": "Fri Oct 30 · 5:30 PM",
+      "start": "2026-10-30T17:30",
+      "end": "2026-10-30T21:30",
       "address": "21 Via de Luna Dr, Pensacola Beach, FL 32561",
-      "source": "https://bandsintown.com/v/10007712-paradise-bar-and-grill"
+      "source": "https://www.paradisebar-grill.com/Event-Details/post_detail/dash-rip-rock-2026-10-30"
     },
     {
       "kind": "free",
@@ -114,42 +34,116 @@
       "start": "2026-10-31T20:00",
       "end": "2026-10-31T23:00",
       "address": "400 Quietwater Beach Rd Suite 14, Pensacola Beach, FL 32561",
-      "source": "https://bamboowillies.com/",
+      "source": "https://bamboowillies.com/live-music",
       "tag": "Halloween Beach Bash",
-      "details": "Costume party."
+      "details": "Costume contest follows the set."
     },
     {
-      "kind": "free",
-      "band": "Mark Joseph",
-      "venue": "Sneaky Tiki Bar",
+      "kind": "concert",
+      "band": "Neal Francis",
+      "venue": "Laguna's Beach Bar + Grill",
+      "town": "Pensacola Beach",
+      "when": "Sun Nov 1 · 7:30 PM",
+      "start": "2026-11-01T19:30",
+      "end": "2026-11-01T22:30",
+      "address": "460 Pensacola Beach Blvd, Pensacola Beach, FL 32561",
+      "source": "https://www.jambase.com/show/neal-francis-lagunas-beach-bar-grill-20261101",
+      "details": "Tickets $25 to $27.50 through See Tickets."
+    },
+    {
+      "kind": "concert",
+      "band": "Night Moves",
+      "venue": "The Handlebar",
       "town": "Pensacola",
-      "when": "Sun Nov 1 · 3 PM",
-      "start": "2026-11-01T15:00",
-      "end": "2026-11-01T18:00",
-      "source": "https://bandsintown.com/c/pensacola-fl/all-dates/genre/blues"
+      "when": "Mon Nov 2 · 7 PM",
+      "start": "2026-11-02T19:00",
+      "end": "2026-11-02T22:00",
+      "address": "319 N Tarragona St, Pensacola, FL 32501",
+      "source": "https://www.eventworld.com/night-moves-pensacola-tickets-11-02-2026/event/538175"
     },
     {
       "kind": "free",
-      "band": "Kirstie Kraus",
-      "venue": "Flora-Bama (Dome Stage)",
-      "town": "Perdido Key",
-      "when": "Fri Nov 6 · 6 PM",
-      "start": "2026-11-06T18:00",
-      "end": "2026-11-06T21:00",
-      "address": "17401 Perdido Key Dr, Pensacola, FL 32507",
-      "source": "https://bandsintown.com/c/pensacola-fl/all-dates/genre/blues",
-      "tag": "Frank Brown International Songwriters' Festival"
+      "band": "John Common Band",
+      "venue": "Great Gulfcoast Arts Festival (Seville Square)",
+      "town": "Pensacola",
+      "when": "Fri Nov 6 · 11 AM",
+      "start": "2026-11-06T11:00",
+      "end": "2026-11-06T13:00",
+      "source": "https://www.ggaf.org/page/music",
+      "free": true,
+      "tag": "Great Gulfcoast Arts Festival",
+      "details": "Main Stage. Festival admission is free. No pets."
     },
     {
       "kind": "free",
-      "band": "The Bennett Hall Band",
-      "venue": "Flora-Bama",
-      "town": "Perdido Key",
-      "when": "Sat Nov 7 · 5:20 PM",
-      "start": "2026-11-07T17:20",
-      "end": "2026-11-07T20:20",
-      "address": "17401 Perdido Key Dr, Pensacola, FL 32507",
-      "source": "https://bandsintown.com/v/10053661-flora-bama"
+      "band": "Jeffery Broussard & the Creole Cowboys",
+      "venue": "Great Gulfcoast Arts Festival (Seville Square)",
+      "town": "Pensacola",
+      "when": "Sat Nov 7 · 3:30 PM",
+      "start": "2026-11-07T15:30",
+      "end": "2026-11-07T17:00",
+      "source": "https://www.ggaf.org/page/music",
+      "free": true,
+      "tag": "Great Gulfcoast Arts Festival",
+      "details": "Main Stage. Festival admission is free. No pets."
+    },
+    {
+      "kind": "concert",
+      "band": "Nik Parr & The Selfless Lovers",
+      "venue": "Odd Colony Brewing Company",
+      "town": "Pensacola",
+      "when": "Sat Nov 7 · 7:30 PM",
+      "start": "2026-11-07T19:30",
+      "end": "2026-11-07T22:30",
+      "source": "https://www.eventworld.com/nik-parr-and-the-selfless-lovers-pensacola-tickets-11-07-2026/event/544560"
+    },
+    {
+      "kind": "free",
+      "band": "Blue Cactus",
+      "venue": "Great Gulfcoast Arts Festival (Seville Square)",
+      "town": "Pensacola",
+      "when": "Sun Nov 8 · 12 PM",
+      "start": "2026-11-08T12:00",
+      "end": "2026-11-08T13:30",
+      "source": "https://www.ggaf.org/page/music",
+      "free": true,
+      "tag": "Great Gulfcoast Arts Festival",
+      "details": "Main Stage. Festival admission is free. No pets."
+    },
+    {
+      "kind": "concert",
+      "band": "AJJ",
+      "venue": "The Handlebar",
+      "town": "Pensacola",
+      "when": "Sun Nov 8 · 8 PM",
+      "start": "2026-11-08T20:00",
+      "end": "2026-11-08T23:00",
+      "address": "319 N Tarragona St, Pensacola, FL 32501",
+      "source": "https://www.eventworld.com/ajj-pensacola-tickets-11-08-2026/event/533173"
+    },
+    {
+      "kind": "concert",
+      "band": "White Tie Rock Ensemble",
+      "venue": "Blue Wahoos Stadium",
+      "town": "Pensacola",
+      "when": "Fri Nov 13 · 7 PM",
+      "start": "2026-11-13T19:00",
+      "end": "2026-11-13T22:00",
+      "address": "351 W Cedar St, Pensacola, FL 32502",
+      "source": "https://www.milb.com/pensacola/news/white-tie-rock-2026",
+      "tag": "Hits and Home Runs: A Night of Classic Rock",
+      "details": "Tickets through the Blue Wahoos box office. Field tables, club seats, reserved seats and standing room."
+    },
+    {
+      "kind": "concert",
+      "band": "Chrissy Chlapecka",
+      "venue": "The Handlebar",
+      "town": "Pensacola",
+      "when": "Sat Nov 14 · 8 PM",
+      "start": "2026-11-14T20:00",
+      "end": "2026-11-14T23:00",
+      "address": "319 N Tarragona St, Pensacola, FL 32501",
+      "source": "https://www.tickpick.com/buy-chrissy-chlapecka-tickets-handlebar-pensacola-11-14-26-8pm/8116603/"
     }
   ]
 }

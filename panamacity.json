@@ -1,83 +1,28 @@
 {
   "_readme": "What's Good Local weekly show feed for Panama City. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "shows": [
     {
       "kind": "free",
+      "band": "Steven Theriot",
+      "venue": "Peddlers Pavilion",
+      "town": "Panama City Beach",
+      "when": "Fri Oct 30 · 9:30 AM",
+      "start": "2026-10-30T09:30",
+      "end": "2026-10-30T12:30",
+      "address": "10343 E County Hwy 30A, Panama City Beach, FL 32413",
+      "source": "https://www.songkick.com/concerts/42992860-steven-theriot-at-peddlers-pavilion"
+    },
+    {
+      "kind": "free",
       "band": "Jared Herzog",
-      "venue": "The Pearl",
-      "town": "Rosemary Beach",
-      "when": "Mon Oct 19 · 6 PM",
-      "start": "2026-10-19T18:00",
-      "end": "2026-10-19T21:00",
-      "address": "63 Main St, Rosemary Beach, FL 32461",
-      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
-    },
-    {
-      "kind": "free",
-      "band": "Ronnie Randolph Acoustic Entertainment",
-      "venue": "Mango Marley's",
+      "venue": "Peddlers Pavilion",
       "town": "Panama City Beach",
-      "when": "Wed Oct 21 · 7 PM",
-      "start": "2026-10-21T19:00",
-      "end": "2026-10-21T22:00",
-      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
-    },
-    {
-      "kind": "free",
-      "band": "Cat Ridgeway and the Tourists",
-      "venue": "Marina Lawn",
-      "town": "Panama City",
-      "when": "Thu Oct 22 · 7 PM",
-      "start": "2026-10-22T19:00",
-      "end": "2026-10-22T22:00",
-      "address": "7 Harrison Ave, Panama City, FL 32401",
-      "source": "https://destinationpanamacity.com/annual-event/backstage-pass/",
-      "tag": "Backstage Pass concert series",
-      "free": true
-    },
-    {
-      "kind": "free",
-      "band": "Kinder Gentler",
-      "with": "Vallencourt",
-      "venue": "Mosey's Downtown",
-      "town": "Panama City",
-      "when": "Thu Oct 22 · 7 PM",
-      "start": "2026-10-22T19:00",
-      "end": "2026-10-22T22:00",
-      "source": "https://www.bandsintown.com/en/c/panama-city-fl",
-      "tag": "Pre-Fest punk show"
-    },
-    {
-      "kind": "free",
-      "band": "Frank Fletcher",
-      "venue": "Ms Newby's Liquors",
-      "town": "Panama City Beach",
-      "when": "Fri Oct 23 · 8 PM",
-      "start": "2026-10-23T20:00",
-      "end": "2026-10-23T23:00",
-      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
-    },
-    {
-      "kind": "free",
-      "band": "John Hart Project",
-      "venue": "Papa Surf Burger Bar",
-      "town": "Inlet Beach",
-      "when": "Sat Oct 24 · 6 PM",
-      "start": "2026-10-24T18:00",
-      "end": "2026-10-24T21:00",
-      "source": "https://www.bandsintown.com/en/c/panama-city-fl"
-    },
-    {
-      "kind": "free",
-      "band": "Frank Fletcher",
-      "venue": "The Dive",
-      "town": "Panama City",
-      "when": "Wed Oct 28 · 6:30 PM",
-      "start": "2026-10-28T18:30",
-      "end": "2026-10-28T21:30",
-      "address": "1118 Bayview Ave, Panama City, FL",
-      "source": "https://www.bandsintown.com/c/callaway-fl/all-dates/genre/alternative"
+      "when": "Sat Oct 31 · 6 PM",
+      "start": "2026-10-31T18:00",
+      "end": "2026-10-31T21:30",
+      "address": "10343 E County Hwy 30A, Panama City Beach, FL 32413",
+      "source": "https://www.songkick.com/concerts/43443049-jared-herzog-at-peddlers-pavilion"
     },
     {
       "kind": "free",
@@ -94,13 +39,29 @@
     },
     {
       "kind": "free",
-      "band": "Drosera",
-      "venue": "Mosey's Downtown",
+      "band": "Steven Theriot",
+      "venue": "Peddlers Pavilion",
+      "town": "Panama City Beach",
+      "when": "Fri Nov 13 · 9:30 AM",
+      "start": "2026-11-13T09:30",
+      "end": "2026-11-13T12:30",
+      "address": "10343 E County Hwy 30A, Panama City Beach, FL 32413",
+      "source": "https://www.songkick.com/concerts/42992862-steven-theriot-at-peddlers-pavilion"
+    },
+    {
+      "kind": "concert",
+      "band": "Panama City Symphony",
+      "with": "Benjamin Sung (violin)",
+      "venue": "St. Andrew Baptist Church",
       "town": "Panama City",
-      "when": "Sun Nov 8 · 6 PM",
-      "start": "2026-11-08T18:00",
-      "end": "2026-11-08T21:00",
-      "source": "https://bandsintown.com/c/panama-city-beach-fl/all-dates/genre/punk"
+      "when": "Sat Nov 14 · 7 PM",
+      "start": "2026-11-14T19:00",
+      "end": "2026-11-14T22:00",
+      "address": "Beck Ave and 15th St, Panama City, FL",
+      "source": "https://panamacitysymphony.org/product/piazzollas-four-seasons-of-buenos-aires/",
+      "tickets": "https://www.eventbrite.com/e/1990427558408",
+      "tag": "Piazzolla's Four Seasons of Buenos Aires",
+      "details": "Program of Turina, Piazzolla and Shchedrin, conducted by Alex Amsel."
     }
   ]
 }
