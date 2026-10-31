@@ -75,6 +75,35 @@ participating locations," confirm the Destin-area location takes part before lis
 - Anything you can't confirm on the source.
 - Hype, or any commentary on a business. Neutral and factual only.
 
+## Partners & click tracking (go.php)
+
+Some businesses here are WGL partners. On each partner deal set `"partner": true` and `"go": "<code>"`,
+where `<code>` is that business's offer code in `go.php` (the WGL redirect + scan logger). The Crazy
+Good Deals page and the in-room TV both route a partner's button/QR through
+`go.php?h=destin&s=deals&o=<code>` (web) or `s=tv` (TV), so go.php logs the click and stamps the
+merchant's own UTM. Non-partner deals keep their direct `source` link; the page logs those with a
+`sendBeacon` to go.php, so every click still counts on the `s=deals` surface. Keep `source` itself
+clean (the real business page) — it's what gets re-verified each week; the `go` code drives tracking.
+
+Carry `partner` and `go` across every weekly refresh (match on the business if a name changes):
+
+| Business | go code |
+|---|---|
+| Auston's on 98 | `austons98` |
+| Jester Mardi Gras Daiquiris | `jester` |
+| Pelican Parasail | `pelicanparasail` |
+| Pelican Snorkeling Adventure | `pelicansnorkel` |
+| Screaming Eagle Dolphin Tours | `screamingeagle` |
+| Buccaneer Pirate Cruise | `buccaneer` |
+| Southern Star Dolphin Cruise | `southernstar` |
+| HarborWalk Adventures | `harborwalk` |
+| Sandestin Golf | `sandestingolf` |
+| Baytowne on Ice | `baytowne` |
+| Wednesday Night Concert Series | `baytowneconcerts` |
+
+New partners: add the business's `go.php` `$DEST` code, then set `partner`/`go` here. Do not invent a
+`go` code that isn't in go.php — an unknown code redirects to the go.php default, not the business.
+
 ## Writing style
 
 Neutral and factual. American spelling. Do not mention Okaloosa County's text-alert service. Do
@@ -119,5 +148,7 @@ not make any claim about paid versus unpaid placement. Keep `deal` short and con
 - `featured`: `true` floats a deal to the top of its category. This is a business decision set
   here, not a judgment about the deal.
 - `location`, `days`, `hours`, `link` (booking/menu button), `phone` are optional.
+- `partner` (`true`) and `go` (the go.php offer code) are optional — set both only for the confirmed
+  partners in the table above. They drive the go.php click tracking; omit for everyone else.
 - Every link starts with `https://`. Sort `deals` by category then name. Keep the JSON valid
   (check it with `python3 -m json.tool`).
