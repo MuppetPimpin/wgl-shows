@@ -150,5 +150,19 @@ not make any claim about paid versus unpaid placement. Keep `deal` short and con
 - `location`, `days`, `hours`, `link` (booking/menu button), `phone` are optional.
 - `partner` (`true`) and `go` (the go.php offer code) are optional — set both only for the confirmed
   partners in the table above. They drive the go.php click tracking; omit for everyone else.
+- `img` (optional): an `https://` card image for the deal. The Crazy Good Deals page and the in-room
+  TV deck both show it on the deal's card; with no `img` the card shows the 🔥 placeholder. **Carry
+  `img` across every weekly refresh** — match on the business if a name changes, and never drop it.
+  Only add a new `img` when you have a real image URL for that business; never invent one.
 - Every link starts with `https://`. Sort `deals` by category then name. Keep the JSON valid
   (check it with `python3 -m json.tool`).
+
+## Card images (`img`)
+
+Card art lives on Bunny CDN under `https://beachsmart.b-cdn.net/cards%20done/<file>`, where `<file>`
+is the URL-encoded filename (spaces → `%20`, a curly apostrophe `’` → `%E2%80%99`, a comma → `%2C`).
+Example: `AJ’s Bayou Happy Hour.webp` → `https://beachsmart.b-cdn.net/cards%20done/AJ%E2%80%99s%20Bayou%20Happy%20Hour.webp`.
+These are set once and preserved on every refresh. The weekly task does not need to add images; it
+only keeps the `img` already on a deal. A few deals have no card yet (currently Auston's on 98,
+Screaming Eagle Dolphin Tours, HarborWalk Adventures, Shrimp Basket, Shrimp Basket - Happy Hour) —
+leave `img` off those until a real image exists.
