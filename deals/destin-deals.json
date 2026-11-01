@@ -289,6 +289,7 @@
       "valid_through": "",
       "featured": true,
       "source": "https://www.austonson98.com/",
+      "img": "https://wgl-img.b-cdn.net/austons_fallback.webp",
       "checked": "2026-08-25",
       "link": "",
       "phone": "",
@@ -729,6 +730,7 @@
       "valid_through": "",
       "featured": true,
       "source": "https://harborwalkadventures.com/#deals",
+      "img": "https://wgl-img.b-cdn.net/top%20rail/harborwalk_adventures.png",
       "checked": "2026-10-30",
       "link": "",
       "phone": "",
@@ -858,6 +860,7 @@
       "valid_through": "",
       "featured": false,
       "source": "https://shrimpbasket.com/promo/",
+      "img": "https://tv.whatsgoodlocal.com/wp-content/uploads/2026/07/ayce_card.webp",
       "checked": "2026-10-30",
       "link": "",
       "phone": ""
@@ -875,6 +878,7 @@
       "valid_through": "",
       "featured": false,
       "source": "https://shrimpbasket.com/promo/",
+      "img": "https://wgl-img.b-cdn.net/top%20rail/shrimp_basket_happy_hour.png",
       "checked": "2026-10-30",
       "link": "",
       "phone": ""

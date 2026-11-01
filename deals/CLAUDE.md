@@ -163,6 +163,5 @@ Card art lives on Bunny CDN under `https://beachsmart.b-cdn.net/cards%20done/<fi
 is the URL-encoded filename (spaces → `%20`, a curly apostrophe `’` → `%E2%80%99`, a comma → `%2C`).
 Example: `AJ’s Bayou Happy Hour.webp` → `https://beachsmart.b-cdn.net/cards%20done/AJ%E2%80%99s%20Bayou%20Happy%20Hour.webp`.
 These are set once and preserved on every refresh. The weekly task does not need to add images; it
-only keeps the `img` already on a deal. A few deals have no card yet (currently Auston's on 98,
-Screaming Eagle Dolphin Tours, HarborWalk Adventures, Shrimp Basket, Shrimp Basket - Happy Hour) —
-leave `img` off those until a real image exists.
+only keeps the `img` already on a deal. One deal has no card yet (Screaming Eagle Dolphin Tours) —
+leave `img` off it until a real image exists.
