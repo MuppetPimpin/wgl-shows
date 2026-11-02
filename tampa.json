@@ -1,33 +1,7 @@
 {
   "_readme": "What's Good Local weekly show feed for Tampa. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "shows": [
-    {
-      "kind": "concert",
-      "band": "Damon Fowler & Friends",
-      "venue": "Skipper's Smokehouse",
-      "town": "Tampa",
-      "when": "Fri Oct 30 · 8 PM",
-      "start": "2026-10-30T20:00",
-      "end": "2026-10-30T23:00",
-      "address": "910 Skipper Rd, Tampa, FL 33613",
-      "source": "https://www.eventworld.com/damon-fowler-tickets/performer/24617",
-      "tag": "2026 Freaker's Ball: The Big Uneasy"
-    },
-    {
-      "kind": "free",
-      "band": "Between Bluffs",
-      "venue": "Dunedin Brewery",
-      "town": "Dunedin",
-      "when": "Sat Oct 31 · 8 PM",
-      "start": "2026-10-31T20:00",
-      "end": "2026-10-31T23:00",
-      "source": "https://dunedinbrewery.com/live-music-calendar",
-      "tag": "Back From The Dead Halloween Show",
-      "details": "Free admission.",
-      "drive": "Dunedin, just north of Clearwater",
-      "free": true
-    },
     {
       "kind": "concert",
       "band": "Sawyer Hill",
@@ -37,21 +11,20 @@
       "start": "2026-11-04T19:00",
       "end": "2026-11-04T23:00",
       "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://thatssotampa.com/event/sawyer-hill/",
-      "tickets": "https://sawyerhill26.eventbrite.com",
-      "details": "Tickets $25."
+      "source": "https://happeningnext.com/event/sawyer-hill-eid1ef0l0g4civa"
     },
     {
-      "kind": "concert",
-      "band": "Dana and Alden",
-      "venue": "New World Music Hall",
-      "town": "Tampa",
-      "when": "Thu Nov 5 · 7 PM",
-      "start": "2026-11-05T19:00",
-      "end": "2026-11-05T23:00",
-      "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://thatssotampa.com/venue/new-world-tampa-music-hall",
-      "details": "Tickets $22 to $25."
+      "kind": "free",
+      "band": "Clave Cafe",
+      "venue": "Dunedin Brewery",
+      "town": "Dunedin",
+      "when": "Fri Nov 6 · 8 PM",
+      "start": "2026-11-06T20:00",
+      "end": "2026-11-06T23:00",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "details": "Free admission.",
+      "drive": "Dunedin, just north of Clearwater",
+      "free": true
     },
     {
       "kind": "concert",
@@ -92,27 +65,18 @@
       "drive": "Safety Harbor, east of Clearwater"
     },
     {
-      "kind": "concert",
-      "band": "Sweet Pill",
-      "venue": "New World Music Hall",
-      "town": "Tampa",
-      "when": "Mon Nov 9 · 7 PM",
-      "start": "2026-11-09T19:00",
-      "end": "2026-11-09T21:00",
-      "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://www.visittampabay.com/tampa-events/details/sweet-pill-tampa/101325/",
-      "url": "https://www.newworldtampa.com/events/sweet-pill-and-more-tba"
-    },
-    {
-      "kind": "concert",
-      "band": "First to Eleven",
-      "venue": "New World Music Hall",
-      "town": "Tampa",
-      "when": "Tue Nov 10 · 8 PM",
-      "start": "2026-11-10T20:00",
-      "end": "2026-11-10T23:00",
-      "address": "810 E Skagway Ave, Tampa, FL 33604",
-      "source": "https://www.tickpick.com/buy-first-to-eleven-tickets-new-world-brewery-11-10-26-8pm/8149891/"
+      "kind": "free",
+      "band": "Good Gourd!",
+      "with": "Pressed For Luck, Defrauded",
+      "venue": "Dunedin Brewery (Moon Tower)",
+      "town": "Dunedin",
+      "when": "Tue Nov 10 · 6:30 PM",
+      "start": "2026-11-10T18:30",
+      "end": "2026-11-10T21:30",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "tag": "Taco Tuesday Punk Rock Show",
+      "details": "$10.",
+      "drive": "Dunedin, just north of Clearwater"
     },
     {
       "kind": "concert",
@@ -125,9 +89,45 @@
       "end": "2026-11-13T22:00",
       "address": "615 2nd Ave NE, St. Petersburg, FL 33701",
       "source": "https://www.visitstpeteclearwater.com/event/fin-fest-st-pete/63237",
-      "tickets": "https://www.eventliveus.com/event/10438/fl-fin-fest-st-pete-2026",
-      "tag": "Florida Fin Fest, day one",
+      "tag": "Fin Fest St. Pete, day one",
       "details": "Concert area open 2 to 10 PM. Single-day and two-day passes; children 12 and under free with a paid guardian."
+    },
+    {
+      "kind": "concert",
+      "band": "Deer Tick",
+      "with": "DUG",
+      "venue": "Bayboro Brewing Co.",
+      "town": "St. Petersburg",
+      "when": "Fri Nov 13 · 7 PM",
+      "start": "2026-11-13T19:00",
+      "end": "2026-11-13T23:00",
+      "address": "2390 5th Ave S, St. Petersburg, FL 33712",
+      "source": "https://happeningnext.com/event/deer-tick-eid1ef0kuavw5mr"
+    },
+    {
+      "kind": "free",
+      "band": "Row Jomah",
+      "venue": "Dunedin Brewery",
+      "town": "Dunedin",
+      "when": "Fri Nov 13 · 8 PM",
+      "start": "2026-11-13T20:00",
+      "end": "2026-11-13T23:00",
+      "source": "https://dunedinbrewery.com/live-music-calendar",
+      "details": "Free admission.",
+      "drive": "Dunedin, just north of Clearwater",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "Holywatr",
+      "venue": "Zodiac",
+      "town": "Tampa",
+      "when": "Fri Nov 13 · 8 PM",
+      "start": "2026-11-13T20:00",
+      "end": "2026-11-13T23:00",
+      "address": "1507 E 7th Ave, Tampa, FL 33605",
+      "source": "https://songkick.com/concerts/43275413-holywatr-at-zodiac",
+      "details": "Doors 8 PM. Tickets from $25."
     },
     {
       "kind": "concert",
@@ -140,8 +140,7 @@
       "end": "2026-11-14T22:00",
       "address": "615 2nd Ave NE, St. Petersburg, FL 33701",
       "source": "https://www.visitstpeteclearwater.com/event/fin-fest-st-pete/63237",
-      "tickets": "https://www.eventliveus.com/event/10438/fl-fin-fest-st-pete-2026",
-      "tag": "Florida Fin Fest, day two",
+      "tag": "Fin Fest St. Pete, day two",
       "details": "Concert area open 2 to 10 PM. Children 12 and under free with a paid guardian."
     },
     {
@@ -153,7 +152,7 @@
       "start": "2026-11-14T20:00",
       "end": "2026-11-14T23:00",
       "source": "https://dunedinbrewery.com/live-music-calendar",
-      "details": "Free admission. Followed by a blues jam tied to the Dunedin Wines The Blues festival.",
+      "details": "Free admission.",
       "drive": "Dunedin, just north of Clearwater",
       "free": true
     },
