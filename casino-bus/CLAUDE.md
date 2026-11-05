@@ -1,6 +1,8 @@
 # casino-bus/: the daily casino bus feed for What's Good Local
 
-One file, `casino-bus/trips.json`: upcoming Good Time Tours casino bus trips from Pensacola to Biloxi.
+One file, `casino-bus/trips.json`: upcoming Good Time Tours casino bus trips to Biloxi from every pickup
+(Pensacola, plus Mary Esther, Navarre and Loxley once the "Other pickups" tab is published and its CSV
+link is set as `OTHER_CSV_URL` in `build.py`).
 
 ## How it updates (no AI, no weekly task)
 
@@ -31,7 +33,8 @@ The hub page (whatsgoodlocal.com/casino-bus-trips/) and the casino guides read t
   "updated": "YYYY-MM-DD",
   "hub": "https://whatsgoodlocal.com/casino-bus-trips/",
   "reserve_phone": "(850) 476-0046 ext. 0",
-  "next": { ...first trip in "trips", or null... },
+  "next": { ...first Pensacola trip in "trips", or null... },
+  "pickups": ["Navarre", "Pensacola", ...],
   "trips": [
     {
       "date": "2026-11-12", "day": "Thursday",
@@ -39,7 +42,8 @@ The hub page (whatsgoodlocal.com/casino-bus-trips/) and the casino guides read t
       "departs": "9:00 AM", "start": "2026-11-12T09:00",
       "leave_casino": "4:30 PM", "returns": "6:30 PM",
       "fare": "$30", "free_play": "$20", "free_buffet": true,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": "..."
     }
   ]
@@ -49,4 +53,6 @@ The hub page (whatsgoodlocal.com/casino-bus-trips/) and the casino guides read t
 - `start` is local Central time, `YYYY-MM-DDTHH:MM`. The feed is built once a day, so a reader
   showing "next bus" should skip trips whose `start` has already passed.
 - `free_buffet` is true for Thursday/Friday morning trips whose sheet note mentions the buffet.
+- One trip per pickup: the same bus day from Mary Esther and Navarre is two entries. Filter by `pickup`.
+- Fares differ by pickup ($30 Pensacola and Loxley, $40 Mary Esther and Navarre as of Nov 2026).
 - Free play, fares and the buffet offer come from the Good Time Tours flyer and can change.

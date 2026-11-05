@@ -1,5 +1,5 @@
 {
-  "_readme": "What's Good Local casino bus feed: upcoming Good Time Tours trips from Pensacola to Biloxi. Built every morning by .github/workflows/casino-bus.yml from the Casino Trips sheet; see casino-bus/CLAUDE.md.",
+  "_readme": "What's Good Local casino bus feed: upcoming Good Time Tours trips from Pensacola to Biloxi. Built every morning by .github/workflows/casino-bus.yml from the Casino Trips sheet (Pensacola tab + Other pickups tab); see casino-bus/CLAUDE.md.",
   "updated": "2026-11-04",
   "hub": "https://whatsgoodlocal.com/casino-bus-trips/",
   "reserve_phone": "(850) 476-0046 ext. 0",
@@ -15,9 +15,13 @@
     "fare": "$30",
     "free_play": "$20",
     "free_buffet": false,
-    "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+    "pickup": "Pensacola",
+    "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
     "notes": ""
   },
+  "pickups": [
+    "Pensacola"
+  ],
   "trips": [
     {
       "date": "2026-11-04",
@@ -31,7 +35,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -46,7 +51,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -61,7 +67,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -76,7 +83,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": true,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
     },
     {
@@ -91,7 +99,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -106,7 +115,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -121,7 +131,8 @@
       "fare": "$30",
       "free_play": "$15",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -136,7 +147,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -151,7 +163,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": true,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
     },
     {
@@ -166,7 +179,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -181,7 +195,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -196,7 +211,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -211,7 +227,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -226,7 +243,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": true,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
     },
     {
@@ -241,7 +259,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -256,7 +275,8 @@
       "fare": "$30",
       "free_play": "$20",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     },
     {
@@ -271,7 +291,8 @@
       "fare": "$30",
       "free_play": "$15",
       "free_buffet": false,
-      "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+      "pickup": "Pensacola",
+      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
       "notes": ""
     }
   ]

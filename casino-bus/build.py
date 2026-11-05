@@ -14,7 +14,10 @@ from datetime import datetime, timedelta, timezone
 CSV_URL = ("https://docs.google.com/spreadsheets/d/e/"
            "2PACX-1vQnYBtC2oWBJEZlAqrcWWJgkWxjNxfe1w337KqXps_Qa58RhUNV3LRUVAXjDqyuCyeIB7khsQsxRrVs"
            "/pub?gid=0&single=true&output=csv")
+# The "Other pickups" tab (Mary Esther, Navarre, Loxley). Leave "" until that tab is published.
+OTHER_CSV_URL = ""
 OUT = "casino-bus/trips.json"
+PICKUP_ADDRESS = {"pensacola": "Good Time Tours, 8084 North Davis Hwy, Pensacola"}
 HUB = "https://whatsgoodlocal.com/casino-bus-trips/"
 CASINOS = {
     "ip casino":   ("IP Casino",   "https://whatsgoodlocal.com/casinos/ip-casino-biloxi/"),
@@ -47,15 +50,27 @@ def to24(t):
 
 
 def main():
-    if len(sys.argv) > 1:
-        text = open(sys.argv[1], encoding="utf-8").read()
-    else:
-        req = urllib.request.Request(CSV_URL, headers={"User-Agent": "wgl-shows casino-bus feed"})
-        text = urllib.request.urlopen(req, timeout=60).read().decode("utf-8")
+    def fetch(url):
+        req = urllib.request.Request(url, headers={"User-Agent": "wgl-shows casino-bus feed"})
+        return urllib.request.urlopen(req, timeout=60).read().decode("utf-8")
 
-    rows = list(csv.DictReader(io.StringIO(text)))
+    # Local test: build.py main.csv [other.csv]
+    main_text = open(sys.argv[1], encoding="utf-8").read() if len(sys.argv) > 1 else fetch(CSV_URL)
+    rows = list(csv.DictReader(io.StringIO(main_text)))
     if not rows or "casino" not in rows[0]:
         sys.exit("Sheet came back without a casino column; leaving the feed unchanged.")
+    other_text = ""
+    if len(sys.argv) > 2:
+        other_text = open(sys.argv[2], encoding="utf-8").read()
+    elif OTHER_CSV_URL:
+        try:
+            other_text = fetch(OTHER_CSV_URL)
+        except Exception as e:  # the Pensacola feed still builds if this tab is unreachable
+            print("Other pickups tab unreachable:", e)
+    if other_text:
+        other = list(csv.DictReader(io.StringIO(other_text)))
+        if other and "casino" in other[0]:
+            rows += other
 
     today = central_today()
     trips = []
@@ -70,6 +85,8 @@ def main():
         key = next((k for k in CASINOS if k in casino.lower()), None)
         name, page = CASINOS[key] if key else (casino, HUB)
         notes = r.get("notes", "")
+        pickup = r.get("pickup_location", "") or "Pensacola"
+        address = r.get("pickup_address", "") or PICKUP_ADDRESS.get(pickup.lower(), "")
         day = r.get("day", "")
         buffet = bool(re.search(r"buffet", notes, re.I)) and day[:3].lower() in ("thu", "fri") \
             and dep < "12:00"
@@ -85,18 +102,20 @@ def main():
             "fare": r.get("bus_cost", "") or "$30",
             "free_play": r.get("chips", ""),
             "free_buffet": buffet,
-            "pickup": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
+            "pickup": pickup,
+            "pickup_address": address,
             "notes": notes,
         })
-    trips.sort(key=lambda t: t["start"])
+    trips.sort(key=lambda t: (t["start"], t["pickup"]))
 
     feed = {
         "_readme": "What's Good Local casino bus feed: upcoming Good Time Tours trips from Pensacola to Biloxi. "
-                   "Built every morning by .github/workflows/casino-bus.yml from the Casino Trips sheet; see casino-bus/CLAUDE.md.",
+                   "Built every morning by .github/workflows/casino-bus.yml from the Casino Trips sheet (Pensacola tab + Other pickups tab); see casino-bus/CLAUDE.md.",
         "updated": today,
         "hub": HUB,
         "reserve_phone": "(850) 476-0046 ext. 0",
-        "next": trips[0] if trips else None,
+        "next": next((t for t in trips if t["pickup"] == "Pensacola"), None),
+        "pickups": sorted({t["pickup"] for t in trips}),
         "trips": trips,
     }
     new = json.dumps(feed, indent=2, ensure_ascii=False) + "\n"
