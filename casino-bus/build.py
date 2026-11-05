@@ -15,7 +15,9 @@ CSV_URL = ("https://docs.google.com/spreadsheets/d/e/"
            "2PACX-1vQnYBtC2oWBJEZlAqrcWWJgkWxjNxfe1w337KqXps_Qa58RhUNV3LRUVAXjDqyuCyeIB7khsQsxRrVs"
            "/pub?gid=0&single=true&output=csv")
 # The "Other pickups" tab (Mary Esther, Navarre, Loxley). Leave "" until that tab is published.
-OTHER_CSV_URL = ""
+OTHER_CSV_URL = ("https://docs.google.com/spreadsheets/d/e/"
+                 "2PACX-1vQnYBtC2oWBJEZlAqrcWWJgkWxjNxfe1w337KqXps_Qa58RhUNV3LRUVAXjDqyuCyeIB7khsQsxRrVs"
+                 "/pub?gid=867986559&single=true&output=csv")
 OUT = "casino-bus/trips.json"
 PICKUP_ADDRESS = {"pensacola": "Good Time Tours, 8084 North Davis Hwy, Pensacola"}
 HUB = "https://whatsgoodlocal.com/casino-bus-trips/"

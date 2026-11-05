@@ -2,7 +2,7 @@
 
 One file, `casino-bus/trips.json`: upcoming Good Time Tours casino bus trips to Biloxi from every pickup
 (Pensacola, plus Mary Esther, Navarre and Loxley once the "Other pickups" tab is published and its CSV
-link is set as `OTHER_CSV_URL` in `build.py`).
+link is set as `OTHER_CSV_URL` in `build.py`; set Nov 4, 2026, tab gid 867986559).
 
 ## How it updates (no AI, no weekly task)
 
