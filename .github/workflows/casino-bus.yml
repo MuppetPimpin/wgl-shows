@@ -1,0 +1,31 @@
+name: Casino bus feed
+
+on:
+  schedule:
+    - cron: "30 12 * * *"   # every day, 6:30 AM CST / 7:30 AM CDT (after the 6 AM sheet update)
+  workflow_dispatch: {}      # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build casino-bus/trips.json
+        run: python3 casino-bus/build.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- casino-bus/trips.json && git ls-files --error-unmatch casino-bus/trips.json >/dev/null 2>&1; then
+            echo "Feed unchanged."
+            exit 0
+          fi
+          git config user.name "wgl-casino-bus-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add casino-bus/trips.json
+          git commit -m "Casino bus feed: $(date -u +%Y-%m-%d)"
+          git push
