@@ -1,17 +1,17 @@
 {
   "_readme": "What's Good Local casino bus feed: upcoming Good Time Tours trips from Pensacola to Biloxi. Built every morning by .github/workflows/casino-bus.yml from the Casino Trips sheet (Pensacola tab + Other pickups tab); see casino-bus/CLAUDE.md.",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "hub": "https://whatsgoodlocal.com/casino-bus-trips/",
   "reserve_phone": "(850) 476-0046 ext. 0",
   "next": {
-    "date": "2026-11-04",
-    "day": "Wednesday",
-    "casino": "IP Casino",
-    "casino_page": "https://whatsgoodlocal.com/casinos/ip-casino-biloxi/",
-    "departs": "9:00 AM",
-    "start": "2026-11-04T09:00",
-    "leave_casino": "4:30 PM",
-    "returns": "6:30 PM",
+    "date": "2026-11-08",
+    "day": "Sunday",
+    "casino": "Beau Rivage",
+    "casino_page": "https://whatsgoodlocal.com/casinos/beau-rivage-from-florida/",
+    "departs": "1:00 PM",
+    "start": "2026-11-08T13:00",
+    "leave_casino": "8:30 PM",
+    "returns": "10:30 PM",
     "fare": "$30",
     "free_play": "$20",
     "free_buffet": false,
@@ -26,38 +26,6 @@
     "Pensacola"
   ],
   "trips": [
-    {
-      "date": "2026-11-04",
-      "day": "Wednesday",
-      "casino": "IP Casino",
-      "casino_page": "https://whatsgoodlocal.com/casinos/ip-casino-biloxi/",
-      "departs": "9:00 AM",
-      "start": "2026-11-04T09:00",
-      "leave_casino": "4:30 PM",
-      "returns": "6:30 PM",
-      "fare": "$30",
-      "free_play": "$20",
-      "free_buffet": false,
-      "pickup": "Pensacola",
-      "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
-      "notes": ""
-    },
-    {
-      "date": "2026-11-04",
-      "day": "Wednesday",
-      "casino": "IP Casino",
-      "casino_page": "https://whatsgoodlocal.com/casinos/ip-casino-biloxi/",
-      "departs": "9:30 AM",
-      "start": "2026-11-04T09:30",
-      "leave_casino": "4:30 PM",
-      "returns": "6:00 PM",
-      "fare": "$30",
-      "free_play": "$20",
-      "free_buffet": false,
-      "pickup": "Loxley",
-      "pickup_address": "",
-      "notes": ""
-    },
     {
       "date": "2026-11-08",
       "day": "Sunday",
@@ -184,7 +152,7 @@
       "free_buffet": true,
       "pickup": "Pensacola",
       "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
-      "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
+      "notes": "Free Lunch Buffet and $20 free play at Boomtown"
     },
     {
       "date": "2026-11-13",
@@ -360,7 +328,7 @@
       "free_buffet": true,
       "pickup": "Pensacola",
       "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
-      "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
+      "notes": "Free Lunch Buffet and $20 free play at Boomtown"
     },
     {
       "date": "2026-11-21",
@@ -520,7 +488,7 @@
       "free_buffet": true,
       "pickup": "Pensacola",
       "pickup_address": "Good Time Tours, 8084 North Davis Hwy, Pensacola",
-      "notes": "Free Lunch Buffet and $20 free play at Boomtown on Thursday and Friday morning"
+      "notes": "Free Lunch Buffet and $20 free play at Boomtown"
     },
     {
       "date": "2026-11-27",
