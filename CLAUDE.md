@@ -14,6 +14,9 @@ edits a hand-picked show.**
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
 
+The `ufc/` folder is a separate feed (the UFC fight schedule, refreshed Monday and Thursday) with its
+own rules in `ufc/CLAUDE.md`. The live music task never touches it.
+
 The `casino-bus/` folder is a separate feed (daily casino bus trips, built automatically by a GitHub
 Action from the Casino Trips sheet) with its own notes in `casino-bus/CLAUDE.md`. No scheduled task
 touches it.
