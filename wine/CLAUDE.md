@@ -22,7 +22,9 @@ Every event needs a `source`: an https link to the organizer's, venue's or offic
 destinvacation.com, beachguide.com, rental blogs) are leads only. They have printed wrong dates
 before (Nov 6, 2026: one listed Seeing Red as Nov 5–15 when the festival page says Nov 5–8, and the
 Pensacola Beach Art & Wine Festival in November when it's held in May). Open the organizer's page and
-confirm. SoWal.com event pages count as a source only when they're the dated listing for that exact
+confirm. A venue's or organizer's own Instagram post that states the date counts as a source (cloud runs can't
+open Instagram, so keep any Instagram-sourced entry until its date passes unless another source cancels it).
+SoWal.com event pages count as a source only when they're the dated listing for that exact
 date. If the date can't be confirmed, leave the event out. A wrong date is worse than a missing event.
 
 ## Window and area
