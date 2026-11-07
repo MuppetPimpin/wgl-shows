@@ -53,7 +53,8 @@ confirms it.
 
 ## Recurring events
 
-Wine walks repeat (e.g. Grayton's third Thursday). Add **one entry per confirmed date** and only for
+Wine walks repeat (Grayton: third Thursday, $25, Shacks Art. Gulf Place: fourth Thursday, free,
+Spires Lane, per @gulfplace on Instagram, June 22, 2026; check gulfplaceon30a.com for a dated post). Add **one entry per confirmed date** and only for
 dates a source actually lists. Don't project a pattern forward.
 
 ## Writing style
