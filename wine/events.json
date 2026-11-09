@@ -1,26 +1,7 @@
 {
   "_readme": "What's Good Local wine events feed (whatsgoodlocal.com/wine-tasting/). Written by the weekly scheduled task; see wine/CLAUDE.md in github.com/MuppetPimpin/wgl-shows.",
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "events": [
-    {
-      "kind": "Festival",
-      "event": "Seeing Red Wine Festival",
-      "venue": "Seaside",
-      "town": "Seaside",
-      "address": "121 Central Sq, Santa Rosa Beach, FL 32459",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-08",
-      "time": "Times vary by event",
-      "start": "2026-11-05T18:00",
-      "cost": "See tickets",
-      "ages": "21+",
-      "featured": true,
-      "blurb": "Four days of wine in Seaside: a vintner dinner, a reserve tasting, the Grand Tasting and a Celebration of Bubbles brunch.",
-      "tickets": "",
-      "source": "https://www.bigtickets.com/events/seeingredwinefestival/2026/",
-      "drive": "",
-      "notes": "34th year"
-    },
     {
       "kind": "Tasting",
       "event": "J.McLaughlin Holiday Wine Tasting",
