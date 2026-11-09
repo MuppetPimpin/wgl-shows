@@ -1,54 +1,18 @@
 {
   "_readme": "What's Good Local weekly show feed for Panama City. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "shows": [
     {
       "kind": "free",
-      "band": "Panama City Songwriters Festival",
-      "venue": "Historic Downtown Panama City",
+      "band": "Jeffrey Bouet & The Barefoot Gimlets",
+      "venue": "Little Village",
       "town": "Panama City",
-      "when": "Fri Nov 6 · 5 PM",
-      "start": "2026-11-06T17:00",
-      "end": "2026-11-06T20:00",
-      "source": "https://sowal.com/node/155115",
-      "tag": "8th annual festival, Nov 6–7",
-      "details": "Original songs by local, regional and national songwriters in downtown galleries and performance spaces. Continues Sat Nov 7 at 5 PM. VIP tickets available."
-    },
-    {
-      "kind": "free",
-      "band": "Webb Wilder Band",
-      "venue": "The Pavilion at Watersound Town Center",
-      "town": "Inlet Beach",
-      "when": "Fri Nov 6 · 6 PM",
-      "start": "2026-11-06T18:00",
-      "end": "2026-11-06T20:00",
-      "address": "85 Origins Main St, Inlet Beach, FL 32461",
-      "source": "https://sowal.com/node/158982",
-      "tag": "First Friday Concert Series",
-      "free": true
-    },
-    {
-      "kind": "free",
-      "band": "Panama City Songwriters Festival",
-      "venue": "Historic Downtown Panama City",
-      "town": "Panama City",
-      "when": "Sat Nov 7 · 5 PM",
-      "start": "2026-11-07T17:00",
-      "end": "2026-11-07T20:00",
-      "source": "https://sowal.com/node/158442",
-      "tag": "8th annual festival, Nov 6–7",
-      "details": "Original songs by local, regional and national songwriters in downtown galleries and performance spaces. VIP tickets available."
-    },
-    {
-      "kind": "free",
-      "band": "TooTall & Tanita",
-      "venue": "Patches Pub & Grill",
-      "town": "Panama City Beach",
-      "when": "Sat Nov 7 · 5 PM",
-      "start": "2026-11-07T17:00",
-      "end": "2026-11-07T21:00",
-      "address": "4723 Thomas Dr, Panama City Beach, FL",
-      "source": "https://allevents.in/panama-city-beach/patches-pub-and-grill-panama-city-beach-with-tootallandtanita-most-mediocre-music/200030534095132"
+      "when": "Fri Nov 13 · 6 PM",
+      "start": "2026-11-13T18:00",
+      "end": "2026-11-13T21:00",
+      "address": "2808 W 12th St, Panama City, FL 32401",
+      "source": "https://happeningnext.com/event/vintage-night-with-jeffrey-bouet-andamp-the-barefoot-gimlets-at-little-village-eid3a0e4ia8d4",
+      "tag": "Vintage Night"
     },
     {
       "kind": "free",
@@ -73,9 +37,32 @@
       "end": "2026-11-14T22:00",
       "address": "Beck Ave and 15th St, Panama City, FL",
       "source": "https://panamacitysymphony.org/product/piazzollas-four-seasons-of-buenos-aires/",
-      "tickets": "https://www.eventbrite.com/e/1990427558408",
+      "tickets": "https://www.eventbrite.com/e/piazzollas-four-seasons-of-buenos-aires-tickets-1990427558408",
       "tag": "Piazzolla's Four Seasons of Buenos Aires",
       "details": "Program of Turina, Piazzolla and Shchedrin, conducted by Alex Amsel."
+    },
+    {
+      "kind": "free",
+      "band": "Nick Yarborough",
+      "venue": "Shades Bar & Grill",
+      "town": "Inlet Beach",
+      "when": "Wed Nov 18 · 7 PM",
+      "start": "2026-11-18T19:00",
+      "end": "2026-11-18T22:00",
+      "address": "10952 E County Hwy 30A, Inlet Beach, FL 32461",
+      "source": "https://allevents.in/rosemary-bch/live-music-featuring-nick-yarborough/200030777502452"
+    },
+    {
+      "kind": "free",
+      "band": "Scratch 2020",
+      "venue": "The Salty Goat Saloon",
+      "town": "Panama City Beach",
+      "when": "Thu Nov 19 · 8 PM",
+      "start": "2026-11-19T20:00",
+      "end": "2026-11-19T23:00",
+      "address": "13006 Front Beach Rd, Panama City Beach, FL",
+      "source": "https://allevents.in/panama-city-beach/live-salty-goat-saloon/200030936297758",
+      "tag": "Top 40 and variety band"
     }
   ]
 }
