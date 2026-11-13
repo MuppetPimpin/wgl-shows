@@ -25,6 +25,23 @@ If the date can't be confirmed, leave the event out. A wrong date is worse than 
   Niceville (Mattie Kelly Arts Center), Santa Rosa Beach / 30A. Seaside and 30A only for bigger events.
 - Aim for 25–50 events. Prefer variety across categories and days over many listings from one venue.
 
+## HarborWalk Village and Destin Harbor (read by two more pages)
+
+The HarborWalk pages (whatsgoodlocal.com/harborwalk-village/ and the HarborWalk Village events post) read
+this file too. They pick up every event whose `venue` contains "HarborWalk Village", "Destin Harbor" or
+"Emerald Grande", so:
+
+- For HarborWalk Village and Destin Harbor events only, look **60 days out** instead of 21 (holiday events,
+  the lighted boat parade, Noon Year's Eve and New Year's Eve get planned weeks ahead).
+- Write `venue` exactly as "HarborWalk Village" for anything in the village, and "Destin Harbor" for events
+  on the water (the boat parade). Don't use other spellings like "Harborwalk" or "Harbor Walk".
+- Check every week: the Visit Destin-Fort Walton Beach listings (destinfwb.com/event/...), the Destin History
+  & Fishing Museum (boat parade), the Destin Chamber calendar, HarborWalk's own pages at emeraldgrande.com,
+  and HarborWalk ticket pages. destinmiramar.com and other rental-company pages are leads only; they have
+  printed old years' dates.
+- Mark the big ones `featured: true` (they get their own card on the HarborWalk events post).
+- A second event on the same day is its own entry (Noon Year's Eve and New Year's Eve are two events).
+
 ## Categories (use exactly these)
 
 `Holiday` · `Comedy` · `Stage` · `Family` · `Tastings` · `Markets`
