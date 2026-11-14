@@ -1,0 +1,100 @@
+{
+  "_readme": "What's Good Local food truck feed. Read by the Best Food Trucks pages (one page per area). Hours h: index 0=Sun..6=Sat; \"HHMM-HHMM\" = open those times, \"*\" = there that day (times vary / until sold out), \"\" = closed, missing h = hours unknown. Every truck needs a src link. See foodtrucks/CLAUDE.md.",
+  "updated": "2026-11-14",
+  "areas": {
+    "destin": {
+      "name": "Destin",
+      "hubs": [
+        {"id":"harborwalk","name":"HarborWalk Village carts","address":"10 Harbor Blvd, Destin, FL 32541","what":"Walk-up carts and stalls along the harbor boardwalk","trucks":["Say Cheese (grilled cheese)","Fry Guy (loaded fries)","Drizzle (desserts)","Wine Not FL (wine ice cream)"],"src":"https://www.foodtrucksgulfcoast.com/florida/destin/"},
+        {"id":"destinbrewery","name":"Destin Brewery","address":"505 Mountain Dr, Destin, FL 32541","what":"Brewery that regularly hosts a food truck","trucks":["Rotating truck: check the brewery's page for today's"],"src":"https://www.restaurantji.com/fl/destin/food-trucks/"}
+      ],
+      "trucks": [
+        {"name":"Taqueria El Rinconcito","food":"Street tacos, birria, tortas, pozole","tags":["tacos"],"type":"parked","address":"307 Mountain Dr, Destin, FL 32541","phone":"8508228641","h":["1100-2100","1100-2100","1100-2100","1100-2100","1100-2100","1100-2200","1100-2200"],"note":"Salsa bar, indoor and outdoor seating","src":"https://www.restaurantji.com/fl/destin/taqueria-el-rinconcito-/"},
+        {"name":"Tacos Angel","food":"Birria tacos, steak quesadillas, loaded fries","tags":["tacos"],"type":"parked","address":"1125 US-98, Destin, FL 32541","phone":"8504994244","h":["1130-2000","1130-2000","","1130-2000","1130-2000","1130-2100","1130-2100"],"note":"Outdoor tables","src":"https://www.restaurantji.com/fl/destin/tacos-angel-destin-/"},
+        {"name":"Zemer","food":"Shawarma wraps and bowls, burgers, wings","tags":["global"],"type":"parked","address":"331 Harbor Blvd, Destin, FL 32541","note":"Near the harbor, outdoor seating","src":"https://www.foodtrucksgulfcoast.com/florida/destin/"},
+        {"name":"Kalye At Kusina","food":"Filipino: inasal, sisig, lumpia, halo-halo","tags":["global"],"type":"parked","address":"1007 US-98, Destin, FL 32541","note":"Small batches, often sells out","src":"https://www.yelp.com/biz/kalye-at-kusina-destin"},
+        {"name":"E Shack","food":"Alabama beef burgers, loaded bites","tags":["burgers"],"type":"parked","address":"1209 Airport Rd Suite 9, Destin, FL 32541","order":"https://www.toasttab.com/local/e-shack-1209-airport-rd-suite-9/r-cb796a75-aea3-4f80-8745-2106e774aad6","src":"https://www.toasttab.com/local/e-shack-1209-airport-rd-suite-9/r-cb796a75-aea3-4f80-8745-2106e774aad6"},
+        {"name":"Royal Rednecks Food Truck","food":"Royal red shrimp tacos, Gulf seafood","tags":["seafood","tacos"],"type":"parked","address":"Matthew Blvd, Destin, FL 32541","h":["*","","*","*","","*","*"],"src":"https://www.foodtrucksgulfcoast.com/florida/destin/"}
+      ],
+      "near": ["fwb:florida-place","miramar:hidden-dunes"]
+    },
+    "fwb": {
+      "name": "Fort Walton Beach",
+      "hubs": [
+        {"id":"florida-place","name":"Florida Place truck lot","address":"211 Florida Pl SE, Fort Walton Beach, FL 32548","what":"Downtown lot in a converted car wash with coffee, breakfast and bowl trucks","trucks":["Sunset Bowls (acai)","Coffee and breakfast trucks"],"src":"https://wanderlog.com/place/details/1198592"}
+      ],
+      "trucks": [
+        {"name":"Sunset Bowls","food":"Acai bowls and smoothies","tags":["sweet"],"type":"parked","address":"211 Florida Pl SE, Fort Walton Beach, FL 32548","phone":"8505821706","h":["0700-1700","0700-1500","","0700-1500","0700-1500","0700-1700","0700-1700"],"src":"https://wanderlog.com/place/details/1198592"},
+        {"name":"2 Bros & A Chick","food":"Fried catfish, pork chops, wings, soul food platters","tags":["southern"],"type":"parked","address":"701 Beal Pkwy NW, Fort Walton Beach, FL 32547","phone":"8503629589","h":["","1100-1800","1100-1800","1100-1800","1100-1800","1100-1800",""],"note":"Call ahead for pickup","web":"https://www.2brosandachick.com/","src":"https://www.2brosandachick.com/"},
+        {"name":"A & A Spice Is Life","food":"Birria ramen, breakfast tacos, Cubans, muffulettas","tags":["global","tacos"],"type":"parked","address":"237 Troy St NE, Fort Walton Beach, FL 32548","src":"https://www.restaurantji.com/fl/destin/food-trucks/"},
+        {"name":"The Rican Vegan","food":"Puerto Rican-style vegan, gluten-free options","tags":["global"],"type":"parked","address":"400 Eglin Pkwy, Fort Walton Beach, FL 32547","src":"https://www.restaurantji.com/fl/destin/food-trucks/"},
+        {"name":"Yoyo's Thai Food Truck","food":"Thai street food","tags":["global"],"type":"parked","address":"1285 Eglin Pkwy, Shalimar, FL 32579","drive":"Shalimar, about 10 minutes north","src":"https://www.restaurantji.com/fl/destin/food-trucks/"},
+        {"name":"El Cubanazo","food":"Miami-style Cuban sandwiches and plates","tags":["global"],"type":"parked","address":"Lowe's parking lot, Fort Walton Beach, FL","note":"Open six days a week","src":"https://www.foodtrucksgulfcoast.com/florida/fort-walton-beach/"},
+        {"name":"Phantom Tacos","food":"Birria tacos, birria ramen","tags":["tacos"],"type":"parked","address":"101 W Miracle Strip Pkwy, Mary Esther, FL 32569","drive":"Mary Esther, a few minutes west","src":"https://www.foodtrucksgulfcoast.com/florida/fort-walton-beach/"},
+        {"name":"Rhody Brothers of Florida","food":"Rhode Island wieners, smash burgers","tags":["burgers"],"type":"parked","address":"Mary Esther, FL 32569","drive":"Mary Esther, a few minutes west","note":"Fixed lot with a patio","src":"https://www.foodtrucksgulfcoast.com/florida/fort-walton-beach/"}
+      ],
+      "near": ["destin:harborwalk"]
+    },
+    "miramar": {
+      "name": "Miramar Beach & Sandestin",
+      "hubs": [
+        {"id":"hidden-dunes","name":"Food Truck Friday at Hidden Dunes","address":"12340 Emerald Coast Pkwy, Miramar Beach, FL 32550","what":"Friday food truck stop","trucks":["Stanley's Street Treats"],"src":"https://www.foodtrucksgulfcoast.com/florida/miramar-beach/"}
+      ],
+      "trucks": [
+        {"name":"Stanley's Street Treats","food":"Softshell crab BLTs, Southern sandwiches, sliders","tags":["seafood","southern"],"type":"rotates","address":"12340 Emerald Coast Pkwy, Miramar Beach, FL 32550","h":["","","","","","*",""],"note":"Fridays at Hidden Dunes, roams Walton and Okaloosa the rest of the week","src":"https://www.foodtrucksgulfcoast.com/florida/miramar-beach/"},
+        {"name":"Pudgy Pineapple Grill","food":"Burgers, shrimp tacos","tags":["burgers","seafood"],"type":"parked","address":"Camp Gulf, Miramar Beach, FL 32550","note":"Parked at Camp Gulf","src":"https://www.foodtrucksgulfcoast.com/florida/miramar-beach/"}
+      ],
+      "near": ["santarosa:airstream-row","destin:harborwalk"]
+    },
+    "santarosa": {
+      "name": "Santa Rosa Beach & 30A",
+      "hubs": [
+        {"id":"airstream-row","name":"Airstream Row, Seaside","address":"Airstream Row, Seaside, FL 32459","what":"A row of vintage Airstream trucks on 30A in Seaside","trucks":["The Meltdown on 30A (grilled cheese)","Wild Bill's Beach Dogs","Frost Bites (shave ice)","Crepes du Soleil","Barefoot BBQ","Mr. Gyro Hero","The Green Stream (acai)","Raw & Juicy","Wild Nectar (juice)"],"note":"Most trucks open late morning into the evening; hours shift by season","src":"https://sowal.co/seaside-airstream-row-food-truck-guide/"}
+      ],
+      "trucks": [
+        {"name":"The Meltdown on 30A","food":"Gourmet grilled cheese, mac and cheese","tags":["burgers"],"type":"parked","address":"Airstream Row, Seaside, FL 32459","h":["1100-2100","1100-2100","1100-2100","1100-2100","1100-2100","1100-2100","1100-2100"],"note":"On the row for 15 years","src":"https://seasidefl.com/news/airstream-row/"},
+        {"name":"Taco 30A","food":"Tacos, burritos, quesadillas","tags":["tacos"],"type":"parked","address":"Hwy 98, Santa Rosa Beach, FL 32459","h":["","*","*","*","*","*",""],"note":"Weekday lunch and dinner","src":"https://www.foodtrucksgulfcoast.com/florida/santa-rosa-beach/"}
+      ],
+      "near": ["miramar:hidden-dunes"]
+    },
+    "navarre": {
+      "name": "Navarre",
+      "hubs": [],
+      "trucks": [
+        {"name":"Tiki Tacos","food":"Blackened grouper, citrus shrimp and mahi tacos","tags":["seafood","tacos"],"type":"parked","address":"Navarre Pkwy, two blocks east of the Walmart light, Navarre, FL 32566","h":["","","1030-1500","1030-1500","1030-1500","1030-1500","1030-1500"],"note":"Closes when the day's catch sells out","src":"https://navbeach.com/tiki-tacos-navarres-trailblazing-seafood-taco-truck-revealed/"}
+      ],
+      "near": ["pensacola:the-eatery"]
+    },
+    "pensacola": {
+      "name": "Pensacola",
+      "hubs": [
+        {"id":"the-eatery","name":"The Eatery","address":"1713 Woodlawn Way, Gulf Breeze, FL 32563","what":"Food truck park with two dog parks and a pavilion, up to 7 trucks","trucks":["Shan Kishi (sushi)","Beach Bumz (smash burgers)","Memphis Rollin (BBQ)","Cutie Patootie (charcuterie)"],"note":"Truck hours vary. Check their Facebook for today's lineup","web":"https://www.theeatery.us/","fb":"https://www.facebook.com/TheEateryGB","src":"https://www.theeatery.us/food-trucks"},
+        {"id":"the-garden","name":"The Garden at Palafox + Main","address":"501 S Palafox St, Pensacola, FL 32502","what":"Downtown food truck garden with Airstreams, kiosks and a patio bar","trucks":["BOCA Latin Kitchen","MELT (sandwiches, mac and cheese)","Calavera Tacos","Esaan Thai"],"h":["1000-2100","1000-2100","1000-2100","1000-2100","1000-2100","1000-2100","1000-2100"],"note":"Airstreams 11 AM to 9 PM. Happy hour 3 to 6 PM weekdays","phone":"8505124565","web":"https://thegardenpensacola.com/","order":"https://thegardenpensacola.com/order","src":"https://thegardenpensacola.com/"},
+        {"id":"truxtop","name":"Truxtop Food Court","address":"2541 Gulf Breeze Pkwy, Gulf Breeze, FL 32563","what":"Food court with resident trucks and a rotating spot","trucks":["Greek's Catering","Waffle Boutique","Hector's Mexican Grill"],"note":"Lineup from 2023. Confirm on their Facebook","src":"https://www.yahoo.com/lifestyle/gulf-breeze-welcomes-first-round-090914953.html"}
+      ],
+      "trucks": [
+        {"name":"Smash 'N' Dash","food":"Smash burgers, smoked wings, BBQ","tags":["burgers","bbq"],"type":"parked","address":"1919 Creighton Rd, Pensacola, FL 32504","h":["*","*","*","*","*","*","*"],"order":"https://www.doordash.com/store/smash-n-dash-pensacola-30840856","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"Big Boned BBQ","food":"Smoked BBQ","tags":["bbq"],"type":"rotates","address":"608 E Wright St, Pensacola, FL 32501","note":"Also rotates through local truck parks","src":"https://www.facebook.com/TheEateryGB"},
+        {"name":"MI SU Street Food","food":"Mexican-style smash burgers","tags":["burgers","tacos"],"type":"parked","address":"9 E Gregory St, Pensacola, FL 32502","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"Sauce Boss Burger Co","food":"Smash burgers, wings","tags":["burgers"],"type":"parked","address":"The Handlebar, downtown Pensacola, FL","note":"Open until 10 PM on weekends","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"Greazy Burger","food":"Smash burgers","tags":["burgers"],"type":"parked","address":"W Michigan Ave, Pensacola, FL","h":["*","","*","*","*","*","*"],"note":"Parked with Something Asian","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"Something Asian","food":"Hawaiian-inspired Asian BBQ","tags":["global","bbq"],"type":"parked","address":"W Michigan Ave, Pensacola, FL","h":["*","","*","*","*","*","*"],"src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"El Camino Tacos","food":"Steak and wagyu tacos","tags":["tacos"],"type":"parked","address":"Garden & Grain, behind Perfect Plain Brewing, downtown Pensacola, FL","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"},
+        {"name":"The Deep Blue Seafood Truck","food":"Gulf seafood","tags":["seafood"],"type":"parked","address":"13595 Perdido Key Dr, Pensacola, FL 32507","drive":"Perdido Key","src":"https://www.foodtrucksgulfcoast.com/florida/pensacola/"}
+      ],
+      "near": []
+    },
+    "pcb": {
+      "name": "Panama City Beach",
+      "hubs": [],
+      "trucks": [
+        {"name":"Taco Doctors","food":"Birria tacos, Cuban sandwiches","tags":["tacos"],"type":"parked","address":"2317 Thomas Dr, Panama City Beach, FL 32408","h":["","","*","*","*","",""],"note":"Tuesday to Thursday until sold out","src":"https://www.foodtrucksgulfcoast.com/florida/panama-city-beach/"},
+        {"name":"Back Beach Barbecue","food":"BBQ","tags":["bbq"],"type":"parked","address":"19714 Panama City Beach Pkwy, Panama City Beach, FL 32413","src":"https://members.pcbeach.org/directory/Search/food-trucks-286891"},
+        {"name":"Beach Tacos 850","food":"Street tacos, served from a boat","tags":["tacos"],"type":"boat","address":"Shell Island, Panama City Beach, FL","note":"Floats off Shell Island. Wave them down from the beach","src":"https://www.foodtrucksgulfcoast.com/florida/panama-city-beach/"},
+        {"name":"Crepe and Cream","food":"Sweet and savory crepes","tags":["sweet"],"type":"rotates","address":"Idyll Hounds Brewing, Panama City Beach, FL","h":["*","","*","","","","*"],"note":"Rotates between The Taproom, St. Andrews Market and Idyll Hounds","src":"https://www.foodtrucksgulfcoast.com/florida/panama-city-beach/"},
+        {"name":"Soo Trucking Delicious","food":"Smash burgers, fish tacos","tags":["burgers","seafood"],"type":"parked","address":"Harrison Ave, Panama City, FL","drive":"Downtown Panama City, about 25 minutes","h":["","","","*","","","*"],"src":"https://www.foodtrucksgulfcoast.com/florida/panama-city-beach/"}
+      ],
+      "near": []
+    }
+  }
+}

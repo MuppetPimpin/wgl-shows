@@ -20,6 +20,9 @@ own rules in `ufc/CLAUDE.md`. The live music task never touches it.
 The `wine/` folder is a separate feed (dated wine events for the wine tasting page, refreshed every
 Monday) with its own rules in `wine/CLAUDE.md`. The live music task never touches it.
 
+The `foodtrucks/` folder is a separate feed (the Best Food Trucks pages, updated by hand for now) with its
+own rules in `foodtrucks/CLAUDE.md`. The live music task never touches it.
+
 The `casino-bus/` folder is a separate feed (daily casino bus trips, built automatically by a GitHub
 Action from the Casino Trips sheet) with its own notes in `casino-bus/CLAUDE.md`. No scheduled task
 touches it.
