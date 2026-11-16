@@ -1,95 +1,7 @@
 {
   "_readme": "What's Good Local weekly show feed for Destin. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "shows": [
-    {
-      "kind": "free",
-      "band": "Pineapple Express Steel Drum Duo",
-      "venue": "LuLu's Destin",
-      "town": "Destin",
-      "when": "Mon Nov 9 · 5 PM",
-      "start": "2026-11-09T17:00",
-      "end": "2026-11-09T21:00",
-      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
-      "source": "https://lulusfunfoodmusic.com/venue/destin/"
-    },
-    {
-      "kind": "free",
-      "band": "The Red Bar Jazz Band",
-      "venue": "The Red Bar",
-      "town": "Grayton Beach",
-      "when": "Tue Nov 10 · 5:30 PM",
-      "start": "2026-11-10T17:30",
-      "end": "2026-11-10T21:00",
-      "address": "70 Hotz Ave, Santa Rosa Beach, FL 32459",
-      "drive": "On 30A, about 30 min east of Destin",
-      "source": "https://new.sowal.com/event/the-red-bar-jazz-band-343"
-    },
-    {
-      "kind": "free",
-      "band": "Flow Tribe",
-      "venue": "Seaside Amphitheater",
-      "town": "Seaside",
-      "tag": "Sounds of Seaside",
-      "details": "Free admission. All ages.",
-      "when": "Wed Nov 11 · 4 PM",
-      "start": "2026-11-11T16:00",
-      "end": "2026-11-11T18:00",
-      "address": "Central Square, Seaside, FL 32459",
-      "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/sounds-of-seaside-13",
-      "free": true
-    },
-    {
-      "kind": "free",
-      "band": "Ronnie Presley",
-      "venue": "LuLu's Destin",
-      "town": "Destin",
-      "when": "Thu Nov 12 · 5 PM",
-      "start": "2026-11-12T17:00",
-      "end": "2026-11-12T21:00",
-      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
-      "source": "https://lulusfunfoodmusic.com/venue/destin/"
-    },
-    {
-      "kind": "free",
-      "band": "Jared Herzog",
-      "venue": "The Shrimp Shack & Boardwalk Bar",
-      "town": "Seaside",
-      "when": "Fri Nov 13 · 4 PM",
-      "start": "2026-11-13T16:00",
-      "end": "2026-11-13T19:00",
-      "address": "2236 E County Hwy 30A, Seaside, FL 32459",
-      "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/jared-herzog-the-shrimp-shack-boardwalk-bar-2"
-    },
-    {
-      "kind": "concert",
-      "band": "Northwest Florida Symphony Orchestra",
-      "with": "The Swon Brothers, NFSO Chorale",
-      "venue": "Mattie Kelly Arts Center, Mainstage Theater",
-      "town": "Niceville",
-      "tag": "Voices of Freedom: An America 250 Celebration",
-      "details": "$35 adults, $16 ages 18 and under.",
-      "when": "Sat Nov 14 · 7 PM",
-      "start": "2026-11-14T19:00",
-      "end": "2026-11-14T21:00",
-      "address": "100 College Blvd E, Niceville, FL 32578",
-      "drive": "About 30 min north of Destin",
-      "source": "https://mattiekellyartscenter.org/event/nfso-voices-of-freedom-an-america-250-celebration/",
-      "tickets": "https://mattiekellyartscenter.org/event/nfso-voices-of-freedom-an-america-250-celebration/"
-    },
-    {
-      "kind": "free",
-      "band": "Axl Steele Duo",
-      "venue": "LuLu's Destin",
-      "town": "Destin",
-      "when": "Sun Nov 15 · Noon",
-      "start": "2026-11-15T12:00",
-      "end": "2026-11-15T16:00",
-      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
-      "source": "https://lulusfunfoodmusic.com/venue/destin/"
-    },
     {
       "kind": "free",
       "band": "Roman Street",
@@ -102,7 +14,7 @@
       "end": "2026-11-18T18:00",
       "address": "Central Square, Seaside, FL 32459",
       "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/sounds-of-seaside-14",
+      "source": "https://sowal.com/node/156155",
       "free": true
     },
     {
@@ -110,36 +22,68 @@
       "band": "Coconut Radio",
       "venue": "LuLu's Destin",
       "town": "Destin",
-      "when": "Thu Nov 19 · 5 PM",
-      "start": "2026-11-19T17:00",
-      "end": "2026-11-19T21:00",
+      "when": "Thu Nov 19 · 4 PM",
+      "start": "2026-11-19T16:00",
+      "end": "2026-11-19T20:00",
       "address": "4607 Legendary Marina Dr, Destin, FL 32541",
-      "source": "https://lulusfunfoodmusic.com/venue/destin/"
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
     },
     {
       "kind": "free",
-      "band": "Emily Bass",
-      "venue": "The Shrimp Shack & Boardwalk Bar",
-      "town": "Seaside",
+      "band": "The 78s",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
       "when": "Fri Nov 20 · 4 PM",
       "start": "2026-11-20T16:00",
-      "end": "2026-11-20T19:00",
-      "address": "2236 E County Hwy 30A, Seaside, FL 32459",
-      "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/emily-bass-the-shrimp-shack-boardwalk-bar-0"
+      "end": "2026-11-20T20:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
+    },
+    {
+      "kind": "free",
+      "band": "Gypsy Pearl",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
+      "when": "Sat Nov 21 · 4 PM",
+      "start": "2026-11-21T16:00",
+      "end": "2026-11-21T20:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
+    },
+    {
+      "kind": "free",
+      "band": "Ronnie Presley",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
+      "when": "Sun Nov 22 · 1 PM",
+      "start": "2026-11-22T13:00",
+      "end": "2026-11-22T17:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
     },
     {
       "kind": "free",
       "band": "Mike Whitty & Friends",
       "venue": "The Bay",
       "town": "Santa Rosa Beach",
-      "tag": "Sunday Pickin'",
+      "tag": "The Sand Ole' Opry",
       "when": "Sun Nov 22 · 4 PM",
       "start": "2026-11-22T16:00",
       "end": "2026-11-22T20:00",
       "address": "2415 S Hwy 331, Santa Rosa Beach, FL 32459",
       "drive": "On Choctawhatchee Bay, about 30 min east of Destin",
       "source": "https://new.sowal.com/event/sunday-pickin-w-mike-whitty-friends-the-bay-95"
+    },
+    {
+      "kind": "free",
+      "band": "Axl Steele Duo",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
+      "when": "Tue Nov 24 · 4 PM",
+      "start": "2026-11-24T16:00",
+      "end": "2026-11-24T20:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
     },
     {
       "kind": "free",
@@ -153,8 +97,19 @@
       "end": "2026-11-25T18:00",
       "address": "Central Square, Seaside, FL 32459",
       "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/sounds-of-seaside-15",
+      "source": "https://sowal.com/node/156156",
       "free": true
+    },
+    {
+      "kind": "free",
+      "band": "John Keuler",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
+      "when": "Wed Nov 25 · 4 PM",
+      "start": "2026-11-25T16:00",
+      "end": "2026-11-25T20:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
     },
     {
       "kind": "free",
@@ -166,19 +121,30 @@
       "end": "2026-11-27T19:00",
       "address": "2236 E County Hwy 30A, Seaside, FL 32459",
       "drive": "On 30A, about 35 min east of Destin",
-      "source": "https://new.sowal.com/event/jared-herzog-pickles-sandbar-2"
+      "source": "https://sowal.com/node/159225"
     },
     {
       "kind": "free",
-      "band": "The Red Bar Jazz Band",
-      "venue": "The Red Bar",
-      "town": "Grayton Beach",
-      "when": "Sat Nov 28 · 5:30 PM",
-      "start": "2026-11-28T17:30",
-      "end": "2026-11-28T21:00",
-      "address": "70 Hotz Ave, Santa Rosa Beach, FL 32459",
-      "drive": "On 30A, about 30 min east of Destin",
-      "source": "https://new.sowal.com/event/the-red-bar-jazz-band-357"
+      "band": "Jeff Badarak",
+      "venue": "LuLu's Destin",
+      "town": "Destin",
+      "when": "Fri Nov 27 · 4 PM",
+      "start": "2026-11-27T16:00",
+      "end": "2026-11-27T20:00",
+      "address": "4607 Legendary Marina Dr, Destin, FL 32541",
+      "source": "https://lulusfunfoodmusic.com/musiccalendar/"
+    },
+    {
+      "kind": "free",
+      "band": "Zack Miller",
+      "venue": "The Shrimp Shack & Boardwalk Bar",
+      "town": "Seaside",
+      "when": "Fri Dec 4 · 4 PM",
+      "start": "2026-12-04T16:00",
+      "end": "2026-12-04T19:00",
+      "address": "2236 E County Hwy 30A, Seaside, FL 32459",
+      "drive": "On 30A, about 35 min east of Destin",
+      "source": "https://sowal.com/node/159215"
     }
   ]
 }
