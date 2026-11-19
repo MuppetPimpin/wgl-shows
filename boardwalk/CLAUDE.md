@@ -26,6 +26,14 @@ Aggregators and rental-company or listicle pages (pensacolabeach.com month round
 tripshock.com) are leads only: they have carried last year's dates. Open the organizer's page and confirm.
 If the date can't be confirmed, leave the event out. A wrong date is worse than a missing event.
 
+The Boardwalk's own Happenings page is https://www.pensacolabeachboardwalk.com/happenings/index.html.
+Check it first every run, and check the year on every date: as of Nov 19, 2026 it still showed the
+December 2025 schedule. Never copy a date from it unless the year printed is the current one. Its usual
+December lineup (watch for the new-year versions): Photos with Santa (Saturdays and Sundays), Jacoby's
+Sounds of the Season (Saturdays), Sip and Shop at Envie Boutique and at Ardor Boutique, Holiday Specials at
+Ardor Boutique, the Lighted Boat Parade (with a kids' pre-parade party, Santa at the Quietwater shell and
+fireworks over the Sound), and New Year's Eve fireworks at midnight.
+
 Holiday events are announced late. The Lighted Boat Parade, Surfin' Santa Parade, Photos with Santa and
 New Year's Eve fireworks only go in once a source states the current year's date. They also get rescheduled
 for weather (the 2025 boat parade moved from Dec 5 to Dec 12), so recheck them every run.
