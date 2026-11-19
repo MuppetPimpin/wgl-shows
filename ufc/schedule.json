@@ -1,6 +1,6 @@
 {
   "_readme": "What's Good Local UFC schedule. All times Central. Written by the Monday/Thursday scheduled task; see ufc/CLAUDE.md in github.com/MuppetPimpin/wgl-shows.",
-  "updated": "2026-11-16",
+  "updated": "2026-11-19",
   "events": [
     {
       "date": "2026-11-21",
@@ -77,8 +77,8 @@
       "venue": "Meta APEX",
       "city": "Las Vegas, NV",
       "early_prelims": null,
-      "prelims": "14:00",
-      "main_card": "16:00",
+      "prelims": "16:00",
+      "main_card": "19:00",
       "tv": "Paramount+",
       "source": "https://www.ufc.com/event/ufc-fight-night-january-23-2027"
     },
