@@ -7,3 +7,5 @@ Weekly live music feed for What's Good Local. One JSON file per city (`destin.js
 `ufc/schedule.json` is the UFC fight schedule for the Where to Watch UFC page, refreshed Monday and Thursday by a scheduled task (see `ufc/CLAUDE.md`).
 
 `wine/events.json` is the wine events feed for whatsgoodlocal.com/wine-tasting/ (wine walks, festivals, wine dinners and tastings), refreshed every Monday by a scheduled task (see `wine/CLAUDE.md`).
+
+`boardwalk/events.json` is the Pensacola Beach Boardwalk events feed for whatsgoodlocal.com/pensacola-beach-boardwalk/ (holiday events, festivals and named live music on the Boardwalk), refreshed every Monday by a scheduled task (see `boardwalk/CLAUDE.md`).
