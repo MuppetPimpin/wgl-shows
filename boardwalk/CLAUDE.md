@@ -27,8 +27,11 @@ tripshock.com) are leads only: they have carried last year's dates. Open the org
 If the date can't be confirmed, leave the event out. A wrong date is worse than a missing event.
 
 The Boardwalk's own Happenings page is https://www.pensacolabeachboardwalk.com/happenings/index.html.
-Check it first every run, and check the year on every date: as of Nov 19, 2026 it still showed the
-December 2025 schedule. Never copy a date from it unless the year printed is the current one. Its usual
+Check it first every run, and check the year on every date. WebFetch has returned an old cached copy of
+this page (the 2025 schedule) while the live page showed 2026; if the copy you get shows last year's
+dates, refetch it with a cache-busting query (…/happenings/index.html?v=YYYYMMDD) and try
+https://pensacolabeachboardwalk.com/happenings before concluding nothing is posted. Never copy a date
+from it unless the year printed is the current one. Its usual
 December lineup (watch for the new-year versions): Photos with Santa (Saturdays and Sundays), Jacoby's
 Sounds of the Season (Saturdays), Sip and Shop at Envie Boutique and at Ardor Boutique, Holiday Specials at
 Ardor Boutique, the Lighted Boat Parade (with a kids' pre-parade party, Santa at the Quietwater shell and
