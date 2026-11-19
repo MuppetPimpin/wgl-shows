@@ -45,6 +45,14 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
   - Tampa: Tampa, St. Petersburg, Clearwater, the beaches
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
+- **No more than 4 shows at any one venue** per city file.
+- **Pensacola:** the page sorts shows into areas (Pensacola, Pensacola Beach, Gulf Breeze & Navarre, Perdido Key),
+  so cover all of them, not just downtown. Every week check the beach and outlying venues' own calendars or
+  show pages: Bamboo Willie's, Flounder's Chowder House, Bounce Beach and Whiskey Joe's (Pensacola Beach
+  Boardwalk), Casino Beach Bar & Grille, Peg Leg Pete's, Paradise Bar & Grill, Red Fish Blue Fish, Sandshaker
+  Lounge, Juana's Pagodas (Navarre Beach) and Flora-Bama (Perdido Key). Set `town` to where the venue is
+  (Pensacola Beach, Gulf Breeze, Navarre, Perdido Key), never just "Pensacola", for those. A named act on a
+  dated night still needs a source that states the date.
 
 ## What to leave out
 
