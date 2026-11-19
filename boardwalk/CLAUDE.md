@@ -108,7 +108,8 @@ Never mention Okaloosa County's text-alert service. Leave anniversary numbers ("
 - `emoji`: one emoji for the calendar (🎸 live music, 🛥️ boat parade, 🎅 Santa, 🎆 fireworks, 🦞 crawfish,
   🛍️ shopping, 🎉 everything else).
 - `time`: short and readable ("6:30 PM", "10:30 AM–3:30 PM", "Midnight").
-- `cost`: as the source prints it ("Free", "$20"); `""` if not printed.
+- `cost`: as the source prints it ("Free", "$20"); `""` if not printed. Write exactly "Free" when the source says free or no cover.
+- `performer`: the named band or artist, only when the source names one (for Google's event listing).
 - `featured: true` for the big ones (boat parade, Surfin' Santa, New Year's Eve fireworks, Crawfish
   Festival). Max 5. Featured events also show in the page's "Coming up" list beyond the 14-day calendar.
 - `blurb`: one sentence, only facts from the source.
