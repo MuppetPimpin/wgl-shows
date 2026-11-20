@@ -26,6 +26,9 @@ own rules in `foodtrucks/CLAUDE.md`. The live music task never touches it.
 The `boardwalk/` folder is a separate feed (dated Pensacola Beach Boardwalk events, refreshed every
 Monday) with its own rules in `boardwalk/CLAUDE.md`. The live music task never touches it.
 
+The `casinos/` folder is a separate feed (dated shows and events at the Biloxi and Atmore casinos, refreshed
+every Monday) with its own rules in `casinos/CLAUDE.md`. The live music task never touches it.
+
 The `casino-bus/` folder is a separate feed (daily casino bus trips, built automatically by a GitHub
 Action from the Casino Trips sheet) with its own notes in `casino-bus/CLAUDE.md`. No scheduled task
 touches it.

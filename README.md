@@ -9,3 +9,5 @@ Weekly live music feed for What's Good Local. One JSON file per city (`destin.js
 `wine/events.json` is the wine events feed for whatsgoodlocal.com/wine-tasting/ (wine walks, festivals, wine dinners and tastings), refreshed every Monday by a scheduled task (see `wine/CLAUDE.md`).
 
 `boardwalk/events.json` is the Pensacola Beach Boardwalk events feed for whatsgoodlocal.com/pensacola-beach-boardwalk/ (holiday events, festivals and named live music on the Boardwalk), refreshed every Monday by a scheduled task (see `boardwalk/CLAUDE.md`).
+
+`casinos/events.json` is the casino events feed (shows, concerts and dated promotions at the Biloxi and Atmore casinos) for the WGL casino pages, refreshed every Monday by a scheduled task (see `casinos/CLAUDE.md`).
