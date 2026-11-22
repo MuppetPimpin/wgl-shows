@@ -7,7 +7,7 @@ Central Time, so one schedule serves them all.
 |---|---|
 | https://whatsgoodlocal.com/game-day/where-to-watch-football-in-destin/ | WordPress post |
 | https://whatsgoodlocal.com/pensacola/where-to-watch-football/ | static page on the server |
-| https://www.panamacity.whatsgoodlocal.com/where-to-watch-football/ | static page on the server |
+| https://whatsgoodlocal.com/panama-city-beach/where-to-watch-football/ | static page on the server |
 
 Each page fetches `schedule.json` from this repo and builds its scoreboard, "Watch parties this week",
 the streaming-only list and the "Big games ahead" table from it. **This folder only holds the

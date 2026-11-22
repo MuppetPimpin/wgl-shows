@@ -8,7 +8,7 @@ edits a hand-picked show.**
 |---|---|---|
 | `destin.json` | https://whatsgoodlocal.com/best-live-music-in-destin-tonight/ | the LOCAL_SHOWS list inside that page |
 | `pensacola.json` | https://whatsgoodlocal.com/pensacola/live-music/ | https://whatsgoodlocal.com/pensacola/live-music/shows.json |
-| `panamacity.json` | https://panamacity.whatsgoodlocal.com/live-music/ | https://panamacity.whatsgoodlocal.com/live-music/shows.json (and tootsies.php for Tootsie's) |
+| `panamacity.json` | https://whatsgoodlocal.com/panama-city-beach/live-music/ | https://whatsgoodlocal.com/panama-city-beach/live-music/shows.json (and tootsies.php for Tootsie's) |
 | `tampa.json` | https://tampa.whatsgoodlocal.com/live-music/ | https://tampa.whatsgoodlocal.com/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
