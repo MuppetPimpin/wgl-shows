@@ -1,6 +1,6 @@
 {
   "_readme": "What's Good Local Pensacola Beach Boardwalk events feed (whatsgoodlocal.com/pensacola-beach-boardwalk/). Written by the weekly scheduled task; see boardwalk/CLAUDE.md in github.com/MuppetPimpin/wgl-shows.",
-  "updated": "2026-11-19",
+  "updated": "2026-11-23",
   "events": [
     {
       "kind": "Holiday",
@@ -120,6 +120,20 @@
     {
       "kind": "Holiday",
       "emoji": "🎅",
+      "event": "Surfin' Santa Beach Parade",
+      "venue": "Via De Luna, Avenida 10 to Gulfside Pavilion",
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "time": "2 PM",
+      "start": "2026-12-06T14:00",
+      "cost": "",
+      "featured": true,
+      "blurb": "The parade starts at Avenida 10 and runs down Via De Luna toward Casino Beach, ending at the Gulfside Pavilion, with Santa Claus at the end.",
+      "source": "https://visitpensacolabeach.com/whats-happening-calendar/"
+    },
+    {
+      "kind": "Holiday",
+      "emoji": "🎅",
       "event": "Photos with Santa",
       "venue": "Pensacola Beach Boardwalk",
       "start_date": "2026-12-12",
@@ -172,6 +186,20 @@
       "featured": false,
       "blurb": "",
       "source": "https://www.pensacolabeachboardwalk.com/happenings/index.html"
+    },
+    {
+      "kind": "Holiday",
+      "emoji": "🎆",
+      "event": "New Year's Eve Fireworks",
+      "venue": "Pensacola Beach Boardwalk",
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "time": "Midnight",
+      "start": "",
+      "cost": "Free",
+      "featured": true,
+      "blurb": "Free fireworks at midnight over the Santa Rosa Sound from the Pensacola Beach Boardwalk.",
+      "source": "https://visitpensacolabeach.com/whats-happening-calendar/"
     }
   ]
 }
