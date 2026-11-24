@@ -1,6 +1,6 @@
 # wgl-shows: the weekly live music feed for What's Good Local
 
-Five files, one per city. Each city's live music page reads its file and adds those shows to the
+Six files, one per city. Each city's live music page reads its file and adds those shows to the
 hand-picked shows that live on the WGL server. **This repo only adds shows. It never removes or
 edits a hand-picked show.**
 
@@ -11,6 +11,7 @@ edits a hand-picked show.**
 | `panamacity.json` | https://whatsgoodlocal.com/panama-city-beach/live-music/ | https://whatsgoodlocal.com/panama-city-beach/live-music/shows.json (and tootsies.php for Tootsie's) |
 | `tampa.json` | https://tampa.whatsgoodlocal.com/live-music/ | https://tampa.whatsgoodlocal.com/live-music/shows.json |
 | `gulfshores.json` | https://whatsgoodlocal.com/gulf-shores/live-music/ | https://whatsgoodlocal.com/gulf-shores/live-music/shows.json |
+| `daytona.json` | https://whatsgoodlocal.com/daytona-beach/live-music/ | https://whatsgoodlocal.com/daytona-beach/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -54,6 +55,14 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     free concert series at The Wharf. Shows at the Orange Beach Amphitheater at The Wharf sold through
     Ticketmaster are left out (the page pulls those automatically). Set `town` to Gulf Shores, Orange Beach,
     Fort Morgan or Foley.
+  - Daytona Beach: Daytona Beach, Daytona Beach Shores, Ormond Beach, Ponce Inlet, New Smyrna Beach, Flagler Beach.
+    Check the beach bars and venues' own calendars every week: Ocean Deck (bands nightly, beach stage Fri–Sun),
+    Mai Tai Bar (Ocean Walk), The Beach Bucket (Ormond), Hard Rock Hotel Daytona Beach, Main Street Station and the
+    Main Street bars, Johnny D's (Flagler Beach), and the Flagler Avenue and Canal Street bars in New Smyrna. Free
+    Bandshell concerts count when a named act and date are posted. Peabody Auditorium, the Ocean Center and
+    Speedway shows sold through Ticketmaster are left out. Set `town` to the venue's town (Daytona Beach, Ormond
+    Beach, New Smyrna Beach, Flagler Beach, Ponce Inlet). Bike Week and Biketoberfest band lineups count when the
+    venue posts the act and date.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -106,7 +115,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City and Gulf Shores; Eastern for Tampa. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City and Gulf Shores; Eastern for Tampa and Daytona Beach. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
