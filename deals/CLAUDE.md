@@ -1,12 +1,20 @@
 # wgl-deals: the weekly deals feed for What's Good Local
 
-One file for now: `destin-deals.json`. The Crazy Good Deals page reads it and merges those
-deals with the hand-picked deals that live on the WGL server (the `LOCAL_DEALS` list inside the
-page). **This feed only adds confirmed deals. It never edits or removes a hand-picked deal.**
+One file per town. Each town's Crazy Good Deals page reads its file and merges those deals with the
+hand-picked deals that live inside the page (the `LOCAL_DEALS` list). **This feed only adds confirmed
+deals. It never edits or removes a hand-picked deal.**
 
 | File | Page that reads it | Hand-picked list on the server (read it, never write it) |
 |---|---|---|
 | `destin-deals.json` | https://whatsgoodlocal.com/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `daytona-deals.json` | https://whatsgoodlocal.com/daytona-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `galveston-deals.json` | https://whatsgoodlocal.com/galveston/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `staugustine-deals.json` | https://whatsgoodlocal.com/st-augustine/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `fortmyers-deals.json` | https://whatsgoodlocal.com/fort-myers/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `spacecoast-deals.json` | https://whatsgoodlocal.com/space-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+
+Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
+"Atlantic & Texas deals" task. Every rule below applies to every town file.
 
 This folder sits in the `wgl-shows` repo next to `football/`, and is refreshed by its own weekly
 scheduled task. The live-music and football tasks never touch it.
@@ -54,7 +62,10 @@ own standing deal, sourced to the operator. The only time a Groupon/Viator listi
 it as the operator's offer ("from about $X"), link the operator where possible, and re-check it each
 week, because it can change or sell out.
 
-**Known lead sources (hunting grounds — always verify on the provider before listing):**
+**Known lead sources (hunting grounds — always verify on the provider before listing).** The list
+below is Destin's. For the other towns, search for the same kinds of pages for that town (its
+Groupon, Valpak, Restaurant.com and SpotDeals pages, the town's visitor bureau deals page, and
+"happy hour" searches for the town), then verify every offer on the business's own page.
 - SweetDeals — https://www.sweetdeals.com/fort-walton
 - SpotDeals — https://spotdeals.app/deals/destin
 - Groupon (Destin) — https://www.groupon.com/local/destin-fl
@@ -73,11 +84,22 @@ participating locations," confirm the Destin-area location takes part before lis
 
 ## What to include
 
-- Standing or recurring deals in or near Destin — Destin, Miramar Beach, Sandestin/Baytowne,
-  Fort Walton Beach, Okaloosa Island, Niceville, Santa Rosa Beach/30A: happy hours, daily food
-  specials, BOGO, early-bird deals, and discounted tours and activities.
+- Standing or recurring deals in or near the town: happy hours, daily food specials, BOGO,
+  early-bird deals, and discounted tours and activities. Areas per file:
+  - Destin: Destin, Miramar Beach, Sandestin/Baytowne, Fort Walton Beach, Okaloosa Island, Niceville,
+    Santa Rosa Beach/30A.
+  - Daytona Beach: Daytona Beach, Daytona Beach Shores, Ormond Beach, Ponce Inlet, New Smyrna Beach,
+    Flagler Beach.
+  - Galveston: Galveston Island (the Strand, the Seawall, Pier 21, the West End).
+  - St. Augustine: downtown St. Augustine, Anastasia Island, St. Augustine Beach, Vilano Beach,
+    Ponte Vedra Beach.
+  - Fort Myers: Fort Myers Beach, Sanibel, Captiva, Bonita Beach, downtown Fort Myers.
+  - Space Coast: Cocoa Beach, Cape Canaveral and Port Canaveral, Cocoa Village, Merritt Island,
+    Satellite Beach, Melbourne.
+  Set `town` to the business's own town.
 - Three categories only: `Food`, `Drinks`, `Adventures`.
-- Up to ~40 deals. Prefer variety across towns and categories.
+- Up to ~40 deals for Destin, ~25 for each other town. Prefer variety across towns and categories.
+  Aim for at least 5 in each category per town when they can be confirmed.
 
 ## What to leave out
 
@@ -90,7 +112,8 @@ participating locations," confirm the Destin-area location takes part before lis
 
 ## Partners & click tracking (go.php)
 
-Some businesses here are WGL partners. On each partner deal set `"partner": true` and `"go": "<code>"`,
+Some businesses here are WGL partners (Destin only for now; the other towns have none yet, so their
+deals carry no `partner`/`go`). On each partner deal set `"partner": true` and `"go": "<code>"`,
 where `<code>` is that business's offer code in `go.php` (the WGL redirect + scan logger). The Crazy
 Good Deals page and the in-room TV both route a partner's button/QR through
 `go.php?h=destin&s=deals&o=<code>` (web) or `s=tv` (TV), so go.php logs the click and stamps the
@@ -127,7 +150,7 @@ not make any claim about paid versus unpaid placement. Keep `deal` short and con
 
 ```json
 {
-  "_readme": "What's Good Local weekly deals feed for Destin. Written by the weekly scheduled task; see CLAUDE.md.",
+  "_readme": "What's Good Local weekly deals feed for <town>. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "YYYY-MM-DD",
   "deals": [
     {
