@@ -2,5 +2,94 @@
   "_readme": "What's Good Local weekly deals feed for the Outer Banks. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-11-24",
   "deals": [],
-  "pending": []
+  "pending": [
+    {
+      "name": "Outer Banks Brewing Station (Thirsty Thursday)",
+      "note": "last-known: half-price wine and $5 pints on Thursday, seen only on obxguides.com/brewing-station/promotions (lead). Not on obbrewing.com. Confirm on obbrewing.com or the pub's own post."
+    },
+    {
+      "name": "Mulligan's Raw Bar & Grille (Nags Head)",
+      "note": "last-known: 'rotation of daily drink and food specials' with no terms (obxguides lead). mulligansobx.com blocked by a bot check. Confirm current deal + find source (mulligansobx.com)."
+    },
+    {
+      "name": "Dajio Restaurant (Ocracoke)",
+      "note": "Own site states Shrimp Hour 3-5 PM for outside seating, open 7 days, but gives no price. Confirm price (dajiorestaurant.com)."
+    },
+    {
+      "name": "Corolla Outback Adventures (Corolla)",
+      "note": "Own tours page says discounts for seniors, military, teachers and first responders between Labor Day and Memorial Day; amount not stated (call 252-453-4484). Confirm amount (corollaoutback.com/tours/)."
+    },
+    {
+      "name": "Sundogs Raw Bar & Grill (Corolla)",
+      "note": "last-known: weekday happy hour 3-5 PM, 33% off steamers (2019 article); obxguides promotions page mentions a '$5 Off' coupon with no terms. No own site found. Confirm current deal + find source."
+    },
+    {
+      "name": "Fish Heads Bar & Grill (Nags Head)",
+      "note": "Own site: open Wed-Sun 11 AM-9 PM, last day of season Sat Nov 28, 2026. Daily specials are a download sheet only; no deal terms read. Recheck when it reopens in 2027 (fishheadsobx.com)."
+    },
+    {
+      "name": "Black Pelican (Kitty Hawk)",
+      "note": "Own homepage lists a dated daily beer special ($3 Swells'a Duck Dive Lager on Nov 24) and dinner specials that change daily; no standing happy hour on site. 2019 article said daily 3-5 PM pizza discount. Confirm on blackpelican.com."
+    },
+    {
+      "name": "Chilli Peppers Grill (Kill Devil Hills)",
+      "note": "last-known (2019 article): daily 2-5 PM, 20-cent shrimp, 50-cent wings, $5 appetizers. Own site not found. Confirm current deal + find source."
+    },
+    {
+      "name": "Sandbar & Grille (Kill Devil Hills)",
+      "note": "sandbarandgrille.com blocked by a bot check. Confirm current deal + find source."
+    },
+    {
+      "name": "Lost Colony Tavern / Brewery (Manteo)",
+      "note": "obxguides points to lostcolonytavern.com, which did not load. Confirm current deal + find source."
+    },
+    {
+      "name": "Lucky 12 Tavern (Nags Head)",
+      "note": "Own site (lucky12tavern.com) shows hours and Jingle 12 pop-up opening Nov 27 but no happy hour or deal terms. Recheck."
+    },
+    {
+      "name": "Kelly's Restaurant & Tavern (Nags Head)",
+      "note": "Search results include a Carolina Designs post titled 'The End of an Era - Kelly's Restaurant'; the restaurant appears to be closed (pamlicojacks.com now shows Kelly's OBX Catering). Do not list unless reopened."
+    },
+    {
+      "name": "Outer Banks Brewing Station",
+      "note": "last-known (Food): $2 oysters, $3 grilled oysters, $7 smash burger, $1 wings at happy hour — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.obbrewing.com/events/happy-hour-2026-11-24-15-00"
+    },
+    {
+      "name": "Hurricane Mo's Beachside Bar & Grill",
+      "note": "last-known (Food): $0.25 steamed shrimp, $0.50 wings, $1 hard tacos, $1.50 soft tacos — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hurricanemosbeachsidebarandgrill.com/copy-of-lunch-menu-1"
+    },
+    {
+      "name": "Jolly Roger Restaurant & Bar",
+      "note": "last-known (Food): 35¢ shrimp, $1.49 ribs, 79¢ wings — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://jollyrogerobx.com/daily-lunch-specials/"
+    },
+    {
+      "name": "Captain George's Seafood Restaurant",
+      "note": "last-known (Food): All-you-can-eat seafood buffet $41.99 on November Sundays — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.captaingeorges.com/"
+    },
+    {
+      "name": "Captain George's Seafood Restaurant",
+      "note": "last-known (Food): First Catch Sunday: adult buffet $46.99 — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.captaingeorges.com/"
+    },
+    {
+      "name": "Jolly Roger Restaurant & Bar",
+      "note": "last-known (Drinks): Half-price Bloody Marys and mimosas on Sunday — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://jollyrogerobx.com/daily-lunch-specials/"
+    },
+    {
+      "name": "Kitty Hawk Kites",
+      "note": "last-known (Adventures): Buy one, get one 50% off select adventures; 30% off kiteboarding with hang gliding — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.kittyhawk.com/"
+    },
+    {
+      "name": "Kitty Hawk Kites",
+      "note": "last-known (Adventures): 10% off hang gliding, kayak eco-tours and kiteboarding lessons for military — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://kittyhawk.com/groups/military"
+    },
+    {
+      "name": "Roanoke Island Festival Park",
+      "note": "last-known (Adventures): $1 off admission for military and seniors — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://roanokeisland.com/plan-your-visit/admission-pricing"
+    },
+    {
+      "name": "Roanoke Island Festival Park",
+      "note": "last-known (Adventures): 25% off admission for groups of 10 or more — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://roanokeisland.com/"
+    }
+  ]
 }

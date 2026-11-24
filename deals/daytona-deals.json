@@ -5,6 +5,22 @@
     {
       "category": "Adventures",
       "name": "Daytona Lagoon",
+      "deal": "$30 Fun Card for $20; $200 Arcade Card for $100, through Dec 31",
+      "details": "The $30 card can be used across the Family Entertainment Center, including attraction bands and arcade games. The $200-for-$100 arcade card is listed at 50% off.",
+      "town": "Daytona Beach",
+      "location": "Daytona Beach",
+      "days": "",
+      "hours": "",
+      "valid_through": "2026-12-31",
+      "featured": false,
+      "source": "https://daytonalagoon.com/promotions/30-for-20/",
+      "checked": "2026-11-24",
+      "link": "https://daytonalagoon.com/promotions/",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Daytona Lagoon",
       "deal": "2027 Season Pass $69.99 (reg. $129.99), Black Friday sale through Nov 29",
       "details": "Pass covers unlimited waterpark access, go-karts, laser tag, mini golf, bumper cars and more, plus one free one-time Buddy Ticket and $10 arcade credit. Open to the public from Nov 25, 2026; ends Nov 29, 2026.",
       "town": "Daytona Beach",
@@ -18,22 +34,6 @@
       "link": "https://daytonalagoon.com/promotions/",
       "phone": "",
       "price_chip": "$69.99"
-    },
-    {
-      "category": "Adventures",
-      "name": "Daytona Lagoon",
-      "deal": "$30 Fun Card for $20; $200 Arcade Card for $100, through Dec 31",
-      "details": "The $30 card can be used across the Family Entertainment Center, including attraction bands and arcade games. The $200-for-$100 arcade card is listed at 50% off.",
-      "town": "Daytona Beach",
-      "location": "Daytona Beach",
-      "days": "",
-      "hours": "",
-      "valid_through": "2026-12-31",
-      "featured": false,
-      "source": "https://daytonalagoon.com/promotions/30-for-20/",
-      "checked": "2026-11-24",
-      "link": "https://daytonalagoon.com/promotions/",
-      "phone": ""
     },
     {
       "category": "Adventures",
@@ -309,7 +309,7 @@
     },
     {
       "name": "The Golden Lion Cafe (Flagler Beach)",
-      "note": "last-known: oyster happy hour daily 3-6 PM (Visit Flagler blog). Confirm current deal + find source."
+      "note": "No official site found or reachable 2026-11-24 (goldenlionflaglerbeach.com and goldenlioncafe.com failed; search shows only directories/blogs). Confirm current deal + find source."
     },
     {
       "name": "Ocean Deck Restaurant & Beach Club (Daytona Beach)",
@@ -317,7 +317,7 @@
     },
     {
       "name": "Caribbean Jack's (Daytona Beach)",
-      "note": "last-known: happy hour daily 3-6 PM, $5 craft beer Thursdays (discoverhappyhours.com). Confirm current deal + find source."
+      "note": "caribbeanjacks.com returned 403 on 2026-11-24. Confirm current deal + find source."
     },
     {
       "name": "Flagler Tavern (New Smyrna Beach)",
@@ -325,7 +325,7 @@
     },
     {
       "name": "Jimmy Hula's (Ormond Beach, New Smyrna Beach)",
-      "note": "last-known: Taco of the Day, $6 with chips and drink, second taco $4 (Fox 35 news, Sept 2024). Confirm current deal + find source."
+      "note": "jimmyhulas.com (checked 2026-11-24) shows a Taco of the Month (currently 'Gobbler') with no price or combo terms; the $6 taco-of-the-day deal is not on the site. Likely drop."
     },
     {
       "name": "Miller's Ale House (Daytona Beach)",
@@ -333,7 +333,7 @@
     },
     {
       "name": "Barefoot Philosophy (Daytona Beach)",
-      "note": "last-known: $25 off a private beach day for two with a promo code, through Feb 14, 2027 (daytonabeach.com offers page). Confirm on operator's own site."
+      "note": "barefootphilosophy.com homepage (checked 2026-11-24) shows no promo code or discount text. daytonabeach.com offer remains unconfirmed on the operator's site."
     },
     {
       "name": "Ponce Inlet Watersports",

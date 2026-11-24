@@ -318,28 +318,56 @@
       "link": "",
       "phone": "",
       "price_chip": "$2 SUSHI"
+    },
+    {
+      "category": "Food",
+      "name": "Tequila Rock Kitchen & Cantina",
+      "deal": "Happy hour bites: $4.75 tacos, $5 queso and chips, $9 fried jalapeño poppers, Tue-Fri 2-6 PM",
+      "details": "Bites are served in the bar area only and not for to-go orders. Happy hour drinks: $4 domestic and import beer, $5/$8 house margaritas, $4.50 wells and house wine, $7 select premium liquor.",
+      "town": "Galveston",
+      "location": "2408 The Strand",
+      "days": "Tue-Fri",
+      "hours": "2-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.tequilarockkitchen.com/menu/",
+      "checked": "2026-11-24",
+      "link": "https://www.tequilarockkitchen.com/",
+      "phone": "(409) 295-4041"
+    },
+    {
+      "category": "Food",
+      "name": "The Spot",
+      "deal": "Happy hour eats from $5: fried pickles $5, chicken tinga taco $6, chips and queso $7, diablo shrimp $10, weekdays 3-7 PM",
+      "details": "Happy hour drinks: $4 wells, $5 premiums, $6 signature cocktails and frozens, $1 off bottles, cans, draft beers and wines. Prices from the Galveston happy hour menu linked on the location page.",
+      "town": "Galveston",
+      "location": "3204 Seawall Blvd",
+      "days": "Mon-Fri",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.thespotrestaurants.com/wp-content/uploads/SPOT_InHand_Menu_041725_Digital_GAL_HH.pdf",
+      "checked": "2026-11-24",
+      "link": "https://www.thespotrestaurants.com/locations-menus/thespot/",
+      "phone": "(409) 621-5237"
     }
   ],
   "pending": [
     {
       "name": "Yaga's Cafe",
-      "note": "last-known: $10 margarita pitchers, $1 off drafts, $2 domestic bottles, Mon-Fri 4-7 PM; $2 drinks Fri 10-11 PM (Galveston.com happy hour list). Confirm current deal + find source."
+      "note": "yagas.com unreachable 2026-11-24. Confirm current deal + find source."
     },
     {
       "name": "Taquilo's Tex-Mex Cantina",
-      "note": "last-known: $4.50 margaritas, $3.50 bottled beer, Sun-Fri 11 AM-7 PM (Galveston.com happy hour list). Confirm current deal + find source."
+      "note": "taquilos.com/happy-hour-menu (checked 2026-11-24) confirms happy hour Mon-Fri 11 AM-7 PM: specialty margaritas, domestic bottled beer, well drinks, bar-only appetizers, but shows no prices in text (prices may be in images). Confirm prices."
     },
     {
       "name": "Lucky Lounge",
       "note": "last-known: $7 martinis Mondays, $2 frozen short margaritas Tuesdays (Galveston.com happy hour list). Confirm current deal + find source."
     },
     {
-      "name": "The Spot",
-      "note": "last-known: $4 margaritas, $2 longnecks; kids eat free Tuesdays (Galveston.com list, Galveston Monthly Jan 2025). Confirm current deal + find source."
-    },
-    {
       "name": "Daiquiri Time Out (DTO)",
-      "note": "last-known: happy hour all day Mon, Tue-Fri 4-7 PM confirmed on dtogalveston.com but no prices there; $6 cocktails, $1 off drafts per blog list. Confirm prices + find source."
+      "note": "dtogalveston.com (checked 2026-11-24) still shows happy hour all day Monday and Tue-Fri 4-7 PM with no prices. Confirm prices."
     },
     {
       "name": "Shucks Tavern & Oyster Bar",
@@ -347,23 +375,19 @@
     },
     {
       "name": "Island Time Beach Bar & Grill",
-      "note": "last-known: happy hour daily 12-7 PM on islandtime.bar but no prices listed. Confirm deal terms."
+      "note": "islandtime.bar (checked 2026-11-24) still says happy hour daily 12-7 PM with no prices. Confirm terms."
     },
     {
       "name": "Cooper's Landing",
-      "note": "last-known: Social Hour Mon-Thu 4-6 PM, Thursday steak night on cooperslandingtx.com, no prices listed. Confirm prices."
+      "note": "cooperslandingtx.com/specials (checked 2026-11-24): Social Hour Mon-Thu 4-6 PM (drink and food specials), Wine Down Wednesday reduced wine prices, Thursday steak night 4-9 PM (12 oz ribeye or NY strip, 6 oz filet +$3, with salad and sides) at 'reduced rates', but no prices stated. Confirm prices."
     },
     {
       "name": "Hubcap Grill Galveston",
-      "note": "last-known: happy hour Mon-Fri 3-6 PM on its site (no prices); $5 cheeseburgers Tuesdays (Galveston Monthly Jan 2025). Confirm current deal."
+      "note": "hubcapgrill.com home and /locations (checked 2026-11-24) show no Galveston specials or happy hour terms. Confirm current deal."
     },
     {
       "name": "Mario's Seawall Italian Pizzeria",
-      "note": "last-known: $9.99 14-inch one-topping pizza Wednesdays, pickup only (Galveston Monthly Jan 2025). Confirm current deal + find source."
-    },
-    {
-      "name": "Tequila Rock Kitchen & Cantina",
-      "note": "last-known: free house margarita with entrée on Thursdays, dine-in (Galveston Monthly Jan 2025). Confirm current deal + find source."
+      "note": "No official site found 2026-11-24 (search shows only directories and delivery apps). Confirm current deal + find source."
     },
     {
       "name": "Artist Boat",
@@ -379,7 +403,7 @@
     },
     {
       "name": "Little Daddy's Gumbo Bar",
-      "note": "last-known: free Chef's Select appetizer (Visit Galveston Savings Pass). Confirm current deal + find source."
+      "note": "littledaddysgumbobar.com (checked 2026-11-24) says happy hour weekdays 3-7 PM, no prices; /galveston-happy-hour page has no text terms. Savings Pass free appetizer not on own site. Confirm terms."
     }
   ]
 }

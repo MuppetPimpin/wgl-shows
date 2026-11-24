@@ -1,6 +1,336 @@
 {
   "_readme": "What's Good Local weekly deals feed for Ocean City, MD. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-11-24",
-  "deals": [],
-  "pending": []
+  "deals": [
+    {
+      "category": "Adventures",
+      "name": "Alley Oops (Midtown and Uptown)",
+      "deal": "$40 game card for $20 on Sundays",
+      "details": "Sunday special at both locations. Wednesdays bring half-price games.",
+      "town": "Ocean City",
+      "location": "5509 and 13101 Coastal Highway",
+      "days": "Sun; Wed",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://uptown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Alley Oops Midtown",
+      "deal": "Half-price bowling",
+      "details": "Half-price bowling Monday through Thursday (closed Tuesdays at Midtown). Dine-in specials exclude holidays and special event weekends.",
+      "town": "Ocean City",
+      "location": "5509 Coastal Highway",
+      "days": "Mon, Wed, Thu",
+      "hours": "4 PM-2 AM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://midtown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "443-664-7084"
+    },
+    {
+      "category": "Adventures",
+      "name": "Alley Oops Uptown",
+      "deal": "Half-price bowling",
+      "details": "Half-price bowling Tuesday through Thursday.",
+      "town": "Ocean City",
+      "location": "13101 Coastal Highway",
+      "days": "Tue-Thu",
+      "hours": "4 PM-2 AM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://uptown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Ocean City Life-Saving Station Museum",
+      "deal": "Kids 11 and under free; $10 two-museum pass",
+      "details": "Admission is $6 per museum; a $10 pass covers one entry to both the Life-Saving Station Museum and the Museum of Ocean City within a week. November-April hours are Saturday and Sunday, 10 AM-1:30 PM.",
+      "town": "Ocean City",
+      "location": "813 S. Atlantic Avenue (Boardwalk inlet)",
+      "days": "Sat, Sun",
+      "hours": "10 AM-1:30 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.ocmuseum.org/visit",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Winterfest of Lights",
+      "deal": "Free admission for kids 11 and under",
+      "details": "Holiday light show at Northside Park, November 19, 2026 to January 2, 2027. Admission is $6 (plus fees) for guests 12 and older; children 11 and younger are free.",
+      "town": "Ocean City",
+      "location": "Northside Park, 200 125th Street",
+      "days": "Nightly",
+      "hours": "",
+      "valid_through": "2027-01-02",
+      "featured": false,
+      "source": "https://www.ococean.com/winterfest/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "410-289-2800"
+    },
+    {
+      "category": "Drinks",
+      "name": "Alley Oops (Midtown and Uptown)",
+      "deal": "NFL game specials: $3 Natural Lights, $3 Miller Lite bottles, $5 Yuengling drafts",
+      "details": "During every NFL game: Monday and Thursday at the bar only, Sunday at tables and bar. Half-price wings and egg rolls are included.",
+      "town": "Ocean City",
+      "location": "5509 and 13101 Coastal Highway",
+      "days": "Mon, Thu, Sun (NFL games)",
+      "hours": "During NFL games",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://uptown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Alley Oops Midtown",
+      "deal": "$2.50 Miller bottles; $2 off drafts, crushes, rails and house wine",
+      "details": "Happy hour at tables and bar, Monday-Friday 2-6 PM. The Uptown location (13101 Coastal Highway) runs the same happy hour Monday-Friday 4-6 PM.",
+      "town": "Ocean City",
+      "location": "5509 Coastal Highway",
+      "days": "Mon-Fri",
+      "hours": "2-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://midtown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "443-664-7084"
+    },
+    {
+      "category": "Drinks",
+      "name": "Hooked",
+      "deal": "Half-price select bottles of wine",
+      "details": "Off-season Friday special on select bottles of wine.",
+      "town": "Ocean City",
+      "location": "8003 Coastal Highway",
+      "days": "Fri",
+      "hours": "4:30-9 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.hookedoc.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Nantuckets",
+      "deal": "$10 off bottles of wine",
+      "details": "Wine Wednesdays: $10 off bottles of wine.",
+      "town": "Fenwick Island",
+      "location": "601 Coastal Highway",
+      "days": "Wed",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://nantucketsrestaurant.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "302-539-2607"
+    },
+    {
+      "category": "Food",
+      "name": "Alley Oops Midtown",
+      "deal": "Daily food specials, including half-price entrees on Mondays",
+      "details": "Monday half-price entrees; Wednesday half-price quesadillas; Thursday half-price smash burgers (sides and toppings extra); Friday one appetizer, one entree and a $10 game card for $35; Sunday half-price appetizers. Dine-in only; excludes holidays and special event weekends. Closed Tuesdays.",
+      "town": "Ocean City",
+      "location": "5509 Coastal Highway",
+      "days": "Mon, Wed-Sun",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://midtown.alleyoopsoc.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "443-664-7084"
+    },
+    {
+      "category": "Food",
+      "name": "Fager's Island",
+      "deal": "Half-price prime rib",
+      "details": "Half-price prime rib on Sundays and Mondays, starting November 15, 2026. The restaurant opens daily at 11 AM.",
+      "town": "Ocean City",
+      "location": "60th Street, bayside",
+      "days": "Sun, Mon",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.fagers.com/menu4",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "410-524-5500"
+    },
+    {
+      "category": "Food",
+      "name": "Hooked",
+      "deal": "$20 chef-inspired entree menu",
+      "details": "Off-season special Monday through Thursday. Sundays bring a $25 three-course meal, dine-in only. Open daily 4:30-9 PM.",
+      "town": "Ocean City",
+      "location": "8003 Coastal Highway",
+      "days": "Mon-Thu",
+      "hours": "4:30-9 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.hookedoc.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Nantuckets",
+      "deal": "$29 entree selections",
+      "details": "$29 entree selections every Sunday, Wednesday and Thursday, dine-in only.",
+      "town": "Fenwick Island",
+      "location": "601 Coastal Highway",
+      "days": "Sun, Wed, Thu",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://nantucketsrestaurant.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "302-539-2607"
+    },
+    {
+      "category": "Food",
+      "name": "Seacrets",
+      "deal": "Half-price entrees",
+      "details": "Half-price entrees Thursday and Sunday, 4-9 PM. Seacrets is open Thursday through Sunday in the off-season.",
+      "town": "Ocean City",
+      "location": "117 49th Street",
+      "days": "Thu, Sun",
+      "hours": "4-9 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://seacrets.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "410-524-4900"
+    },
+    {
+      "category": "Food",
+      "name": "Seacrets",
+      "deal": "Two jerk chicken tacos for $8; half-price jerk chicken, Jamaican fries and steamed shrimp",
+      "details": "Both specials run Thursday and Sunday, 4-7 PM.",
+      "town": "Ocean City",
+      "location": "117 49th Street",
+      "days": "Thu, Sun",
+      "hours": "4-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://seacrets.com/specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "410-524-4900"
+    }
+  ],
+  "pending": [
+    {
+      "name": "Seacrets",
+      "note": "Page lists 4-7 PM happy hour beer and Beachin' Cocktails specials Thu-Sun and 'Seacrets Spirits and Frozens on special all day' with no prices; also '25% off Lite Fare 4-9 PM Fridays starting 12/4'. Confirm drink prices (seacrets.com/specials/); add Friday Lite Fare deal after Dec 4."
+    },
+    {
+      "name": "Coconuts Beach Bar (Castle in the Sand)",
+      "note": "Own page states daily 2-for-1 drinks 5-6 PM, but off-season entertainment ended Oct 25, 2026 and current open status is unclear. Confirm open (castleinthesand.com)."
+    },
+    {
+      "name": "Fager's Island",
+      "note": "Happy hour page says only 'open every day at 11AM' with no terms. Confirm happy hour terms (fagers.com)."
+    },
+    {
+      "name": "Bad Monkey (58th St and West OC)",
+      "note": "Own site lists a 2-for-1 happy hour with no days or times. Confirm hours (badmonkeyoc.com)."
+    },
+    {
+      "name": "Hooked",
+      "note": "Happy hour Mon-Fri 4:30-6 PM stated but no items or prices. Confirm terms (hookedoc.com)."
+    },
+    {
+      "name": "Nantuckets",
+      "note": "Happy hour 4-6 PM every day stated but no items or prices; also confirm current open days in the off-season (nantucketsrestaurant.com)."
+    },
+    {
+      "name": "OC Wasabi",
+      "note": "Site mentions off-season daily lunch specials but says to call; lead list shows Tue wine, Wed $26 three rolls, Thu 20% off food, Sun 30% off entrees. Confirm (ocwasabi.com)."
+    },
+    {
+      "name": "Harborside Bar & Grill (West OC)",
+      "note": "last-known (newsletter): Mon 40% off entrees, Thu $23.99 all-you-can-eat ribs and shrimp. Specials page blocked by bot check. Confirm (weocharborside.com/specials)."
+    },
+    {
+      "name": "Waterman's Seafood Company (West OC)",
+      "note": "last-known (newsletter): daily drink and dinner specials. Site menu page failed to load. Confirm (watermansoc.com)."
+    },
+    {
+      "name": "The Original Greene Turtle",
+      "note": "last-known (newsletter): Mon half-off burgers, Tue tacos, Wed soups/salads, Thu cheesesteaks. Homepage fetch not permitted; calendar page has no recurring specials. Confirm (originalgreeneturtle.com)."
+    },
+    {
+      "name": "Alley Oops (both locations)",
+      "note": "Gift card bonus: $50 gift card gets a free $20 game card, $100 gets a free $50 game card, Nov 30-Dec 24. Add once it starts (alleyoopsoc.com/specials)."
+    },
+    {
+      "name": "Jolly Roger Amusement Parks",
+      "note": "Black Friday sale page (50% off passes, 30% off multi-park) is undated and its 'Friday, November 28' does not match 2026. Confirm 2026 date (jollyrogerpark.com)."
+    },
+    {
+      "name": "BJ's on the Water",
+      "note": "bjsonthewater.com appears to host unrelated content (chain menu articles); no deals confirmable. Find official page or social post."
+    },
+    {
+      "name": "Fins Ale House, Mio Fratello, Ropewalk, Saltwater 75, J.R.'s Seafood Shack, The Station Coastal Kitchen",
+      "note": "Off-season specials listed in Ocean City Vibes newsletter (lead only); own sites not found within fetch budget."
+    },
+    {
+      "name": "Taphouse West",
+      "note": "last-known (Food): Weeknight specials: $12 Taphouse Classic, $27 brisket platter, $12 cheesesteak, $35 prime rib — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-west-daily-specials"
+    },
+    {
+      "name": "Taphouse West",
+      "note": "last-known (Food): Happy hour food from $8 — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-west-happy-hour"
+    },
+    {
+      "name": "45th Street Taphouse",
+      "note": "last-known (Food): $16 burger and beer; $50 date night for two — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=45th-st-specials--happy-hour"
+    },
+    {
+      "name": "Taphouse Tavern",
+      "note": "last-known (Food): Daily specials: $12 burgers, 20% off tacos, seafood or appetizers — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-tavern-daily-specials"
+    },
+    {
+      "name": "Taphouse West",
+      "note": "last-known (Drinks): $1.50 Natty and Busch Light drafts, $4 rails — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-west-happy-hour"
+    },
+    {
+      "name": "Taphouse West",
+      "note": "last-known (Drinks): Half-price wine bottles Tuesdays; $5 margaritas Mondays; $5 rails Thursdays — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-west-daily-specials"
+    },
+    {
+      "name": "Taphouse Tavern",
+      "note": "last-known (Drinks): $2.50 Natural Light and Natty Boh, $5 rails — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=taphouse-tavern-happy-hour"
+    },
+    {
+      "name": "45th Street Taphouse",
+      "note": "last-known (Drinks): Industry night: $5 select drafts and $12 cheesesteaks — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.octaphouses.com/menu?menu=45th-st-specials--happy-hour"
+    }
+  ]
 }

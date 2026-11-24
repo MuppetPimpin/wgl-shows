@@ -4,6 +4,22 @@
   "deals": [
     {
       "category": "Adventures",
+      "name": "Bailey-Matthews National Shell Museum & Aquarium",
+      "deal": "Free admission for active military; $20 (reg. $25) for seniors 65+, veterans, educators and first responders",
+      "details": "Youth 12-17 and students $15, children 5-11 $10, under 5 free. Open daily 10 AM-5 PM except major holidays; parking is free.",
+      "town": "Sanibel",
+      "location": "3075 Sanibel Captiva Rd",
+      "days": "Daily",
+      "hours": "10 AM-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://shellmuseum.org/plan-your-visit/",
+      "checked": "2026-11-24",
+      "link": "https://shellmuseum.org/",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
       "name": "Calusa Nature Center & Planetarium",
       "deal": "Discounts for seniors, students, military, first responders and AAA; under 3 free",
       "details": "General admission is $13 for adults and $7 for children 3-12; the center lists discounts for seniors, students, military, first responders and AAA members without stating the amounts.",
@@ -245,6 +261,22 @@
       "checked": "2026-11-24",
       "link": "",
       "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Pinchers (Fort Myers Beach)",
+      "deal": "Happy hour food daily 3-6 PM: oysters and wings $2 each, shrimp and clams $1.25 each",
+      "details": "Ordered in multiples of six. The menu also lists 2-for-1 drafts, house wine, well drinks, sangria and house margaritas all day, every day; the menu page is shared by all Pinchers locations.",
+      "town": "Fort Myers Beach",
+      "location": "18100 San Carlos Blvd",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.pinchersusa.com/menu/",
+      "checked": "2026-11-24",
+      "link": "https://www.pinchersusa.com/san-carlos/",
+      "phone": "239-415-8973"
     }
   ],
   "pending": [
@@ -253,16 +285,12 @@
       "note": "last-known: resort pages list happy hour daily 5-8 PM (a resort blog says 8-11 PM) with no prices; fortmyersbeach.org lists $9.95 tapas, $5 drafts, $6 wines, $7 wells. Confirm current deal + find source (happy hour menu page)."
     },
     {
-      "name": "Pinchers (Fort Myers Beach / Fort Myers / Bonita Springs)",
-      "note": "last-known: pinchersusa.com/menu lists happy hour food 3-6 PM ($2 oysters and wings, $1.25 shrimp and clams) and all-day drink specials, but no location or days stated. Confirm which SWFL locations take part + find source."
-    },
-    {
       "name": "Cabanas Beach Bar & Grille (DiamondHead Beach Resort)",
-      "note": "last-known: daily 3-6 PM, $7 craft drafts, $6 domestic drafts and house wine, $5 wells (fortmyersbeach.org). Confirm current deal + find source."
+      "note": "diamondheadfl.com/cabanas-beach-bar-grille/ is a 404 (2026-11-24); find the current resort dining page."
     },
     {
       "name": "Mr. Waves Island Bar",
-      "note": "last-known: daily 3-6 PM, $1 off domestics, wines and well drinks (fortmyersbeach.org). Confirm current deal + find source."
+      "note": "mrwavesislandbar.com returned 403 on 2026-11-24. Confirm current deal + find source."
     },
     {
       "name": "Smokin' Oyster Brewery",
@@ -270,7 +298,7 @@
     },
     {
       "name": "Wahoo Willie's",
-      "note": "last-known: Mon-Fri 1-5 PM, $6-8 margaritas, $6 wells, $4 domestics, $8-14 food (fortmyersbeach.org). Confirm current deal + find source (site redirect loop today)."
+      "note": "wahoowillies.com unreachable 2026-11-24. Confirm current deal + find source."
     },
     {
       "name": "Bayside Sports Bar and Grille",
@@ -298,7 +326,7 @@
     },
     {
       "name": "Cip's Place (Sanibel)",
-      "note": "last-known: has a happy hour menu page (cipsplace.com/happy-hour-menu/) that returned a server error. Confirm current deal + find source."
+      "note": "cipsplace.com/happy-hour-menu/ still returns a WordPress critical error (HTTP 500) on 2026-11-24."
     },
     {
       "name": "Sushi Sake (Fort Myers Beach)",
@@ -306,7 +334,7 @@
     },
     {
       "name": "Captiva Cruises",
-      "note": "last-known: standard prices only (Dolphin & Wildlife cruise $40 adults, $30 kids 12 and under), no discount on own page. Confirm a real deal + source."
+      "note": "captivacruises.com could not be fetched 2026-11-24 (connection failed / fetch permission not granted). Still no confirmed deal."
     }
   ]
 }

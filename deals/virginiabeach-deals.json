@@ -1,6 +1,208 @@
 {
   "_readme": "What's Good Local weekly deals feed for Virginia Beach. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-11-24",
-  "deals": [],
-  "pending": []
+  "deals": [
+    {
+      "category": "Adventures",
+      "name": "Cape Henry Lighthouse",
+      "deal": "$20 admission for seniors 60+, military and AAA members (regularly $22)",
+      "details": "Student admission is $8. The lighthouse is on Joint Expeditionary Base Fort Story: visitors over 16 need a REAL ID, and visitors 18+ without military ID must submit SECNAV Form 5512. Closed Thanksgiving, Dec. 24-25 and Dec. 28-Jan. 1.",
+      "town": "Virginia Beach",
+      "location": "583 Atlantic Ave, Fort Story",
+      "days": "Tue-Sun",
+      "hours": "10 AM-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://preservationvirginia.org/historic-sites/cape-henry-lighthouse/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Rudee Tours",
+      "deal": "Whale watching: guaranteed sightings or ride again free; $38.16 senior rate",
+      "details": "Whale watching cruises run December through February. If no whales are seen, passengers may ride again for free (no refunds). Adults are $40.28, seniors 65+ $38.16 and children $33.92.",
+      "town": "Virginia Beach",
+      "location": "200 Winston Salem Avenue, Rudee Inlet",
+      "days": "Dec-Feb",
+      "hours": "Varies by trip",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.rudeetours.com/whale-watching/whale-watching-cruises/",
+      "checked": "2026-11-24",
+      "link": "https://www.rudeetours.com/",
+      "phone": "757-425-3400"
+    },
+    {
+      "category": "Adventures",
+      "name": "Virginia Aquarium & Marine Science Center",
+      "deal": "$2 off admission for active military and veterans",
+      "details": "Military adult admission is $33 (regularly $35) and youth admission is $28 (regularly $30) with valid military ID.",
+      "town": "Virginia Beach",
+      "location": "717 General Booth Blvd.",
+      "days": "Daily",
+      "hours": "Aquarium hours",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://virginiaaquarium.com/admission-information",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Virginia MOCA",
+      "deal": "Free admission for Virginia residents and children under 12",
+      "details": "Non-residents pay $16.50; adults 65+, active military, first responders, teachers and students pay $11 with ID. Museums for All: free for up to four people with an EBT card and photo ID.",
+      "town": "Virginia Beach",
+      "location": "5811 Wesleyan Drive",
+      "days": "Wed-Sun",
+      "hours": "10 AM-4 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://virginiamoca.org/visit/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Catch 31",
+      "deal": "Happy hour: $4 domestic beer and house wine, $5 mixed drinks, $6 Orange Crush",
+      "details": "Daily 3-6 PM in the bar and cocktail areas. Signature margarita, mojito and mule are $6; happy hour food includes $8 coconut shrimp and $9 cheese curds.",
+      "town": "Virginia Beach",
+      "location": "31st Street, Oceanfront",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.catch31.com/happy-hour-menu",
+      "checked": "2026-11-24",
+      "link": "https://www.catch31.com/",
+      "phone": "757-213-3474"
+    },
+    {
+      "category": "Drinks",
+      "name": "Driftwood Kitchen",
+      "deal": "High Five Happy Hour: $5 wines, well drinks and bottled beer",
+      "details": "Happy hour runs 3-6 PM with discounted appetizers. The restaurant is closed Mondays.",
+      "town": "Virginia Beach",
+      "location": "3623 Pacific Avenue",
+      "days": "Tue-Sun",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://driftwoodkitchenvb.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "757-233-8753"
+    },
+    {
+      "category": "Drinks",
+      "name": "Hunt Room at The Cavalier",
+      "deal": "Hunt's End Happy Hour: $5 draft beer and Coastal Cocktails, $6 wine and well drinks",
+      "details": "Every weeknight 4-6 PM. A bartender's choice cocktail is $6 and appetizers are $7.",
+      "town": "Virginia Beach",
+      "location": "The Cavalier Hotel, 42nd Street (North End)",
+      "days": "Mon-Fri",
+      "hours": "4-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.huntroomvb.com/events/",
+      "checked": "2026-11-24",
+      "link": "https://www.huntroomvb.com/menus/",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "CP Shuckers Cafe & Raw Bar (Shore Drive)",
+      "deal": "Tuesday Burger Night: half-pound burger with 2 toppings for $9.99",
+      "details": "Tuesday special at the Shore Drive location. The same night lists 1.5 lb crab legs with hush puppies for $28.99 and $5.50 select crushes.",
+      "town": "Virginia Beach",
+      "location": "3232 Shore Drive",
+      "days": "Tue",
+      "hours": "5-10 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://shoredrive.cpshuckers.com/virginia-beach-cp-shuckers-shore-drive-happy-hours-specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "757-412-2929"
+    }
+  ],
+  "pending": [
+    {
+      "name": "Waterman's Surfside Grille",
+      "note": "Own specials page (watermans.com/specials) says happy hour Mon-Thu 2-5 PM and mentions Nov-Feb 'exclusive discounts', but the happy hour menu (behind a VIEW MENU button) could not be located/read. Last-known (visitor bureau): $5 Orange Crush, $5 drafts, $8 seafood specials. Confirm terms (watermans.com)."
+    },
+    {
+      "name": "Chix on the Beach (happy hour)",
+      "note": "chixvb.com/specials states happy hour Mon-Thu 3-6 PM, but the happy hour menu items/prices were not readable. Confirm terms (chixvb.com/happy-hour)."
+    },
+    {
+      "name": "Chick's Oyster Bar",
+      "note": "Own happy hour menu lists $1 house oysters (6 per order), $1 wings, half off select apps, $10 smashburger, $7 crushes, $5 house wine, but no days or hours are stated. Confirm days/hours (chicksoysterbar.com)."
+    },
+    {
+      "name": "Calypso Bar & Grill",
+      "note": "Homepage says happy hour Mon-Fri 3-6 PM (not on holidays), but no items or prices. Confirm terms (calypsovb.com)."
+    },
+    {
+      "name": "The Atlantic on Pacific",
+      "note": "Own specials page says happy hour 3-6 PM daily; happy hour menu page does not clearly mark which items/prices are happy hour. Last-known (visitor bureau): drinks $9 or less, $1 clams and oysters. Also lists Wed 4-6 PM Service Industry Night (50% off food for restaurant workers). Confirm (theatlanticvb.com)."
+    },
+    {
+      "name": "Dough Boys Pizza (24th St / 33rd St)",
+      "note": "Own 'What's Happening' page only shows old posts (Sunday carry-out $5 large one-topping pizza or pound of wings; happy hour graphic from 2018). Last-known (visitor bureau): Mon-Fri 4-5:30 PM $5 Party Hour; weekday 11 AM-4 PM $8.88 deals. Confirm current (doughboyspizza.com)."
+    },
+    {
+      "name": "Surf Club Ocean Grille (Wyndham Oceanfront, 5700 Atlantic Ave)",
+      "note": "Site shows Instagram posts only: happy hour 3-7 PM Tue-Thu, Wing Wednesday 99-cent wings; football menu is an unreadable image. Confirm terms (surfclubvabeach.com)."
+    },
+    {
+      "name": "Esoteric (ViBe District)",
+      "note": "Last-known (visitor bureau): Tue-Fri 4-6 PM 'Last Meeting of the Day', $6 wine and beer, $2 off cocktails. Official site not found in search. Confirm and find source."
+    },
+    {
+      "name": "Bay Local Eatery (Shore Drive)",
+      "note": "Site baylocalvb.com could not be fetched (permission timed out). Check for happy hour/specials."
+    },
+    {
+      "name": "Mermaid Winery (Shore Drive)",
+      "note": "Site mermaidwinery.com could not be fetched (permission timed out). Check for happy hour/specials."
+    },
+    {
+      "name": "Big Sam's Inlet Cafe & Raw Bar",
+      "note": "last-known (Food): Tiki Time: $0.99 clams, $1.59 oysters, $9.99 half-pound steamed shrimp — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://bigsamsrawbar.com/wp-content/uploads/2026/07/Big-Sams-MM-Rev-R7671515-LR2.pdf"
+    },
+    {
+      "name": "Hot Tuna",
+      "note": "last-known (Food): $1 raw oysters and shrimp cocktail, $5 mahi or shrimp tacos — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hottunavb.com/specials"
+    },
+    {
+      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
+      "note": "last-known (Food): Monday Wing & Shrimp Night: 99-cent wings, $10 half-pound steamed shrimp — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials"
+    },
+    {
+      "name": "Chix on the Beach",
+      "note": "last-known (Food): Game Day food specials: $8.99 wing combo, $8 onion rings, corn dog bites or pepperoni roll — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.chixvb.com/_files/ugd/f01807_c0cc86714d8f45c8bed932c44c93778a.pdf"
+    },
+    {
+      "name": "Hot Tuna",
+      "note": "last-known (Drinks): Happy hour: $4 domestic beers, $5 drafts, wells and wines, $6 crushes — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hottunavb.com/specials"
+    },
+    {
+      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
+      "note": "last-known (Drinks): Thirsty Thursday: $5 VB and Orange Crushes — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials"
+    },
+    {
+      "name": "Chix on the Beach",
+      "note": "last-known (Drinks): Game Day drinks: $6 Orange Crush, $3 PBR, $4.50 Bud Light — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.chixvb.com/_files/ugd/f01807_c0cc86714d8f45c8bed932c44c93778a.pdf"
+    },
+    {
+      "name": "Holiday Trail of Lights (Virginia Aquarium)",
+      "note": "last-known (Adventures): Military Mondays: $16 adults, $10 children — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://beacheventsvb.com/event/holiday-lights-at-the-beach/"
+    }
+  ]
 }

@@ -3,6 +3,214 @@
   "updated": "2026-11-24",
   "deals": [
     {
+      "category": "Adventures",
+      "name": "Lightner Museum",
+      "deal": "$12 admission for St. Johns County residents; $17 seniors, students and military",
+      "details": "Adult admission is $20; residents pay $12 with valid ID. Children 11 and under are free.",
+      "town": "St. Augustine",
+      "location": "Downtown St. Augustine",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://lightnermuseum.org/hours-admission/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Ripley's Red Train Tours",
+      "deal": "30% off for active military, veterans and immediate family",
+      "details": "Mention the discount on arrival and show ID; available only at the ticket counter, not online. Does not apply to the Haunted Castle Investigation.",
+      "town": "St. Augustine",
+      "location": "Downtown St. Augustine",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.ripleys.com/attractions/ripleys-red-train-tours-st-augustine/faq",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Ripley's Red Train Tours",
+      "deal": "50% off for St. Johns County residents",
+      "details": "Bring ID and buy discounted tickets at the door. Seniors over 55 get a second ticket at 50% off; resident and senior discounts do not apply to the Haunted Castle Investigation.",
+      "town": "St. Augustine",
+      "location": "Downtown St. Augustine",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.ripleys.com/attractions/ripleys-red-train-tours-st-augustine/faq",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "St. Augustine Alligator Farm Zoological Park",
+      "deal": "10% off admission for AAA, military and seniors",
+      "details": "Adult admission is $36.99 and children 3-11 are $21.99, before sales tax. Tickets are sold online or at the gate.",
+      "town": "St. Augustine",
+      "location": "Anastasia Island",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://alligatorfarm.com/tickets-info/ticket-pricing",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "St. Augustine Distillery",
+      "deal": "Free self-guided distillery tour, daily 10:30 AM-5:30 PM",
+      "details": "No reservation required for self-guided tours. Guests must show valid ID to take part in spirit tastings.",
+      "town": "St. Augustine",
+      "location": "112 Riberia St",
+      "days": "Daily",
+      "hours": "10:30 AM-5:30 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.staugustinedistillery.com/self-guided-tours",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Aqua Grill",
+      "deal": "$5 well spirits, $7 well martinis and old fashioneds, Mon-Fri 3-7 PM",
+      "details": "Bar only. Also $3 off wine by the glass and call spirits, and $2 off draft and bottled beer.",
+      "town": "Ponte Vedra Beach",
+      "location": "395 Front St",
+      "days": "Mon-Fri",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.aquagrill.net/menu/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Ice Plant Bar",
+      "deal": "$9 select cocktails and $7 house punch during happy hour",
+      "details": "Happy hour runs Monday to Friday 3-5 PM, Sunday to Thursday 9 PM-midnight, and Friday and Saturday 11 PM-1:30 AM.",
+      "town": "St. Augustine",
+      "location": "110 Riberia St",
+      "days": "Daily",
+      "hours": "Mon-Fri 3-5 PM · Sun-Thu 9 PM-12 AM · Fri-Sat 11 PM-1:30 AM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://iceplantbar.com/menu/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Kingfish Grill",
+      "deal": "$2 off well drinks and $10 bar snacks, 4-6 PM",
+      "details": "Happy hour runs Wednesday through Monday, 4 to 6 PM; the restaurant is closed Tuesdays.",
+      "town": "St. Augustine",
+      "location": "St. Augustine",
+      "days": "Wed-Mon",
+      "hours": "4-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://kingfishgrill.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Mojo BBQ Old City",
+      "deal": "$1 off beer and wine, $2 off signature cocktails and house liquor, Mon-Fri 3-6 PM",
+      "details": "Happy hour Monday to Friday, 3 to 6 PM.",
+      "town": "St. Augustine",
+      "location": "5 Cordova St",
+      "days": "Mon-Fri",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://mojobbq.com/mojo-bbq-old-city/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Pizzalley's Chianti Room",
+      "deal": "Half off draft beer, house wine and single well liquor, Mon-Fri 3-6 PM",
+      "details": "Happy hour applies with alcoholic drink purchase and may not be valid on certain holidays and special events.",
+      "town": "St. Augustine",
+      "location": "60 Charlotte St",
+      "days": "Mon-Fri",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://pizzalleyschiantiroom.com/wp-content/uploads/2025/02/Drink-Selection.pdf",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Taco Libre",
+      "deal": "$1 off beer, wine and specialty cocktails, Mon-Fri 2-6 PM",
+      "details": "Happy hour Monday to Friday, 2 to 6 PM. Also $4.99 High Noon and 2-for-1 house wines on Wednesdays.",
+      "town": "St. Augustine Beach",
+      "location": "1001 A1A Beach Blvd",
+      "days": "Mon-Fri",
+      "hours": "2-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://tacolibrestaugustine.com/optimamedia/products/P_24856/5c99eb92-0b7b-4efa-b57d-24ef30b25d6d.pdf",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "The BoatHouse",
+      "deal": "Half off drafts, wine and single liquor drinks, Mon-Fri 4-7 PM",
+      "details": "At the bar top only. Select appetizers, including some sushi, are also half off.",
+      "town": "St. Augustine",
+      "location": "160 Nix Boat Yard Rd",
+      "days": "Mon-Fri",
+      "hours": "4-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://theboathousesta.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "The Original Cafe Eleven",
+      "deal": "Half-price draft beer and wine daily, 3-7 PM",
+      "details": "Includes select cans. Happy hour times may change when events are scheduled.",
+      "town": "St. Augustine Beach",
+      "location": "501 A1A Beach Blvd",
+      "days": "Daily",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://originalcafe11.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
       "category": "Drinks",
       "name": "The Reef Restaurant",
       "deal": "Happy hour Mon-Sat 3-7 PM, Sun 4:30-7 PM",
@@ -17,72 +225,148 @@
       "checked": "2026-11-24",
       "link": "",
       "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Aqua Grill",
+      "deal": "$2 oysters (minimum 6), $7 sliders, $9 wings, Mon-Fri 3-6 PM",
+      "details": "Happy hour bar bites at the bar only. Also $11 P.E.I. mussels and $12 loaded fries.",
+      "town": "Ponte Vedra Beach",
+      "location": "395 Front St",
+      "days": "Mon-Fri",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.aquagrill.net/menu/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Mulligan's Pub",
+      "deal": "$13 lunch special: half sandwich or salad with soup or house salad",
+      "details": "Choose two from turkey club, BLT, two sliders, grilled cheese, Caesar salad, house salad or soup of the day.",
+      "town": "Ponte Vedra Beach",
+      "location": "43 TPC Blvd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.mulliganspvbpub.com/menu",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Taco Libre",
+      "deal": "$1 off tacos Tuesday, $1 off burritos Monday",
+      "details": "Weekly specials at both St. Augustine-area locations. Thursday has a $6.99 cocktail of the day.",
+      "town": "St. Augustine Beach",
+      "location": "1001 A1A Beach Blvd",
+      "days": "Mon, Tue",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://tacolibrestaugustine.com/optimamedia/products/P_24856/5c99eb92-0b7b-4efa-b57d-24ef30b25d6d.pdf",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "The BoatHouse",
+      "deal": "$15 whole Maine lobster dinner on Thursday with purchase of an appetizer",
+      "details": "Thursday lobster dinner special.",
+      "town": "St. Augustine",
+      "location": "160 Nix Boat Yard Rd",
+      "days": "Thu",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://theboathousesta.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "The BoatHouse",
+      "deal": "50¢ oysters on Wednesday with purchase of an appetizer",
+      "details": "Raw or steamed. Other weekly specials with an appetizer purchase: $12 per pound crab legs Monday and a $15 one-pound shrimp dinner Tuesday.",
+      "town": "St. Augustine",
+      "location": "160 Nix Boat Yard Rd",
+      "days": "Wed",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://theboathousesta.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
     }
   ],
   "pending": [
     {
-      "name": "Ice Plant Bar & Restaurant",
-      "note": "last-known: listed under Happy Hour on visitstaugustine.com and floridashistoriccoast.com 'Hot Happy Hours'; no deal terms given. 110 Riberia St. Confirm current deal + find source."
-    },
-    {
       "name": "Harry's Seafood Bar & Grille",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours'; no terms given. Confirm current deal + find source (hookedonharrys.com)."
+      "note": "Harry's own blog (hookedonharrys.com/?p=17991) states 'Happy Hour not available in our St. Augustine location.' No other St. Augustine deal found. Suggest dropping."
     },
     {
       "name": "Cap's on the Water",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Vilano Beach); no terms given. Confirm current deal + find source (capsonthewater.com)."
+      "note": "capsonthewater.com events and menus pages checked 2026-11-24: no happy hour or specials listed. Hours Mon-Fri 4 PM-close, Sat-Sun 11:30 AM-close. Homepage fetch blocked."
     },
     {
       "name": "Salt Life Food Shack",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour (St. Augustine Beach); no terms given. Confirm current deal + find source (saltlifefoodshack.com)."
+      "note": "saltlifefoodshack.com St. Augustine location page failed to load 2026-11-24. Try https://saltlifefoodshack.com/st-augustine-beach/menu-st-aug next week."
     },
     {
       "name": "Milltop Tavern",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (milltoptavern.com)."
-    },
-    {
-      "name": "Kingfish Grill",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (kingfishgrill.com)."
+      "note": "milltoptavern.com/daily-specials lists specials items only (fried chicken club, mushroom Swiss burger, etc.), no prices/days/happy hour. Homepage fetch blocked."
     },
     {
       "name": "Boat Drinks",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours'; no terms given. Confirm current deal + find source (boatdrinksbar.com)."
-    },
-    {
-      "name": "The Original Cafe Eleven",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (St. Augustine Beach); no terms given. Confirm current deal + find source (originalcafe11.com)."
+      "note": "boatdrinksbar.com has a 'Happy Hour' menu section (e.g. Motorboatin Mule) but pages failed to load 2026-11-24. Confirm terms."
     },
     {
       "name": "Shaughnessy's Sports Grill",
-      "note": "last-known: visitstaugustine.com Happy Hour listing mentions a happy hour; no terms given. Confirm current deal + find source."
-    },
-    {
-      "name": "Pizzalley's Chianti Room",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (pizzalleyschiantiroom.com)."
+      "note": "No official website found 2026-11-24 (only visitor-bureau and Groupon listings). Confirm current deal + find source."
     },
     {
       "name": "Taberna del Caballo",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Colonial Quarter); no terms given. Confirm current deal + find source (colonialquarter.com)."
-    },
-    {
-      "name": "Aqua Grill",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Ponte Vedra Beach); no terms given. Confirm current deal + find source (aquagrill.net)."
-    },
-    {
-      "name": "Mulligan's Pub",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Ponte Vedra Beach); no terms given. Confirm current deal + find source (mulliganspvbpub.com)."
+      "note": "No official page found on search 2026-11-24 (colonialquarter.com not indexed for happy hour). Confirm current deal + find source."
     },
     {
       "name": "1912 Ocean Bar & Rooftop",
-      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Ponte Vedra Beach); no terms given. Confirm current deal + find source (1912oceanbarandrooftop.com)."
+      "note": "1912oceanbarandrooftop.com/menus/ states happy hour in 2nd-floor restaurant bar Mon-Fri 4-7 PM, but prices are only in an image/PDF not readable. Confirm terms."
     },
     {
       "name": "The Tides Oyster Co. & Grill",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour; no terms given. Confirm current deal + find source."
+      "note": "No official website found 2026-11-24 (641 A1A Beach Blvd, St. Augustine Beach). Confirm current deal + find source."
     },
     {
       "name": "Valley Smoke BBQ",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Ponte Vedra Beach); no terms given. Confirm current deal + find source (valleysmoke.com)."
+      "note": "valleysmoke.com/happy-hour/ lists $5 house single mix drink, $4 Yuengling draft, $4 Bud Light/Miller Lite, $5 Windstorm wines but gives no happy hour times; a 2020 blog post says Mon-Thu 4-6:30 PM. Confirm current hours before listing."
+    },
+    {
+      "name": "Beaches at Vilano",
+      "note": "beachesatvilano.com states 'Happy Hour Monday-Friday 3pm-7pm' (254 Vilano Rd) but no prices; terms may be in drink menu PDF. Confirm terms."
+    },
+    {
+      "name": "Crabby's Beachside",
+      "note": "crabbysbeachside.com mentions daily happy hour drink specials with no terms (361 A1A Beach Blvd). Confirm terms."
+    },
+    {
+      "name": "St. Augustine Pirate & Treasure Museum",
+      "note": "thepiratemuseum.com/visit says 'Purchase tickets online and save!' with adult online admission $18.99, but no walk-up price or savings amount stated. Confirm the saving."
+    },
+    {
+      "name": "St. Augustine Lighthouse & Maritime Museum",
+      "note": "staugustinelighthouse.org/visit-old/ (last modified 2024) mentions discounts for veterans, local first responders, students, members with no amounts. Find current admission page."
+    },
+    {
+      "name": "Old Town Trolley Tours",
+      "note": "trolleytours.com/st-augustine/coupons-promotions lists only discount parking packages, military tickets via NAS JAX/Mayport, Veterans Day (past) and a sold-out resident pass. No current confirmable discount amount."
     }
   ]
 }

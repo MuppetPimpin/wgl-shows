@@ -5,23 +5,6 @@
     {
       "category": "Adventures",
       "name": "Brevard Zoo",
-      "deal": "$5 off onsite admission for military, veterans and families",
-      "details": "Current military members and veterans, plus spouses or dependents, with proof of service. Discounts must be purchased at the zoo.",
-      "town": "Melbourne",
-      "location": "8225 N Wickham Rd",
-      "days": "",
-      "hours": "",
-      "valid_through": "",
-      "featured": false,
-      "source": "https://brevardzoo.org/visit/discounts/",
-      "checked": "2026-11-24",
-      "link": "",
-      "phone": "321-254-9453",
-      "price_chip": "$5 OFF"
-    },
-    {
-      "category": "Adventures",
-      "name": "Brevard Zoo",
       "deal": "$18 admission for Florida seniors 65+, Dec 1-24",
       "details": "Florida residents 65 and older with a state-issued photo ID (or utility bill with matching photo ID). Cannot be combined with other discounts.",
       "town": "Melbourne",
@@ -35,6 +18,23 @@
       "link": "",
       "phone": "",
       "price_chip": "$18"
+    },
+    {
+      "category": "Adventures",
+      "name": "Brevard Zoo",
+      "deal": "$5 off onsite admission for military, veterans and families",
+      "details": "Current military members and veterans, plus spouses or dependents, with proof of service. Discounts must be purchased at the zoo.",
+      "town": "Melbourne",
+      "location": "8225 N Wickham Rd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://brevardzoo.org/visit/discounts/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "321-254-9453",
+      "price_chip": "$5 OFF"
     },
     {
       "category": "Adventures",
@@ -68,6 +68,22 @@
       "checked": "2026-11-24",
       "link": "",
       "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Cocoa Kayaking (OceanCure cleanup tours)",
+      "deal": "20% off OceanCure cleanup tours with promo code OCEANCURE",
+      "details": "Cleanup kayak tours run from the Cocoa Beach, Merritt Island and Titusville locations; the site says all profits go toward ocean cleanups.",
+      "town": "Cocoa Beach",
+      "location": "Cocoa Beach, Merritt Island and Titusville launch sites",
+      "days": "Daily",
+      "hours": "By reservation",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.cocoakayaking.com/",
+      "checked": "2026-11-24",
+      "link": "https://www.cocoakayaking.com/",
+      "phone": "321-415-9183"
     },
     {
       "category": "Adventures",
@@ -268,6 +284,22 @@
     },
     {
       "category": "Food",
+      "name": "Long Doggers",
+      "deal": "$6 happy hour food specials Mon-Fri 2-6 PM: wings Mon, 2 chicken carnitas tacos Tue, pickle dip and chips Wed, clam strips Thu, buffalo shrimp Fri",
+      "details": "Dine-in only; $5 pretzel bites Mon-Fri. The same happy hour includes $3 Hatteras Red and Bud Light draft pints and $1 off local craft beers and wines by the glass.",
+      "town": "Cocoa Beach",
+      "location": "Long Doggers Space Coast locations (dine-in)",
+      "days": "Mon-Fri",
+      "hours": "2-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.longdoggers.com/news-item/happy-hour-food-specials/",
+      "checked": "2026-11-24",
+      "link": "https://www.longdoggers.com/",
+      "phone": ""
+    },
+    {
+      "category": "Food",
       "name": "Rusty's Seafood & Oyster Bar",
       "deal": "$14 early bird specials daily, 11 AM-6 PM",
       "details": "Dine-in only. Choices include fish of the day, fried shrimp, sirloin steak, chicken, shrimp scampi and pasta, and a rice and bean bowl.",
@@ -346,7 +378,7 @@
     },
     {
       "name": "Salty Sisters",
-      "note": "last-known: Mon 10% off military, Tue $8 build-your-own burger, Wed half-off wings, Thu half-off pulled sandwiches (vibeanddine.com). Confirm current deal + find source."
+      "note": "saltysisterscocoabeach.com returned Cloudflare 522 on 2026-11-24 (domain unverified). Confirm current deal + find source."
     },
     {
       "name": "Squid Lips (Cocoa Beach)",
@@ -355,10 +387,6 @@
     {
       "name": "Boardwalk Bar / Riki Tiki Tavern (Westgate Cocoa Beach Pier)",
       "note": "last-known: Riki Tiki happy hour Mon-Fri 4-7 PM (vibeanddine.com); pier site says only 'best happy hour on Cocoa Beach' with no details. Confirm current deal + find source."
-    },
-    {
-      "name": "Long Doggers (food happy hour)",
-      "note": "last-known: new happy hour food specials Mon-Fri 2-6 PM, dine-in; items only in an image on longdoggers.com/news-item/happy-hour-food-specials/. Confirm items + prices."
     },
     {
       "name": "Ryan's Pizza and Pub (Cocoa Village)",
@@ -370,11 +398,11 @@
     },
     {
       "name": "Andretti Thrill Park",
-      "note": "last-known: special offers page incl. Unlimited Attractions All Day Pass (andrettithrillpark.com/special-offers/, could not be fetched). Confirm current deal + find source."
+      "note": "andrettithrillpark.com/special-offers/ returned Cloudflare 522 on 2026-11-24."
     },
     {
       "name": "Cocoa Kayaking (GIVETHANKS code)",
-      "note": "last-known: own site banner says promo code GIVETHANKS for 20% off all guided tours, no end date stated (holiday promo, needs valid_through). Confirm end date before listing."
+      "note": "Banner still shows GIVETHANKS for 20% off all guided tours on 2026-11-24, with no end date stated. Keep out until an end date is posted."
     },
     {
       "name": "Grills Seafood Deck & Tiki Bar (Port Canaveral)",
