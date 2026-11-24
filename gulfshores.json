@@ -1,5 +1,50 @@
 {
   "_readme": "What's Good Local weekly show feed for Gulf Shores & Orange Beach. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "shows": []
+  "updated": "2026-11-24",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Tennessee Tim and Doug Drake",
+      "venue": "LuLu's Gulf Shores",
+      "town": "Gulf Shores",
+      "when": "Wed Nov 25 · 4 PM",
+      "start": "2026-11-25T16:00",
+      "end": "2026-11-25T20:00",
+      "address": "200 E 25th Ave, Gulf Shores, AL 36542",
+      "source": "https://lulusfunfoodmusic.com/venue/lulus-gulf-shores"
+    },
+    {
+      "kind": "free",
+      "band": "GypsyPearl",
+      "venue": "LuLu's Gulf Shores",
+      "town": "Gulf Shores",
+      "when": "Sun Nov 29 · 1 PM",
+      "start": "2026-11-29T13:00",
+      "end": "2026-11-29T17:00",
+      "address": "200 E 25th Ave, Gulf Shores, AL 36542",
+      "source": "https://lulusfunfoodmusic.com/venue/lulus-gulf-shores"
+    },
+    {
+      "kind": "free",
+      "band": "Mike Estep and John Keuler",
+      "venue": "LuLu's Gulf Shores",
+      "town": "Gulf Shores",
+      "when": "Sat Dec 5 · 4 PM",
+      "start": "2026-12-05T16:00",
+      "end": "2026-12-05T20:00",
+      "address": "200 E 25th Ave, Gulf Shores, AL 36542",
+      "source": "https://lulusfunfoodmusic.com/all-events"
+    },
+    {
+      "kind": "free",
+      "band": "Logan Lassiter",
+      "venue": "LuLu's Gulf Shores",
+      "town": "Gulf Shores",
+      "when": "Sat Dec 12 · 4 PM",
+      "start": "2026-12-12T16:00",
+      "end": "2026-12-12T20:00",
+      "address": "200 E 25th Ave, Gulf Shores, AL 36542",
+      "source": "https://lulusfunfoodmusic.com/venue/lulus-gulf-shores/page/2/"
+    }
+  ]
 }
