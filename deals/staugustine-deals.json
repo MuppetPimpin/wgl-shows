@@ -1,6 +1,75 @@
 {
   "_readme": "What's Good Local weekly deals feed for St. Augustine. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "deals": [],
-  "pending": []
+  "pending": [
+    {
+      "name": "Ice Plant Bar & Restaurant",
+      "note": "last-known: listed under Happy Hour on visitstaugustine.com and floridashistoriccoast.com 'Hot Happy Hours'; no deal terms given. 110 Riberia St. Confirm current deal + find source."
+    },
+    {
+      "name": "Harry's Seafood Bar & Grille",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours'; no terms given. Confirm current deal + find source (hookedonharrys.com)."
+    },
+    {
+      "name": "Cap's on the Water",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Vilano Beach); no terms given. Confirm current deal + find source (capsonthewater.com)."
+    },
+    {
+      "name": "The Reef Restaurant",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Vilano Beach); no terms given. Confirm current deal + find source (thereefstaugustine.com)."
+    },
+    {
+      "name": "Salt Life Food Shack",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour (St. Augustine Beach); no terms given. Confirm current deal + find source (saltlifefoodshack.com)."
+    },
+    {
+      "name": "Milltop Tavern",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (milltoptavern.com)."
+    },
+    {
+      "name": "Kingfish Grill",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (kingfishgrill.com)."
+    },
+    {
+      "name": "Boat Drinks",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours'; no terms given. Confirm current deal + find source (boatdrinksbar.com)."
+    },
+    {
+      "name": "The Original Cafe Eleven",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (St. Augustine Beach); no terms given. Confirm current deal + find source (originalcafe11.com)."
+    },
+    {
+      "name": "Shaughnessy's Sports Grill",
+      "note": "last-known: visitstaugustine.com Happy Hour listing mentions a happy hour; no terms given. Confirm current deal + find source."
+    },
+    {
+      "name": "Pizzalley's Chianti Room",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com; no terms given. Confirm current deal + find source (pizzalleyschiantiroom.com)."
+    },
+    {
+      "name": "Taberna del Caballo",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Colonial Quarter); no terms given. Confirm current deal + find source (colonialquarter.com)."
+    },
+    {
+      "name": "Aqua Grill",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Ponte Vedra Beach); no terms given. Confirm current deal + find source (aquagrill.net)."
+    },
+    {
+      "name": "Mulligan's Pub",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Ponte Vedra Beach); no terms given. Confirm current deal + find source (mulliganspvbpub.com)."
+    },
+    {
+      "name": "1912 Ocean Bar & Rooftop",
+      "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Ponte Vedra Beach); no terms given. Confirm current deal + find source (1912oceanbarandrooftop.com)."
+    },
+    {
+      "name": "The Tides Oyster Co. & Grill",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour; no terms given. Confirm current deal + find source."
+    },
+    {
+      "name": "Valley Smoke BBQ",
+      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Ponte Vedra Beach); no terms given. Confirm current deal + find source (valleysmoke.com)."
+    }
+  ]
 }

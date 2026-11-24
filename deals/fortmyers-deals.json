@@ -1,6 +1,312 @@
 {
   "_readme": "What's Good Local weekly deals feed for Fort Myers Beach & Sanibel. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "deals": [],
-  "pending": []
+  "updated": "2026-11-24",
+  "deals": [
+    {
+      "category": "Adventures",
+      "name": "Calusa Nature Center & Planetarium",
+      "deal": "Discounts for seniors, students, military, first responders and AAA; under 3 free",
+      "details": "General admission is $13 for adults and $7 for children 3-12; the center lists discounts for seniors, students, military, first responders and AAA members without stating the amounts.",
+      "town": "Fort Myers",
+      "location": "3450 Ortiz Ave",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.calusanature.org/naturecenter",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Edison & Ford Winter Estates",
+      "deal": "Military veterans $2 off admission + 10% off Museum Store",
+      "details": "Veterans receive $2 off admission and 10% off Museum Store items year-round. SNAP/EBT cardholders get general admission for up to 4 people through Museums for All (not special events, guided tours or Holiday Nights).",
+      "town": "Fort Myers",
+      "location": "2350 McGregor Blvd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.edisonfordwinterestates.org/visit/visitor-information/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$2 OFF"
+    },
+    {
+      "category": "Adventures",
+      "name": "Tarpon Bay Explorers (Nature & Sealife Cruise)",
+      "deal": "Nature & Sealife cruise $35 adults, $25 children",
+      "details": "Rates are $35 for adults and $25 for children, tax not included.",
+      "town": "Sanibel",
+      "location": "900 Tarpon Bay Rd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://tarponbayexplorers.com/tour/nature-sealife-cruise/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "239-472-8900"
+    },
+    {
+      "category": "Adventures",
+      "name": "Tarpon Bay Explorers (Refuge Tram Tour)",
+      "deal": "J.N. \"Ding\" Darling refuge tram tour $22 adults, $13 children",
+      "details": "Guided tram tour of the wildlife refuge; $22 adults, $13 children, tax not included. Pickup is at 900 Tarpon Bay Rd.",
+      "town": "Sanibel",
+      "location": "900 Tarpon Bay Rd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://tarponbayexplorers.com/tour/refuge-tram-tour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "239-472-8900"
+    },
+    {
+      "category": "Drinks",
+      "name": "Coconut Jack's Waterfront Grille",
+      "deal": "Happy hour daily 3-6 PM: drink specials + bar bites",
+      "details": "Daily drink specials at the bar and throughout the restaurant; the bar bites menu is served in the bar area only.",
+      "town": "Bonita Springs",
+      "location": "",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://coconutjacks.com/happy-hour-bar-bites/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "JWB Grill",
+      "deal": "$12 martinis Mondays + 50% off featured wine bottles Wednesdays",
+      "details": "Martini Mondays: $12 handcrafted martinis every Monday. Wine Down Wednesday: 50% off featured bottles from a curated selection.",
+      "town": "Fort Myers Beach",
+      "location": "Margaritaville Beach Resort · 251 Crescent St",
+      "days": "Mon, Wed",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/jwb-grill",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "License to Chill Bar & Grill",
+      "deal": "$5 drafts and cans, $8 wells, $10 cocktails and frozen drinks, daily 1-5 PM",
+      "details": "Happy hour daily 1-5 PM: $5 16 oz drafts and canned beers or seltzers, $8 well drinks, $10 specialty cocktails, frozen drinks and select wines.",
+      "town": "Fort Myers Beach",
+      "location": "Margaritaville Beach Resort · 251 Crescent St",
+      "days": "Daily",
+      "hours": "1-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill/license-to-chill-bar-grill-happy-hour-menu",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$5 BEER"
+    },
+    {
+      "category": "Drinks",
+      "name": "Matanzas on the Bay",
+      "deal": "$2.75 domestic bottles, $3.50 wells and house wine, daily 3-6 PM",
+      "details": "Happy hour bar menu also includes $5 spritzers and lemonades and a $6 Fire-Chata shot. The menu lists 3-6 PM daily; the site footer lists happy hour as 11 AM-6 PM Mon-Fri.",
+      "town": "Fort Myers Beach",
+      "location": "416 Crescent St",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://matanzasonthebay.com/menus/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$2.75 BEER"
+    },
+    {
+      "category": "Drinks",
+      "name": "Matanzas on the Bay (Petey's Upper Deck)",
+      "deal": "Reggae Sunday: $30 bucket of 5 beers",
+      "details": "Sundays at Petey's Upper Deck with steel drums, a reggae band and a DJ; a bucket of 5 beers is $30.",
+      "town": "Fort Myers Beach",
+      "location": "416 Crescent St",
+      "days": "Sun",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://matanzasonthebay.com/theme-nights-events/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "The Sanibel Grill",
+      "deal": "$2 off wells and house wine + $3 Bud Light and Shock Top drafts, daily 4-6 PM",
+      "details": "Happy hour every day from 4 to 6 PM.",
+      "town": "Sanibel",
+      "location": "703 Tarpon Bay Rd",
+      "days": "Daily",
+      "hours": "4-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://thesanibelgrill.com/menus/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "(239) 472-4453",
+      "price_chip": "$3 DRAFTS"
+    },
+    {
+      "category": "Drinks",
+      "name": "Yucatan Beach Stand Tiki Bar & Grill",
+      "deal": "Happy hour Mon-Fri 2-5 PM",
+      "details": "Happy hour runs Monday to Friday, 2 to 5 PM; prices are on the bar's separate happy hour menu.",
+      "town": "Fort Myers Beach",
+      "location": "250 Old San Carlos Blvd",
+      "days": "Mon-Fri",
+      "hours": "2-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://yucatanbeachstand.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Lazy Flamingo (Fort Myers)",
+      "deal": "Bring your catch, they cook it: $10.99 (up to 10 oz)",
+      "details": "\"Your Catch\" is $10.99 per order, maximum 10 oz.",
+      "town": "Fort Myers",
+      "location": "12951 McGregor Blvd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://lazyflamingo.com/fort-myers/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Lazy Flamingo (Sanibel)",
+      "deal": "Bring your catch, they cook it: $10.99 (up to 10 oz)",
+      "details": "\"Your Catch\" is $10.99 per order, maximum 10 oz.",
+      "town": "Sanibel",
+      "location": "1036 Periwinkle Way",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://lazyflamingo.com/sanibel-island/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "License to Chill Bar & Grill",
+      "deal": "$10 small bites, daily 1-5 PM",
+      "details": "Happy hour small bites at $10: Bay Bread, Pork Nachos, or Chicken Tinga Tacos with chips and salsa.",
+      "town": "Fort Myers Beach",
+      "location": "Margaritaville Beach Resort · 251 Crescent St",
+      "days": "Daily",
+      "hours": "1-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill/license-to-chill-bar-grill-happy-hour-menu",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Matanzas on the Bay",
+      "deal": "Happy hour bites from $5: con queso $5, wings or fish dip $7, half-order oysters $10",
+      "details": "Happy hour kitchen menu also lists coconut shrimp and calamari at $8 and buffalo shrimp at $9. The menu lists 3-6 PM daily.",
+      "town": "Fort Myers Beach",
+      "location": "416 Crescent St",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://matanzasonthebay.com/menus/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    }
+  ],
+  "pending": [
+    {
+      "name": "Lah De Dah Beach Bar & Grill (Margaritaville)",
+      "note": "last-known: resort pages list happy hour daily 5-8 PM (a resort blog says 8-11 PM) with no prices; fortmyersbeach.org lists $9.95 tapas, $5 drafts, $6 wines, $7 wells. Confirm current deal + find source (happy hour menu page)."
+    },
+    {
+      "name": "Pinchers (Fort Myers Beach / Fort Myers / Bonita Springs)",
+      "note": "last-known: pinchersusa.com/menu lists happy hour food 3-6 PM ($2 oysters and wings, $1.25 shrimp and clams) and all-day drink specials, but no location or days stated. Confirm which SWFL locations take part + find source."
+    },
+    {
+      "name": "Cabanas Beach Bar & Grille (DiamondHead Beach Resort)",
+      "note": "last-known: daily 3-6 PM, $7 craft drafts, $6 domestic drafts and house wine, $5 wells (fortmyersbeach.org). Confirm current deal + find source."
+    },
+    {
+      "name": "Mr. Waves Island Bar",
+      "note": "last-known: daily 3-6 PM, $1 off domestics, wines and well drinks (fortmyersbeach.org). Confirm current deal + find source."
+    },
+    {
+      "name": "Smokin' Oyster Brewery",
+      "note": "last-known: Mon-Fri 11 AM-1 PM, $1 off Gulf oysters and $1 domestic beer (fortmyersbeach.org); own menu page shows no happy hour. Confirm current deal + find source."
+    },
+    {
+      "name": "Wahoo Willie's",
+      "note": "last-known: Mon-Fri 1-5 PM, $6-8 margaritas, $6 wells, $4 domestics, $8-14 food (fortmyersbeach.org). Confirm current deal + find source (site redirect loop today)."
+    },
+    {
+      "name": "Bayside Sports Bar and Grille",
+      "note": "last-known: Mon-Fri 2-6 PM, specials on domestic drafts, wells and house wines (fortmyersbeach.org). Confirm current deal + find source."
+    },
+    {
+      "name": "Island View Restaurant / Grace's Trattoria (Lani Kai Island Resort)",
+      "note": "last-known: Island View Mon-Sat 4-5 PM $1 off domestics and wells, $8 house wine; Grace's daily 4-5 PM $1 off all drinks (fortmyersbeach.org). Confirm current deal + find source."
+    },
+    {
+      "name": "Valerie's Lounge & Liquors",
+      "note": "last-known: Mon-Fri 3-6 PM, $5 wells/wines/imports, $4 domestics and 16 oz drafts, $7 pitchers, $6.99 food (fortmyersbeach.org; business only has Facebook). Confirm current deal + find source."
+    },
+    {
+      "name": "PopStroke Fort Myers Beach",
+      "note": "last-known: Mon-Thu 3-6 PM, $5 PopStroke Lager, $10 Paloma Spritz and frozen margarita (fortmyersbeach.org). Confirm current deal + find source on popstroke.com location page."
+    },
+    {
+      "name": "MudBugs Cajun Kitchen (Sanibel)",
+      "note": "last-known: own site lists happy hour three different ways (Mon-Fri 3-6, daily 3-6, daily 2-6) with no prices. Confirm current deal + find source."
+    },
+    {
+      "name": "Doc Ford's Rum Bar & Grille (Fort Myers Beach / Sanibel)",
+      "note": "last-known: none confirmed; homepage shows no happy hour, location pages could not be fetched. Check location pages and drink menu PDF."
+    },
+    {
+      "name": "Cip's Place (Sanibel)",
+      "note": "last-known: has a happy hour menu page (cipsplace.com/happy-hour-menu/) that returned a server error. Confirm current deal + find source."
+    },
+    {
+      "name": "Sushi Sake (Fort Myers Beach)",
+      "note": "last-known: Mon-Fri 3-5 PM, half off house drinks, hot appetizers and Thai donuts (fortmyersbeach.org). Find business site + confirm."
+    },
+    {
+      "name": "Captiva Cruises",
+      "note": "last-known: standard prices only (Dolphin & Wildlife cruise $40 adults, $30 kids 12 and under), no discount on own page. Confirm a real deal + source."
+    }
+  ]
 }

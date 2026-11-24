@@ -1,6 +1,385 @@
 {
   "_readme": "What's Good Local weekly deals feed for Galveston. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "deals": [],
-  "pending": []
+  "updated": "2026-11-24",
+  "deals": [
+    {
+      "category": "Adventures",
+      "name": "Galveston Island Historic Pleasure Pier",
+      "deal": "$2 off All Day Ride Passes with active military or VA ID",
+      "details": "Valid for up to four passes with a valid active military ID or VA ID card. Buy at the Pier Ticket Booth; not available online.",
+      "town": "Galveston",
+      "location": "Seawall",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.pleasurepier.com/tickets",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$2 OFF"
+    },
+    {
+      "category": "Adventures",
+      "name": "Galveston Naval Museum",
+      "deal": "Free admission for active duty military with ID",
+      "details": "Children under 5 free. Open daily 9 AM to 5 PM, last ticket at 4 PM; Seawolf Park charges $10 per vehicle for parking.",
+      "town": "Galveston",
+      "location": "Pelican Island · 100 Seawolf Pkwy (Seawolf Park)",
+      "days": "Daily",
+      "hours": "9 AM-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.galvestonnavalmuseum.com/faq",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "FREE"
+    },
+    {
+      "category": "Adventures",
+      "name": "Galveston Railroad Museum",
+      "deal": "Free admission for active military and veterans",
+      "details": "Regular admission is $12 adults, $9 seniors 65+ and $6 children; children 2 and under free. Train rides are $8 extra.",
+      "town": "Galveston",
+      "location": "The Strand · 123 25th St",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://galvestonrrmuseum.org/?p=868",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "FREE"
+    },
+    {
+      "category": "Adventures",
+      "name": "Moody Gardens",
+      "deal": "20% off the One-Day Value Pass for military and first responders",
+      "details": "For active-duty military, veterans, their spouses and children under 18, and police, fire and EMS with valid ID. On-site purchase only at the Visitor's Center ticket counter.",
+      "town": "Galveston",
+      "location": "Moody Gardens",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.moodygardens.com/attractions/tickets",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "20% OFF"
+    },
+    {
+      "category": "Adventures",
+      "name": "Ocean Star Offshore Drilling Rig & Museum",
+      "deal": "$35 family package (2 adults + up to 4 youth); $10 seniors and military",
+      "details": "Adults $12, youth 7-18 $8, children under 6 free. Open daily 10 AM to 5 PM, last ticket at 4 PM.",
+      "town": "Galveston",
+      "location": "Downtown Strand district",
+      "days": "Daily",
+      "hours": "10 AM-5 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://energyeducation.org/museum/tour-information",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "409-766-7827",
+      "price_chip": "$35 FAMILY"
+    },
+    {
+      "category": "Adventures",
+      "name": "Queen's Court Skating Rink (Hendley Green)",
+      "deal": "Tuesdays: one child 17 or younger skates free with each paid adult",
+      "details": "Seasonal rink in Trafalgar Square at Hendley Green, open November 28 through January 8. The free child skate is for the same session as the paid adult admission.",
+      "town": "Galveston",
+      "location": "The Strand · 2028 Strand St",
+      "days": "Tue",
+      "hours": "",
+      "valid_through": "2027-01-08",
+      "featured": false,
+      "source": "https://www.galvestonhistory.org/sites/hendley-green",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Brew Chachos Tacos",
+      "deal": "Happy hour $1 off wells, house 'ritas and all drafts, Mon-Fri 3-7 PM",
+      "details": "Also $4 mimosas and $5 Bloody Marys and micheladas all day Sunday.",
+      "town": "Galveston",
+      "location": "The Strand · 2110 Strand St",
+      "days": "Mon-Fri",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://brewchachostacos.com/specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$1 OFF"
+    },
+    {
+      "category": "Drinks",
+      "name": "Fisherman's Wharf",
+      "deal": "$10 bites, $8 frozen drinks, $5 domestic drafts, Mon-Fri 11 AM-6 PM",
+      "details": "Happy hour bites include fish and chips, shrimp kisses, crab cake sliders and shrimp queso.",
+      "town": "Galveston",
+      "location": "Harborside · 2200 Harborside Dr",
+      "days": "Mon-Fri",
+      "hours": "11 AM-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.fishermanswharfgalveston.com/event/happy-hour/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Float Pool Bar",
+      "deal": "$3 wells, $4 rocks margaritas, drafts from $2.75, Mon-Fri 4-7 PM",
+      "details": "Happy hour also includes pitchers $9-$11 and $6 to $7 appetizers.",
+      "town": "Galveston",
+      "location": "Seawall · 2828 Seawall Blvd",
+      "days": "Mon-Fri",
+      "hours": "4-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://floatpoolbar.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$3 WELLS"
+    },
+    {
+      "category": "Drinks",
+      "name": "Grotto Ristorante",
+      "deal": "$5 peach Bellinis, $8 small plates, $12 pizzas, Mon-Fri 4-6:30 PM",
+      "details": "Happy hour also has $5 seasonal drafts, $6 bottled beer and $8 wine. Located inside The San Luis Resort.",
+      "town": "Galveston",
+      "location": "Seawall · 5222 Seawall Blvd",
+      "days": "Mon-Fri",
+      "hours": "4-6:30 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.grottorestaurants.com/location/grotto-galveston-tx/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "409-740-8605"
+    },
+    {
+      "category": "Drinks",
+      "name": "Hearsay on the Strand",
+      "deal": "$6 cocktails, $5 spirits, $4 house wine, $3 domestic beer, Mon-Fri 3-6 PM",
+      "details": "Weekday happy hour with bites from $3.",
+      "town": "Galveston",
+      "location": "The Strand · 2410 Strand St",
+      "days": "Mon-Fri",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://hearsaygastrolounge.com/menu-hearsay-on-the-strand",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "409-539-5914"
+    },
+    {
+      "category": "Drinks",
+      "name": "Landry's Seafood House",
+      "deal": "$6 cocktails, wells and select wine, $3.50 domestic drafts, Mon-Fri 3:30-6:30 PM",
+      "details": "Bar and patio only. Happy hour food runs $7 to $15.",
+      "town": "Galveston",
+      "location": "Seawall · 5310 Seawall Blvd",
+      "days": "Mon-Fri",
+      "hours": "3:30-6:30 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.landrysseafoodhouse.com/location/landrys-seafood-galveston/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
+      "name": "Saltgrass Steak House",
+      "deal": "$3 domestic beers, $4 house margaritas and wells, Mon-Fri 3-7 PM",
+      "details": "Happy hour in the No Bull Lounge, with appetizers from $5.50.",
+      "town": "Galveston",
+      "location": "Seawall · 1502 Seawall Blvd",
+      "days": "Mon-Fri",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.saltgrass.com/location/saltgrass-galveston/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$3 BEER"
+    },
+    {
+      "category": "Drinks",
+      "name": "Shark Shack Beach Bar & Grill",
+      "deal": "$1 off well drinks and appetizers, Tue-Fri 2-6 PM",
+      "details": "Happy hour Tuesday through Friday, 2 to 6 PM.",
+      "town": "Galveston",
+      "location": "The Strand · 2402 Strand",
+      "days": "Tue-Fri",
+      "hours": "2-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://sharkshackbeachbarandgrill.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$1 OFF"
+    },
+    {
+      "category": "Drinks",
+      "name": "Willie G's Seafood & Steaks",
+      "deal": "$8 bites, $7 cocktails and well drinks, $8 martinis, Mon-Fri 11 AM-7 PM",
+      "details": "Bar and outside lounge only. Beer from $4.",
+      "town": "Galveston",
+      "location": "Pier 21 · 2100 Harborside",
+      "days": "Mon-Fri",
+      "hours": "11 AM-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.williegs.com/location/willie-gs-galveston/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "409-762-3030"
+    },
+    {
+      "category": "Food",
+      "name": "Brew Chachos Tacos",
+      "deal": "Taco Tuesday: 3 crispy beef tacos + Mexican beer $10 all day",
+      "details": "From 7 PM to close on Tuesdays, any two single tacos are $9 (tacos over $6.25 excluded).",
+      "town": "Galveston",
+      "location": "The Strand · 2110 Strand St",
+      "days": "Tue",
+      "hours": "All day",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://brewchachostacos.com/specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$10"
+    },
+    {
+      "category": "Food",
+      "name": "Float Pool Bar",
+      "deal": "Wednesday all-you-can-eat shrimp $20, 1-8 PM",
+      "details": "Includes a swizzle cocktail, fries, coleslaw and sauces; choose blackened, fried or grilled per order. Tuesday also has $3 tacos 6-8 PM.",
+      "town": "Galveston",
+      "location": "Seawall · 2828 Seawall Blvd",
+      "days": "Wed",
+      "hours": "1-8 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://floatpoolbar.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$20"
+    },
+    {
+      "category": "Food",
+      "name": "Landry's Seafood House",
+      "deal": "Chef Coursed Special $32: one starter + one entrée",
+      "details": "Not available on holidays.",
+      "town": "Galveston",
+      "location": "Seawall · 5310 Seawall Blvd",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.landrysseafoodhouse.com/location/landrys-seafood-galveston/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$32"
+    },
+    {
+      "category": "Food",
+      "name": "Sky Bar Steak & Sushi",
+      "deal": "Sushi and rolls $2-$2.25 a piece during happy hour, Mon-Thu 5-10 PM",
+      "details": "Happy hour also runs Friday 5-11 PM and Saturday 9-11 PM, with $5 wells, $5 house wine and $5 martinis on Thursdays.",
+      "town": "Galveston",
+      "location": "Downtown · 2105 Postoffice St",
+      "days": "Mon-Sat",
+      "hours": "Mon-Thu 5-10 PM, Fri 5-11 PM, Sat 9-11 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://skybargalveston.com/happy-hour-menu",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "",
+      "price_chip": "$2 SUSHI"
+    }
+  ],
+  "pending": [
+    {
+      "name": "Yaga's Cafe",
+      "note": "last-known: $10 margarita pitchers, $1 off drafts, $2 domestic bottles, Mon-Fri 4-7 PM; $2 drinks Fri 10-11 PM (Galveston.com happy hour list). Confirm current deal + find source."
+    },
+    {
+      "name": "Taquilo's Tex-Mex Cantina",
+      "note": "last-known: $4.50 margaritas, $3.50 bottled beer, Sun-Fri 11 AM-7 PM (Galveston.com happy hour list). Confirm current deal + find source."
+    },
+    {
+      "name": "Lucky Lounge",
+      "note": "last-known: $7 martinis Mondays, $2 frozen short margaritas Tuesdays (Galveston.com happy hour list). Confirm current deal + find source."
+    },
+    {
+      "name": "The Spot",
+      "note": "last-known: $4 margaritas, $2 longnecks; kids eat free Tuesdays (Galveston.com list, Galveston Monthly Jan 2025). Confirm current deal + find source."
+    },
+    {
+      "name": "Daiquiri Time Out (DTO)",
+      "note": "last-known: happy hour all day Mon, Tue-Fri 4-7 PM confirmed on dtogalveston.com but no prices there; $6 cocktails, $1 off drafts per blog list. Confirm prices + find source."
+    },
+    {
+      "name": "Shucks Tavern & Oyster Bar",
+      "note": "last-known: happy hour Tue-Fri 4-7 PM (shucksgalveston.com); happy hour PDF prices unreadable/jumbled. Confirm prices."
+    },
+    {
+      "name": "Island Time Beach Bar & Grill",
+      "note": "last-known: happy hour daily 12-7 PM on islandtime.bar but no prices listed. Confirm deal terms."
+    },
+    {
+      "name": "Cooper's Landing",
+      "note": "last-known: Social Hour Mon-Thu 4-6 PM, Thursday steak night on cooperslandingtx.com, no prices listed. Confirm prices."
+    },
+    {
+      "name": "Hubcap Grill Galveston",
+      "note": "last-known: happy hour Mon-Fri 3-6 PM on its site (no prices); $5 cheeseburgers Tuesdays (Galveston Monthly Jan 2025). Confirm current deal."
+    },
+    {
+      "name": "Mario's Seawall Italian Pizzeria",
+      "note": "last-known: $9.99 14-inch one-topping pizza Wednesdays, pickup only (Galveston Monthly Jan 2025). Confirm current deal + find source."
+    },
+    {
+      "name": "Tequila Rock Kitchen & Cantina",
+      "note": "last-known: free house margarita with entrée on Thursdays, dine-in (Galveston Monthly Jan 2025). Confirm current deal + find source."
+    },
+    {
+      "name": "Artist Boat",
+      "note": "last-known: 20% off Eco-Art Kayak Adventure (Visit Galveston Savings Pass). Confirm current deal + find source."
+    },
+    {
+      "name": "Historic Galveston Ghost Tours",
+      "note": "last-known: $5 off any ticket with a promo code (Visit Galveston Savings Pass). Confirm current deal + find source."
+    },
+    {
+      "name": "Galveston Sea Ventures",
+      "note": "last-known: 10% off fishing or boat tours (Visit Galveston Savings Pass). Confirm current deal + find source."
+    },
+    {
+      "name": "Little Daddy's Gumbo Bar",
+      "note": "last-known: free Chef's Select appetizer (Visit Galveston Savings Pass). Confirm current deal + find source."
+    }
+  ]
 }
