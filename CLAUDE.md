@@ -1,6 +1,6 @@
 # wgl-shows: the weekly live music feed for What's Good Local
 
-Seven files, one per city. Each city's live music page reads its file and adds those shows to the
+Ten files, one per city. Each city's live music page reads its file and adds those shows to the
 hand-picked shows that live on the WGL server. **This repo only adds shows. It never removes or
 edits a hand-picked show.**
 
@@ -13,6 +13,9 @@ edits a hand-picked show.**
 | `gulfshores.json` | https://whatsgoodlocal.com/gulf-shores/live-music/ | https://whatsgoodlocal.com/gulf-shores/live-music/shows.json |
 | `daytona.json` | https://whatsgoodlocal.com/daytona-beach/live-music/ | https://whatsgoodlocal.com/daytona-beach/live-music/shows.json |
 | `galveston.json` | https://whatsgoodlocal.com/galveston/live-music/ | https://whatsgoodlocal.com/galveston/live-music/shows.json |
+| `staugustine.json` | https://whatsgoodlocal.com/st-augustine/live-music/ | https://whatsgoodlocal.com/st-augustine/live-music/shows.json |
+| `fortmyers.json` | https://whatsgoodlocal.com/fort-myers/live-music/ | https://whatsgoodlocal.com/fort-myers/live-music/shows.json |
+| `spacecoast.json` | https://whatsgoodlocal.com/space-coast/live-music/ | https://whatsgoodlocal.com/space-coast/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -69,6 +72,24 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     (Seawall Blvd), Galveston Island Brewing, The Tremont House lobby bar, Hotel Lucine, Saengerfest Park, and
     The Grand 1894 Opera House (only shows it sells itself, not through Ticketmaster). Mardi Gras Galveston and
     other festival stages count when a named act and date are posted. Set `town` to Galveston.
+  - St. Augustine: downtown St. Augustine, Anastasia Island, St. Augustine Beach, Vilano Beach, Ponte Vedra Beach.
+    Start with the city's live music calendar (https://visitstaugustine.com/music/all), which lists shows by venue,
+    then check the venues' own calendars: Tradewinds Lounge (bands nightly), The Original Café Eleven, Colonial Oak
+    Music Park, Prohibition Kitchen, O.C. White's, Harry's Seafood Bar & Grille, Milltop Tavern, La Cocina at the
+    Cellar Upstairs, Pierre's Pub, Meehan's and the Conch House. Shows at the St. Augustine Amphitheatre and Ponte
+    Vedra Concert Hall sold through Ticketmaster are left out. Set `town` to St. Augustine, St. Augustine Beach,
+    Vilano Beach or Ponte Vedra Beach.
+  - Fort Myers: Fort Myers Beach, Sanibel, Captiva, Bonita Beach, and downtown Fort Myers. Start with the Fort
+    Myers Beach Chamber's "Who's playing where" page (https://www.fortmyersbeach.org/hos-playing-where-on-fort-myers-beach),
+    which links the venues' own calendars: Doc Ford's, Nervous Nellie's, Margaritaville Beach Resort (free
+    concerts), The Whale, Dixie Fish Co., Yucatan Beach Stand, La Ola, Lighthouse Tiki Bar, Parrot Key, Wahoo
+    Willie's and the Bayside Park concert series. Set `town` to Fort Myers Beach, Sanibel, Captiva, Bonita Beach or
+    Fort Myers.
+  - Space Coast: Cocoa Beach, Cape Canaveral and Port Canaveral (The Cove), Cocoa Village, Satellite Beach,
+    Indialantic, Melbourne. Check the venues' own calendars every week: Coconuts on the Beach, Sandbar Sports Grill,
+    Heidi's Jazz Club, the Westgate Cocoa Beach Pier bars, Grills Seafood Deck & Tiki Bar and the other bars at The
+    Cove, Lou's Blues (Indialantic), and Cocoa Village and Cocoa Riverfront Park events. Set `town` to the venue's
+    town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -121,7 +142,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa and Daytona Beach. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers and the Space Coast. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
