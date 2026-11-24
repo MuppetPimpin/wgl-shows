@@ -1,7 +1,24 @@
 {
   "_readme": "What's Good Local weekly deals feed for St. Augustine. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-11-24",
-  "deals": [],
+  "deals": [
+    {
+      "category": "Drinks",
+      "name": "The Reef Restaurant",
+      "deal": "Happy hour Mon-Sat 3-7 PM, Sun 4:30-7 PM",
+      "details": "Oceanfront restaurant on Coastal Highway north of Vilano Beach. Happy hour runs Monday to Saturday 3 to 7 PM and Sunday 4:30 to 7 PM.",
+      "town": "St. Augustine",
+      "location": "4100 Coastal Hwy",
+      "days": "Daily",
+      "hours": "Mon-Sat 3-7 PM · Sun 4:30-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.thereefstaugustine.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    }
+  ],
   "pending": [
     {
       "name": "Ice Plant Bar & Restaurant",
@@ -14,10 +31,6 @@
     {
       "name": "Cap's on the Water",
       "note": "last-known: listed on floridashistoriccoast.com 'Hot Happy Hours' (Vilano Beach); no terms given. Confirm current deal + find source (capsonthewater.com)."
-    },
-    {
-      "name": "The Reef Restaurant",
-      "note": "last-known: listed on visitstaugustine.com Happy Hour and floridashistoriccoast.com (Vilano Beach); no terms given. Confirm current deal + find source (thereefstaugustine.com)."
     },
     {
       "name": "Salt Life Food Shack",
