@@ -25,6 +25,19 @@ that page, leave it out. A wrong deal is worse than a missing one.
   deal, confirm it, then move it up into `deals` with a real `source` and today's `checked`. If no
   source can be found, leave it in `pending`.
 - Drop any deal whose `valid_through` date has passed.
+- Entries in `pending` that carry a `pending_reason` were pulled off the page by the Sunday site
+  health check (broken source link, expired, or not checked for 14+ days). Re-verify each one on the
+  business's own page first: confirmed → move it back into `deals`, drop `pending_reason` and
+  `pulled`, set `checked` to today. Not confirmable → leave it in `pending`. Anything sitting in
+  `pending` with a `pulled` date more than 60 days old gets removed for good.
+
+## Sunday health check (auto-pull)
+
+The weekly site health check is allowed to edit this file in one way only: it moves a deal from
+`deals` to `pending`, adding `"pending_reason"` (`"source link broken (404)"`, `"expired"` or
+`"not checked since YYYY-MM-DD"`) and `"pulled": "YYYY-MM-DD"`. The page reads only `deals`, so a
+pulled deal disappears from the site until the Tuesday deals task confirms it again. The health
+check never adds, rewrites or deletes deals, and never touches partner `go` codes.
 - Never invent a deal, a price, a day or an hour. List only what the source states.
 
 ## Finding new deals: discover, then verify
