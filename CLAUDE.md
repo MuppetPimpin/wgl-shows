@@ -1,6 +1,6 @@
 # wgl-shows: the weekly live music feed for What's Good Local
 
-Four files, one per city. Each city's live music page reads its file and adds those shows to the
+Five files, one per city. Each city's live music page reads its file and adds those shows to the
 hand-picked shows that live on the WGL server. **This repo only adds shows. It never removes or
 edits a hand-picked show.**
 
@@ -10,6 +10,7 @@ edits a hand-picked show.**
 | `pensacola.json` | https://whatsgoodlocal.com/pensacola/live-music/ | https://whatsgoodlocal.com/pensacola/live-music/shows.json |
 | `panamacity.json` | https://whatsgoodlocal.com/panama-city-beach/live-music/ | https://whatsgoodlocal.com/panama-city-beach/live-music/shows.json (and tootsies.php for Tootsie's) |
 | `tampa.json` | https://tampa.whatsgoodlocal.com/live-music/ | https://tampa.whatsgoodlocal.com/live-music/shows.json |
+| `gulfshores.json` | https://whatsgoodlocal.com/gulf-shores/live-music/ | https://whatsgoodlocal.com/gulf-shores/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -46,6 +47,13 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
   - Pensacola: Pensacola, Pensacola Beach, Perdido Key, Gulf Breeze, Navarre
   - Panama City: Panama City Beach, Panama City, Rosemary/Alys/Inlet Beach
   - Tampa: Tampa, St. Petersburg, Clearwater, the beaches
+  - Gulf Shores: Gulf Shores, Orange Beach (including The Wharf), Fort Morgan, Foley. Flora-Bama is in Perdido
+    Key, Florida, so it belongs to pensacola.json, not here. Check the beach bars and venues' own calendars every
+    week: The Hangout, LuLu's Gulf Shores, Flora-Bama Yacht Club (Orange Beach), Pink Pony Pub, Pirate's Cove
+    (Josephine), Big Beach Brewing, Tacky Jacks, The Gulf, Cobalt, Picklemo's, Live Bait, Sea-N-Suds, and the
+    free concert series at The Wharf. Shows at the Orange Beach Amphitheater at The Wharf sold through
+    Ticketmaster are left out (the page pulls those automatically). Set `town` to Gulf Shores, Orange Beach,
+    Fort Morgan or Foley.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -98,7 +106,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola and Panama City; Eastern for Tampa. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City and Gulf Shores; Eastern for Tampa. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
