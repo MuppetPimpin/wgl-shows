@@ -1,6 +1,6 @@
 # wgl-shows: the weekly live music feed for What's Good Local
 
-Six files, one per city. Each city's live music page reads its file and adds those shows to the
+Seven files, one per city. Each city's live music page reads its file and adds those shows to the
 hand-picked shows that live on the WGL server. **This repo only adds shows. It never removes or
 edits a hand-picked show.**
 
@@ -12,6 +12,7 @@ edits a hand-picked show.**
 | `tampa.json` | https://tampa.whatsgoodlocal.com/live-music/ | https://tampa.whatsgoodlocal.com/live-music/shows.json |
 | `gulfshores.json` | https://whatsgoodlocal.com/gulf-shores/live-music/ | https://whatsgoodlocal.com/gulf-shores/live-music/shows.json |
 | `daytona.json` | https://whatsgoodlocal.com/daytona-beach/live-music/ | https://whatsgoodlocal.com/daytona-beach/live-music/shows.json |
+| `galveston.json` | https://whatsgoodlocal.com/galveston/live-music/ | https://whatsgoodlocal.com/galveston/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -63,6 +64,11 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     Speedway shows sold through Ticketmaster are left out. Set `town` to the venue's town (Daytona Beach, Ormond
     Beach, New Smyrna Beach, Flagler Beach, Ponce Inlet). Bike Week and Biketoberfest band lineups count when the
     venue posts the act and date.
+  - Galveston: Galveston Island (the Strand, downtown, the Seawall, Pier 21, the West End). Check the venues' own
+    calendars every week: Old Quarter Acoustic Cafe (413 20th St), Yaga's Cafe (the Strand), Jigger's Lounge
+    (Seawall Blvd), Galveston Island Brewing, The Tremont House lobby bar, Hotel Lucine, Saengerfest Park, and
+    The Grand 1894 Opera House (only shows it sells itself, not through Ticketmaster). Mardi Gras Galveston and
+    other festival stages count when a named act and date are posted. Set `town` to Galveston.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -115,7 +121,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City and Gulf Shores; Eastern for Tampa and Daytona Beach. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa and Daytona Beach. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
