@@ -84,6 +84,22 @@
     },
     {
       "category": "Drinks",
+      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
+      "deal": "Thirsty Thursday: $5 VB and Orange Crushes",
+      "details": "Thursdays 11 AM-1:30 AM at the Oceanfront location. Happy hour runs weekdays 3-7 PM.",
+      "town": "Virginia Beach",
+      "location": "2407 Pacific Avenue, Oceanfront",
+      "days": "Thu",
+      "hours": "11 AM-1:30 AM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Drinks",
       "name": "Driftwood Kitchen",
       "deal": "High Five Happy Hour: $5 wines, well drinks and bottled beer",
       "details": "Happy hour runs 3-6 PM with discounted appetizers. The restaurant is closed Mondays.",
@@ -116,6 +132,38 @@
     },
     {
       "category": "Food",
+      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
+      "deal": "Monday Wing & Shrimp Night: 99-cent wings, $10 half-pound steamed shrimp",
+      "details": "Mondays 3-10 PM. Wings are 99 cents each in quantities of 5 or 10; a pound of steamed shrimp is $20.",
+      "town": "Virginia Beach",
+      "location": "2407 Pacific Avenue, Oceanfront",
+      "days": "Mon",
+      "hours": "3-10 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "CP Shuckers Cafe & Raw Bar (Shore Drive)",
+      "deal": "Thursday tacos: two chef specialty tacos for $7.99",
+      "details": "Thursday special at the Shore Drive location. The same night lists $3.50 Pacificos and $5.50 Lesner and Shuckin' Margarita crushes.",
+      "town": "Virginia Beach",
+      "location": "3232 Shore Drive",
+      "days": "Thu",
+      "hours": "5-10 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://shoredrive.cpshuckers.com/virginia-beach-cp-shuckers-shore-drive-happy-hours-specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "757-412-2929"
+    },
+    {
+      "category": "Food",
       "name": "CP Shuckers Cafe & Raw Bar (Shore Drive)",
       "deal": "Tuesday Burger Night: half-pound burger with 2 toppings for $9.99",
       "details": "Tuesday special at the Shore Drive location. The same night lists 1.5 lb crab legs with hush puppies for $28.99 and $5.50 select crushes.",
@@ -129,36 +177,68 @@
       "checked": "2026-11-24",
       "link": "",
       "phone": "757-412-2929"
+    },
+    {
+      "category": "Food",
+      "name": "Surf Club Ocean Grille",
+      "deal": "Wing Wednesday: 99-cent wings",
+      "details": "Every Wednesday, 3-7 PM, per the restaurant's own post on its website. The grille is in the Wyndham Oceanfront.",
+      "town": "Virginia Beach",
+      "location": "5700 Atlantic Avenue (North End)",
+      "days": "Wed",
+      "hours": "3-7 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://surfclubvabeach.com/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "The Atlantic on Pacific",
+      "deal": "Service Industry Night: 50% off all menu food for restaurant workers",
+      "details": "Wednesdays 4-6 PM for people who work in the restaurant business.",
+      "town": "Virginia Beach",
+      "location": "Pacific Avenue, Oceanfront",
+      "days": "Wed",
+      "hours": "4-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://theatlanticvb.com/virginia-beach-the-atlantic-on-pacific-happy-hours-specials",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "757-422-2122"
     }
   ],
   "pending": [
     {
       "name": "Waterman's Surfside Grille",
-      "note": "Own specials page (watermans.com/specials) says happy hour Mon-Thu 2-5 PM and mentions Nov-Feb 'exclusive discounts', but the happy hour menu (behind a VIEW MENU button) could not be located/read. Last-known (visitor bureau): $5 Orange Crush, $5 drafts, $8 seafood specials. Confirm terms (watermans.com)."
+      "note": "watermans.com/specials could not be fetched 2026-11-24 (permission not granted). Earlier: happy hour Mon-Thu 2-5 PM; last-known (visitor bureau) $5 Orange Crush, $5 drafts, $8 seafood specials. Confirm terms."
     },
     {
       "name": "Chix on the Beach (happy hour)",
-      "note": "chixvb.com/specials states happy hour Mon-Thu 3-6 PM, but the happy hour menu items/prices were not readable. Confirm terms (chixvb.com/happy-hour)."
+      "note": "chixvb.com/specials could not be fetched 2026-11-24 (permission not granted). Earlier: happy hour Mon-Thu 3-6 PM, items not readable. Confirm terms."
     },
     {
       "name": "Chick's Oyster Bar",
-      "note": "Own happy hour menu lists $1 house oysters (6 per order), $1 wings, half off select apps, $10 smashburger, $7 crushes, $5 house wine, but no days or hours are stated. Confirm days/hours (chicksoysterbar.com)."
+      "note": "Happy hour menu re-read 2026-11-24 (chicksoysterbar.com/menus?...menu=happy-hour): 1/2 off select apps, $1 house oysters (6 per order), $1 wings (6 per order), $10 smashburger, $7 crushes, $2 off drafts, $4 domestic bottles, $5 house wine, $6 wells, but still no days or hours on the menu, homepage or events page. Confirm days/hours."
     },
     {
       "name": "Calypso Bar & Grill",
-      "note": "Homepage says happy hour Mon-Fri 3-6 PM (not on holidays), but no items or prices. Confirm terms (calypsovb.com)."
+      "note": "Homepage (2026-11-24) says happy hour Mon-Fri 3-6 PM, not on holidays or holiday weekends; drink menu page has no happy hour section. Still no items/prices. Confirm terms (calypsovb.com)."
     },
     {
       "name": "The Atlantic on Pacific",
-      "note": "Own specials page says happy hour 3-6 PM daily; happy hour menu page does not clearly mark which items/prices are happy hour. Last-known (visitor bureau): drinks $9 or less, $1 clams and oysters. Also lists Wed 4-6 PM Service Industry Night (50% off food for restaurant workers). Confirm (theatlanticvb.com)."
+      "note": "Service Industry Night moved to deals 2026-11-24. Specials page lists 'Happy Hour, 3-6 PM Daily' with no items or prices. Last-known (visitor bureau): drinks $9 or less, $1 clams and oysters. Confirm happy hour terms (theatlanticvb.com)."
     },
     {
       "name": "Dough Boys Pizza (24th St / 33rd St)",
-      "note": "Own 'What's Happening' page only shows old posts (Sunday carry-out $5 large one-topping pizza or pound of wings; happy hour graphic from 2018). Last-known (visitor bureau): Mon-Fri 4-5:30 PM $5 Party Hour; weekday 11 AM-4 PM $8.88 deals. Confirm current (doughboyspizza.com)."
+      "note": "Homepage (2026-11-24) says '$9.88 Happy Hour' weekdays 11 AM-4 PM and '$6 Party Hour' weekdays 4-5:30 PM, but no items; the menu PDF (doughboyspizza.com/wp-content/uploads/2026/07/Dough-Boys-Menu-Proofs-07-26-E.pdf) has no readable text. Visitor bureau $5/$8.88 figures are outdated. Confirm items (doughboyspizza.com)."
     },
     {
       "name": "Surf Club Ocean Grille (Wyndham Oceanfront, 5700 Atlantic Ave)",
-      "note": "Site shows Instagram posts only: happy hour 3-7 PM Tue-Thu, Wing Wednesday 99-cent wings; football menu is an unreadable image. Confirm terms (surfclubvabeach.com)."
+      "note": "Wing Wednesday moved to deals 2026-11-24. Remaining on site only as Instagram posts without dates: happy hour 3-7 PM (Tue tacos, Thu shrimp, no prices); weekend football $5 domestics, $6 wells, $8 Deep Eddy Orange Crushes (no hours). Confirm (surfclubvabeach.com)."
     },
     {
       "name": "Esoteric (ViBe District)",
@@ -166,43 +246,39 @@
     },
     {
       "name": "Bay Local Eatery (Shore Drive)",
-      "note": "Site baylocalvb.com could not be fetched (permission timed out). Check for happy hour/specials."
+      "note": "baylocalvb.com could not be fetched 2026-11-24 (permission not granted). Check for happy hour/specials."
     },
     {
       "name": "Mermaid Winery (Shore Drive)",
-      "note": "Site mermaidwinery.com could not be fetched (permission timed out). Check for happy hour/specials."
+      "note": "mermaidwinery.com could not be fetched 2026-11-24 (permission not granted). Check for happy hour/specials."
     },
     {
       "name": "Big Sam's Inlet Cafe & Raw Bar",
-      "note": "last-known (Food): Tiki Time: $0.99 clams, $1.59 oysters, $9.99 half-pound steamed shrimp — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://bigsamsrawbar.com/wp-content/uploads/2026/07/Big-Sams-MM-Rev-R7671515-LR2.pdf"
+      "note": "last-known (Food): Tiki Time daily 3-7 PM: $0.99 clams, $1.59 oysters, $9.99 half-pound steamed shrimp. Menu PDF (bigsamsrawbar.com/wp-content/uploads/2026/07/Big-Sams-MM-Rev-R7671515-LR2.pdf) has no machine-readable text (checked 2026-11-24). Find a text page on bigsamsrawbar.com."
     },
     {
       "name": "Hot Tuna",
-      "note": "last-known (Food): $1 raw oysters and shrimp cocktail, $5 mahi or shrimp tacos — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hottunavb.com/specials"
-    },
-    {
-      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
-      "note": "last-known (Food): Monday Wing & Shrimp Night: 99-cent wings, $10 half-pound steamed shrimp — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials"
+      "note": "hottunavb.com/specials (read 2026-11-24) states happy hour daily 3-6 PM, dine-in only, but items and prices appear only in images; neither the Food ($1 oysters/shrimp cocktail, $5 tacos) nor the Drinks ($4 domestics, $5 drafts/wells/wines, $6 crushes) last-known terms could be confirmed. Note window now 3-6 PM, not 3-5:30. Confirm terms (hottunavb.com)."
     },
     {
       "name": "Chix on the Beach",
-      "note": "last-known (Food): Game Day food specials: $8.99 wing combo, $8 onion rings, corn dog bites or pepperoni roll — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.chixvb.com/_files/ugd/f01807_c0cc86714d8f45c8bed932c44c93778a.pdf"
+      "note": "last-known: Game Day food ($8.99 wing combo, $8 onion rings/corn dog bites/pepperoni roll) and drinks ($6 Orange Crush, $3 PBR, $4.50 Bud Light). Game Day PDF and chixvb.com/specials could not be fetched 2026-11-24 (permission not granted). Re-confirm on chixvb.com."
     },
     {
       "name": "Hot Tuna",
-      "note": "last-known (Drinks): Happy hour: $4 domestic beers, $5 drafts, wells and wines, $6 crushes — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hottunavb.com/specials"
-    },
-    {
-      "name": "CP Shuckers Cafe & Raw Bar (Oceanfront)",
-      "note": "last-known (Drinks): Thirsty Thursday: $5 VB and Orange Crushes — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://oceanfront.cpshuckers.com/virginia-beach-cp-shuckers-oceanfront-happy-hours-specials"
+      "note": "hottunavb.com/specials (read 2026-11-24) states happy hour daily 3-6 PM, dine-in only, but items and prices appear only in images; neither the Food ($1 oysters/shrimp cocktail, $5 tacos) nor the Drinks ($4 domestics, $5 drafts/wells/wines, $6 crushes) last-known terms could be confirmed. Note window now 3-6 PM, not 3-5:30. Confirm terms (hottunavb.com)."
     },
     {
       "name": "Chix on the Beach",
-      "note": "last-known (Drinks): Game Day drinks: $6 Orange Crush, $3 PBR, $4.50 Bud Light — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.chixvb.com/_files/ugd/f01807_c0cc86714d8f45c8bed932c44c93778a.pdf"
+      "note": "last-known: Game Day food ($8.99 wing combo, $8 onion rings/corn dog bites/pepperoni roll) and drinks ($6 Orange Crush, $3 PBR, $4.50 Bud Light). Game Day PDF and chixvb.com/specials could not be fetched 2026-11-24 (permission not granted). Re-confirm on chixvb.com."
     },
     {
       "name": "Holiday Trail of Lights (Virginia Aquarium)",
-      "note": "last-known (Adventures): Military Mondays: $16 adults, $10 children — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://beacheventsvb.com/event/holiday-lights-at-the-beach/"
+      "note": "last-known (Adventures): Military Mondays $16 adults, $10 children. beacheventsvb.com event page could not be fetched 2026-11-24 (permission not granted). Re-confirm on the organizer's page."
+    },
+    {
+      "name": "Lager Heads (3315 Atlantic Ave)",
+      "note": "Oceanfront burger and craft beer bar; official site lagerheads.com (per visitor bureau listing) could not be fetched 2026-11-24. Check for happy hour/specials."
     }
   ]
 }

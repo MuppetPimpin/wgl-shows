@@ -1,11 +1,172 @@
 {
   "_readme": "What's Good Local weekly deals feed for the Outer Banks. Written by the weekly scheduled task; see CLAUDE.md.",
   "updated": "2026-11-24",
-  "deals": [],
+  "deals": [
+    {
+      "category": "Adventures",
+      "name": "Kitty Hawk Kites",
+      "deal": "10% off hang gliding, kayak eco-tours and kiteboarding lessons for military",
+      "details": "Year-round for military members and immediate family on dune hang gliding lessons, tandem hang gliding flights, kayak eco-tours and kiteboarding lessons. Military groups get up to 20% off select recreation from Labor Day to Memorial Day.",
+      "town": "Nags Head",
+      "location": "Kitty Hawk Kites (multiple Outer Banks locations)",
+      "days": "Daily",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://kittyhawk.com/groups/military",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Kitty Hawk Kites",
+      "deal": "Buy one adventure gift certificate, get a second 50% off",
+      "details": "Limited-time offer applied automatically as 25% off each of two certificates, no code needed. Covers hang gliding, kayak and paddleboard tours, dolphin cruises, wild horse tours, kiteboarding and more; no end date stated.",
+      "town": "Nags Head",
+      "location": "Kitty Hawk Kites (multiple Outer Banks locations)",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.kittyhawk.com/gift-certificates-sales/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Kitty Hawk Kites",
+      "deal": "Kitty Hawk Maritime Forest kayak tour $39 per adult booked online (regularly $45)",
+      "details": "Off-season kayak tour in Kitty Hawk Woods Coastal Preserve; the online price is $39 per adult.",
+      "town": "Kitty Hawk",
+      "location": "Kitty Hawk Woods Coastal Preserve",
+      "days": "",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.kittyhawk.com/adventures/kayak-tours/offseason-kayak-tours",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Adventures",
+      "name": "Roanoke Island Festival Park",
+      "deal": "25% off admission for groups of 10 or more",
+      "details": "Group rate of $11.25 ages 13 and up and $9.75 ages 3-12 (regular $15 and $13) for 10 or more paying visitors who book ahead and pay together. Park open Tuesday-Saturday 9 AM-5 PM through December 31, 2026.",
+      "town": "Manteo",
+      "location": "1 Festival Park, Manteo",
+      "days": "Tue-Sat",
+      "hours": "9 AM-5 PM",
+      "valid_through": "2026-12-31",
+      "featured": false,
+      "source": "https://roanokeisland.com/tours-programs/group-tours",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "252-423-5200"
+    },
+    {
+      "category": "Drinks",
+      "name": "Jolly Roger Restaurant & Bar",
+      "deal": "Half-price Bloody Marys and mimosas on Sunday",
+      "details": "Sunday special listed with Soul Food Sunday on the restaurant's daily specials page.",
+      "town": "Kill Devil Hills",
+      "location": "1836 N. Virginia Dare Trail",
+      "days": "Sun",
+      "hours": "",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://jollyrogerobx.com/daily-lunch-specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "252-441-6530"
+    },
+    {
+      "category": "Food",
+      "name": "Captain George's Seafood Restaurant",
+      "deal": "All-you-can-eat seafood buffet $41.99 on November Sundays",
+      "details": "Every Sunday in November the buffet is $41.99 (regularly $51.99). Sunday buffet hours at Kill Devil Hills are 12-8:30 PM.",
+      "town": "Kill Devil Hills",
+      "location": "Mile Post 8.5, 705 S. Croatan Hwy",
+      "days": "Sun",
+      "hours": "12-8:30 PM",
+      "valid_through": "2026-11-29",
+      "featured": false,
+      "source": "https://captaingeorges.com",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Captain George's Seafood Restaurant",
+      "deal": "First Catch Sunday: $46.99 adult buffet, 12-4 PM",
+      "details": "Sunday adult buffet price from noon to 4 PM at all four locations, excluding Easter, Mother's Day and Father's Day.",
+      "town": "Kill Devil Hills",
+      "location": "Mile Post 8.5, 705 S. Croatan Hwy",
+      "days": "Sun",
+      "hours": "12-4 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://captaingeorges.com",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Hurricane Mo's Beachside Bar & Grill",
+      "deal": "25-cent steamed shrimp, 50-cent wings, $1 hard tacos, $1.50 soft tacos",
+      "details": "Daily happy hour, listed as 3-6 PM off season; the menu says orders must be in by 5 PM. Dine-in only, no split checks.",
+      "town": "Kitty Hawk",
+      "location": "120 East Kitty Hawk Rd.",
+      "days": "Daily",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.hurricanemosbeachsidebarandgrill.com/copy-of-lunch-menu-1",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    },
+    {
+      "category": "Food",
+      "name": "Jolly Roger Restaurant & Bar",
+      "deal": "35-cent shrimp, $1.49 ribs, 79-cent wings, 4-6:30 PM",
+      "details": "Daily pub specials from 4 to 6:30 PM, dine-in at the bar only.",
+      "town": "Kill Devil Hills",
+      "location": "1836 N. Virginia Dare Trail",
+      "days": "Daily",
+      "hours": "4-6:30 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://jollyrogerobx.com/daily-lunch-specials/",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": "252-441-6530"
+    },
+    {
+      "category": "Food",
+      "name": "Outer Banks Brewing Station",
+      "deal": "$2 oysters, $3 grilled oysters, $7 smash burger, $1 wings at happy hour",
+      "details": "Happy hour 3-6 PM with Little Star oysters half shell or steamed $2 each, garlic-butter grilled oysters and Oysters Rockefeller $3 each (minimum 3 per style and 4 wings). Listed on the brewery calendar on multiple dates, including Nov 24-27.",
+      "town": "Kill Devil Hills",
+      "location": "600 S Croatan Hwy",
+      "days": "",
+      "hours": "3-6 PM",
+      "valid_through": "",
+      "featured": false,
+      "source": "https://www.obbrewing.com/events/happy-hour-2026-11-24-15-00",
+      "checked": "2026-11-24",
+      "link": "",
+      "phone": ""
+    }
+  ],
   "pending": [
     {
       "name": "Outer Banks Brewing Station (Thirsty Thursday)",
-      "note": "last-known: half-price wine and $5 pints on Thursday, seen only on obxguides.com/brewing-station/promotions (lead). Not on obbrewing.com. Confirm on obbrewing.com or the pub's own post."
+      "note": "Rechecked obbrewing.com homepage 2026-11-24: no Thirsty Thursday mentioned. Still lead-only."
     },
     {
       "name": "Mulligan's Raw Bar & Grille (Nags Head)",
@@ -13,11 +174,11 @@
     },
     {
       "name": "Dajio Restaurant (Ocracoke)",
-      "note": "Own site states Shrimp Hour 3-5 PM for outside seating, open 7 days, but gives no price. Confirm price (dajiorestaurant.com)."
+      "note": "Own site not surfaced by search this run. 2019 article lead: Shrimp Hour 3-5 PM, half pound peel-and-eat $7.25. Price unconfirmed."
     },
     {
       "name": "Corolla Outback Adventures (Corolla)",
-      "note": "Own tours page says discounts for seniors, military, teachers and first responders between Labor Day and Memorial Day; amount not stated (call 252-453-4484). Confirm amount (corollaoutback.com/tours/)."
+      "note": "Rechecked 2026-11-24 on corollaoutback.com/tours/: still says discounts for seniors, military, teachers and first responders between Labor Day and Memorial Day only, 'Call for details' (252-453-4484); amount not stated. Adult tour $65, kids 5-12 $45."
     },
     {
       "name": "Sundogs Raw Bar & Grill (Corolla)",
@@ -29,15 +190,15 @@
     },
     {
       "name": "Black Pelican (Kitty Hawk)",
-      "note": "Own homepage lists a dated daily beer special ($3 Swells'a Duck Dive Lager on Nov 24) and dinner specials that change daily; no standing happy hour on site. 2019 article said daily 3-5 PM pizza discount. Confirm on blackpelican.com."
+      "note": "Own site not surfaced by search this run; not rechecked."
     },
     {
       "name": "Chilli Peppers Grill (Kill Devil Hills)",
-      "note": "last-known (2019 article): daily 2-5 PM, 20-cent shrimp, 50-cent wings, $5 appetizers. Own site not found. Confirm current deal + find source."
+      "note": "Own site found: chilli-peppers.com (Milepost 5.5, 3001 N. Croatan Hwy). Specials page lists weekly nights (Mon Pasta Night, Wed Pizza Night, Fri Fish Fry, Sat Burger Night) with no prices or happy hour terms. Not confirmable."
     },
     {
       "name": "Sandbar & Grille (Kill Devil Hills)",
-      "note": "sandbarandgrille.com blocked by a bot check. Confirm current deal + find source."
+      "note": "Separately, Sandbars Raw Bar & Grill has sandbarsouterbanks.com/daily-specials, but WebFetch could not read it (robots.txt unreachable) on 2026-11-24."
     },
     {
       "name": "Lost Colony Tavern / Brewery (Manteo)",
@@ -45,51 +206,31 @@
     },
     {
       "name": "Lucky 12 Tavern (Nags Head)",
-      "note": "Own site (lucky12tavern.com) shows hours and Jingle 12 pop-up opening Nov 27 but no happy hour or deal terms. Recheck."
+      "note": "Rechecked 2026-11-24: events page shows no recurring deals; Jingle 12 pop-up Christmas bar runs Nov 27 through New Year's with no deal terms. Open daily 11:30 AM-midnight."
     },
     {
       "name": "Kelly's Restaurant & Tavern (Nags Head)",
       "note": "Search results include a Carolina Designs post titled 'The End of an Era - Kelly's Restaurant'; the restaurant appears to be closed (pamlicojacks.com now shows Kelly's OBX Catering). Do not list unless reopened."
     },
     {
-      "name": "Outer Banks Brewing Station",
-      "note": "last-known (Food): $2 oysters, $3 grilled oysters, $7 smash burger, $1 wings at happy hour — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.obbrewing.com/events/happy-hour-2026-11-24-15-00"
-    },
-    {
-      "name": "Hurricane Mo's Beachside Bar & Grill",
-      "note": "last-known (Food): $0.25 steamed shrimp, $0.50 wings, $1 hard tacos, $1.50 soft tacos — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.hurricanemosbeachsidebarandgrill.com/copy-of-lunch-menu-1"
-    },
-    {
-      "name": "Jolly Roger Restaurant & Bar",
-      "note": "last-known (Food): 35¢ shrimp, $1.49 ribs, 79¢ wings — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://jollyrogerobx.com/daily-lunch-specials/"
-    },
-    {
-      "name": "Captain George's Seafood Restaurant",
-      "note": "last-known (Food): All-you-can-eat seafood buffet $41.99 on November Sundays — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.captaingeorges.com/"
-    },
-    {
-      "name": "Captain George's Seafood Restaurant",
-      "note": "last-known (Food): First Catch Sunday: adult buffet $46.99 — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.captaingeorges.com/"
-    },
-    {
-      "name": "Jolly Roger Restaurant & Bar",
-      "note": "last-known (Drinks): Half-price Bloody Marys and mimosas on Sunday — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://jollyrogerobx.com/daily-lunch-specials/"
-    },
-    {
       "name": "Kitty Hawk Kites",
-      "note": "last-known (Adventures): Buy one, get one 50% off select adventures; 30% off kiteboarding with hang gliding — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://www.kittyhawk.com/"
-    },
-    {
-      "name": "Kitty Hawk Kites",
-      "note": "last-known (Adventures): 10% off hang gliding, kayak eco-tours and kiteboarding lessons for military — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://kittyhawk.com/groups/military"
+      "note": "BOGO 50% off confirmed as an adventure GIFT CERTIFICATE offer (source changed to https://www.kittyhawk.com/gift-certificates-sales/). The '30% off kiteboarding with hang gliding' part was NOT found on that page; do not list it."
     },
     {
       "name": "Roanoke Island Festival Park",
-      "note": "last-known (Adventures): $1 off admission for military and seniors — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://roanokeisland.com/plan-your-visit/admission-pricing"
+      "note": "25% off groups of 10+ confirmed. '$1 off admission for military and seniors' NOT confirmed: admission page lists no military/senior discount; FAQ mentions only a printable $1-off general admission coupon (terms not read). Keep the $1-off entry in pending."
     },
     {
-      "name": "Roanoke Island Festival Park",
-      "note": "last-known (Adventures): 25% off admission for groups of 10 or more — found on the business's own site but not confirmed through an approved page read this run; re-confirm on the source before listing. Source: https://roanokeisland.com/"
+      "name": "Sandbars Raw Bar & Grill",
+      "note": "last-known (2019 article lead): daily 3-6 PM half-price raw bar items, 60-cent oysters, $2 sliders; Margarita Monday, Wine Wednesday. Own page https://sandbarsouterbanks.com/daily-specials could not be read (robots.txt unreachable). Confirm current deal + town."
+    },
+    {
+      "name": "New York Pizza Pub (Nags Head)",
+      "note": "last-known (2019 article lead): $2 pizza slices any time. Own site nypizzapub.com could not be fetched this run. Confirm."
+    },
+    {
+      "name": "Chilli Peppers Coastal Grill (Kill Devil Hills)",
+      "note": "Own specials page (https://chilli-peppers.com/specials/) lists Mon Pasta Night, Wed Pizza Night, Fri Fish Fry, Sat Burger Night with no prices. Confirm prices."
     }
   ]
 }
