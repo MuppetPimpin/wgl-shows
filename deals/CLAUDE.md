@@ -12,6 +12,10 @@ deals. It never edits or removes a hand-picked deal.**
 | `staugustine-deals.json` | https://whatsgoodlocal.com/st-augustine/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `fortmyers-deals.json` | https://whatsgoodlocal.com/fort-myers/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `spacecoast-deals.json` | https://whatsgoodlocal.com/space-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `myrtlebeach-deals.json` | https://whatsgoodlocal.com/myrtle-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `outerbanks-deals.json` | https://whatsgoodlocal.com/outer-banks/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `virginiabeach-deals.json` | https://whatsgoodlocal.com/virginia-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `oceancitymd-deals.json` | https://whatsgoodlocal.com/ocean-city-md/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -96,6 +100,11 @@ participating locations," confirm the Destin-area location takes part before lis
   - Fort Myers: Fort Myers Beach, Sanibel, Captiva, Bonita Beach, downtown Fort Myers.
   - Space Coast: Cocoa Beach, Cape Canaveral and Port Canaveral, Cocoa Village, Merritt Island,
     Satellite Beach, Melbourne.
+  - Myrtle Beach: Little River, North Myrtle Beach, Myrtle Beach, Surfside Beach, Garden City, Murrells Inlet,
+    Pawleys Island.
+  - Outer Banks: Corolla, Duck, Kitty Hawk, Kill Devil Hills, Nags Head, Manteo, Hatteras Island, Ocracoke.
+  - Virginia Beach: the Oceanfront, the North End, Sandbridge, Chicks Beach.
+  - Ocean City, MD: Ocean City, West Ocean City, Fenwick Island, Berlin.
   Set `town` to the business's own town.
 - Three categories only: `Food`, `Drinks`, `Adventures`.
 - Up to ~40 deals for Destin, ~25 for each other town. Prefer variety across towns and categories.

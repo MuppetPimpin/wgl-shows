@@ -16,6 +16,10 @@ edits a hand-picked show.**
 | `staugustine.json` | https://whatsgoodlocal.com/st-augustine/live-music/ | https://whatsgoodlocal.com/st-augustine/live-music/shows.json |
 | `fortmyers.json` | https://whatsgoodlocal.com/fort-myers/live-music/ | https://whatsgoodlocal.com/fort-myers/live-music/shows.json |
 | `spacecoast.json` | https://whatsgoodlocal.com/space-coast/live-music/ | https://whatsgoodlocal.com/space-coast/live-music/shows.json |
+| `myrtlebeach.json` | https://whatsgoodlocal.com/myrtle-beach/live-music/ | https://whatsgoodlocal.com/myrtle-beach/live-music/shows.json |
+| `outerbanks.json` | https://whatsgoodlocal.com/outer-banks/live-music/ | https://whatsgoodlocal.com/outer-banks/live-music/shows.json |
+| `virginiabeach.json` | https://whatsgoodlocal.com/virginia-beach/live-music/ | https://whatsgoodlocal.com/virginia-beach/live-music/shows.json |
+| `oceancitymd.json` | https://whatsgoodlocal.com/ocean-city-md/live-music/ | https://whatsgoodlocal.com/ocean-city-md/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -90,6 +94,26 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     Heidi's Jazz Club, the Westgate Cocoa Beach Pier bars, Grills Seafood Deck & Tiki Bar and the other bars at The
     Cove, Lou's Blues (Indialantic), and Cocoa Village and Cocoa Riverfront Park events. Set `town` to the venue's
     town.
+  - Myrtle Beach: the Grand Strand, from Little River and North Myrtle Beach through Myrtle Beach, Surfside Beach and
+    Garden City to Murrells Inlet and Pawleys Island. Check the venues' own calendars every week: the Murrells Inlet
+    MarshWalk bars (Drunken Jack's, Dead Dog Saloon, Wicked Tuna, Creek Ratz), The Bowery and the Myrtle Beach
+    Boardwalk bars, Broadway at the Beach, The Market Common, Barefoot Landing (free shows at House of Blues' Sugar
+    Shack deck count; ticketed House of Blues and other Ticketmaster shows are left out), and the Ocean Drive shag
+    clubs in North Myrtle Beach (Fat Harold's, Duck's, OD Arcade & Lounge). Resident theater productions (Carolina
+    Opry, Alabama Theatre, Medieval Times) are left out. Set `town` to the venue's town.
+  - Outer Banks: Corolla, Duck, Southern Shores, Kitty Hawk, Kill Devil Hills, Nags Head, Manteo, Hatteras Island and
+    Ocracoke. Check the venues' own calendars every week: Outer Banks Brewing Station, Kelly's Restaurant & Tavern,
+    Mulligan's, Lucky 12 Tavern, Sandbar & Grille, Jennette's Pier events, the Duck summer concert series at Duck Town
+    Park, and Manteo's waterfront concerts. Many places close or cut back in winter, so an empty week is normal off
+    season. Set `town` to the venue's town.
+  - Virginia Beach: the Oceanfront, the North End, Sandbridge and Chicks Beach. Check the venues' own calendars every
+    week: the free Beach Street USA and Oceanfront park stages (24th Street Park, 31st Street Park, 17th Street), the
+    Oceanfront hotel and boardwalk bars, Shaka's, Chix on the Beach, Waterman's Surfside Grille and Abbey Road Pub.
+    Shows at the amphitheater and Sandler Center sold through Ticketmaster are left out. Set `town` to Virginia Beach.
+  - Ocean City, MD: Ocean City, Fenwick Island, West Ocean City and Berlin. Check the venues' own calendars every week:
+    Seacrets (bands nightly in season), Fager's Island, Coconuts Beach Bar, BJ's on the Water, Purple Moose Saloon,
+    Bourbon Street on the Beach, and the town's free concerts at Sunset Park and Northside Park. Set `town` to the
+    venue's town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -142,7 +166,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers and the Space Coast. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach and Ocean City, MD. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
