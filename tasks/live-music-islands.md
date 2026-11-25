@@ -11,7 +11,7 @@ Weekly live music feed update for What's Good Local's Islands & Costa Rica towns
    - costarica.json  (Guanacaste, Costa Rica: Costa Rica time)
    More Islands & Costa Rica towns will be added to this list as their pages go live; each has its own row in the CLAUDE.md table and its own venue list under "What to include".
 
-3. For each file: read the hand-picked list named in the CLAUDE.md table (shows.json on whatsgoodlocal.com; it may not exist yet, which is fine) so you skip duplicates. Check every venue or calendar named for that town under "What to include" first, then search for more dated shows (venue calendars, band show pages, event pages, ticket pages that are not Ticketmaster). Every show needs an https `source` page that states that act, that venue and that date. Spread your time evenly across the towns. Spread your time evenly across the towns. A short list is fine.
+3. For each file: read the hand-picked list named in the CLAUDE.md table (shows.json on whatsgoodlocal.com; it may not exist yet, which is fine) so you skip duplicates. Check every venue or calendar named for that town under "What to include" first, then search for more dated shows (venue calendars, band show pages, event pages, ticket pages that are not Ticketmaster). Every show needs an https `source` page that states that act, that venue and that date. Spread your time evenly across the towns. A short list is fine.
 
 4. Write each file with "updated" set to today's date (YYYY-MM-DD) and shows sorted by start. Validate each file with python3 -m json.tool. If you could not confirm any shows for a town, write an empty "shows" list rather than guessing.
 
