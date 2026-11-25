@@ -36,6 +36,9 @@ deals. It never edits or removes a hand-picked deal.**
 | `santabarbara-deals.json` | https://whatsgoodlocal.com/santa-barbara/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `centralcoast-deals.json` | https://whatsgoodlocal.com/central-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `monterey-deals.json` | https://whatsgoodlocal.com/monterey-santa-cruz/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `newyork-deals.json` | https://whatsgoodlocal.com/new-york/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `chicago-deals.json` | https://whatsgoodlocal.com/chicago/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `crystalcoast-deals.json` | https://whatsgoodlocal.com/crystal-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -128,6 +131,9 @@ participating locations," confirm the Destin-area location takes part before lis
   - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
   - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
   - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
+  - Crystal Coast (crystalcoast): Atlantic Beach, Pine Knoll Shores, Emerald Isle, Morehead City and Beaufort, NC. Eastern time.
+  - Chicago Lakefront (chicago): Chicago, especially near the lakefront from Uptown to Hyde Park. Central time.
+  - New York City & Long Island (newyork): Coney Island, Brighton Beach, Brooklyn, the Rockaways, Long Beach and Jones Beach. Eastern time.
   - Monterey & Santa Cruz: Santa Cruz, Capitola, Monterey, Pacific Grove, Carmel.
   - Central Coast: Pismo Beach, Avila Beach, San Luis Obispo, Morro Bay, Cayucos.
   - Santa Barbara: Santa Barbara, Montecito, Carpinteria, Goleta.

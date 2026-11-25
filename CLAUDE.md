@@ -39,6 +39,9 @@ edits a hand-picked show.**
 | `santabarbara.json` | https://whatsgoodlocal.com/santa-barbara/live-music/ | https://whatsgoodlocal.com/santa-barbara/live-music/shows.json |
 | `centralcoast.json` | https://whatsgoodlocal.com/central-coast/live-music/ | https://whatsgoodlocal.com/central-coast/live-music/shows.json |
 | `monterey.json` | https://whatsgoodlocal.com/monterey-santa-cruz/live-music/ | https://whatsgoodlocal.com/monterey-santa-cruz/live-music/shows.json |
+| `newyork.json` | https://whatsgoodlocal.com/new-york/live-music/ | https://whatsgoodlocal.com/new-york/live-music/shows.json |
+| `chicago.json` | https://whatsgoodlocal.com/chicago/live-music/ | https://whatsgoodlocal.com/chicago/live-music/shows.json |
+| `crystalcoast.json` | https://whatsgoodlocal.com/crystal-coast/live-music/ | https://whatsgoodlocal.com/crystal-coast/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -194,6 +197,9 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
   - Monterey & Santa Cruz: Santa Cruz, Capitola, Monterey, Pacific Grove and Carmel. Check the venues' own calendars every
     week: Moe's Alley and the Crow's Nest (Santa Cruz), Sly McFly's (Cannery Row), and Capitola Village bars. Ticketmaster
     shows are left out. Pacific time. Set `town` to the venue's town.
+  - New York City & Long Island: Coney Island, Brighton Beach, the Rockaways, Long Beach and Jones Beach, plus Brooklyn clubs and bars. Check the venues' own calendars every week: Ruby's Bar & Grill and the Coney Island boardwalk (summer), the Coney Island Amphitheater's free events, Brooklyn bars and clubs with posted bands, the Rockaway Beach bars, and Long Beach's bars and free summer concerts. Arena, Barclays, Coney Island Amphitheater ticketed shows and other Ticketmaster shows are left out. Eastern time. Set `town` to Coney Island, Brooklyn, Rockaway Beach, Long Beach or the venue's town.
+  - Chicago Lakefront: Chicago, with a lean toward the North Side lakefront (Uptown, Lincoln Park, Lakeview, Gold Coast, Streeterville) and Hyde Park. Check the venues' own calendars every week: Green Mill Cocktail Lounge (jazz), Kingston Mines and Blue Chicago (blues), Buddy Guy's Legends, Old Town School of Folk Music, The Promontory (Hyde Park), and free shows at Millennium Park and the summer lakefront series. United Center, Wrigley, arena and other Ticketmaster shows are left out. Central time. Set `town` to Chicago.
+  - Crystal Coast: Atlantic Beach, Pine Knoll Shores, Salter Path, Indian Beach, Emerald Isle, Morehead City and Beaufort, NC. Check the venues' own calendars every week: the Morehead City waterfront bars (Ruddy Duck Tavern and Evans Street), Beaufort's Front Street bars (Backstreet Pub), Amos Mosquito's and the Atlantic Beach bars, and the Beaufort and Morehead City free summer concert series. An empty week is normal off season. Eastern time. Set `town` to the venue's town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -246,7 +252,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach, Ocean City, MD, Jacksonville and the Palm Beaches. Central for Port Aransas, South Padre Island and the Mississippi Gulf Coast; Pacific for the California towns. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach, Ocean City, MD, Jacksonville and the Palm Beaches. Central for Port Aransas, South Padre Island and the Mississippi Gulf Coast; Pacific for the California towns. Eastern for New York City & Long Island and the Crystal Coast; Central for Chicago. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
