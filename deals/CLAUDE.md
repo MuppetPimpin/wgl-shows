@@ -40,6 +40,12 @@ deals. It never edits or removes a hand-picked deal.**
 | `chicago-deals.json` | https://whatsgoodlocal.com/chicago/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `crystalcoast-deals.json` | https://whatsgoodlocal.com/crystal-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `tampa-deals.json` | https://whatsgoodlocal.com/tampa-bay/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `puertorico-deals.json` | https://whatsgoodlocal.com/puerto-rico/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `oahu-deals.json` | https://whatsgoodlocal.com/oahu/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `maui-deals.json` | https://whatsgoodlocal.com/maui/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `kauai-deals.json` | https://whatsgoodlocal.com/kauai/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `bigisland-deals.json` | https://whatsgoodlocal.com/big-island/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `costarica-deals.json` | https://whatsgoodlocal.com/costa-rica/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -132,6 +138,12 @@ participating locations," confirm the Destin-area location takes part before lis
   - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
   - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
   - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
+  - Guanacaste, Costa Rica (costarica): Tamarindo, Langosta, Avellanas, Flamingo, Playas del Coco and Nosara. Costa Rica time.
+  - Big Island (bigisland): Kailua-Kona, the Kohala Coast, Hilo and Volcano. Hawaiʻi time.
+  - Kauaʻi (kauai): Poʻipū, Līhuʻe, Kapaʻa, Hanalei and Princeville. Hawaiʻi time.
+  - Maui (maui): Kāʻanapali, Nāpili, Kapalua, Kīhei, Wailea and Pāʻia. Hawaiʻi time.
+  - Oʻahu (oahu): Waikīkī, Honolulu, the North Shore, Kailua and Ko ʻOlina. Hawaiʻi time.
+  - Puerto Rico (puertorico): San Juan, Fajardo, Luquillo, Culebra and Vieques. Atlantic time.
   - Clearwater & St. Pete beaches (tampa): Clearwater Beach, Dunedin, Indian Rocks, Madeira Beach and John’s Pass, Treasure Island, St. Pete Beach and Pass-a-Grille. Eastern time.
   - Crystal Coast (crystalcoast): Atlantic Beach, Pine Knoll Shores, Emerald Isle, Morehead City and Beaufort, NC. Eastern time.
   - Chicago Lakefront (chicago): Chicago, especially near the lakefront from Uptown to Hyde Park. Central time.
