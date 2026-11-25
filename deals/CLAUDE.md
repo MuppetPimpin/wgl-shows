@@ -39,6 +39,7 @@ deals. It never edits or removes a hand-picked deal.**
 | `newyork-deals.json` | https://whatsgoodlocal.com/new-york/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `chicago-deals.json` | https://whatsgoodlocal.com/chicago/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `crystalcoast-deals.json` | https://whatsgoodlocal.com/crystal-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `tampa-deals.json` | https://whatsgoodlocal.com/tampa-bay/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -131,6 +132,7 @@ participating locations," confirm the Destin-area location takes part before lis
   - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
   - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
   - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
+  - Clearwater & St. Pete beaches (tampa): Clearwater Beach, Dunedin, Indian Rocks, Madeira Beach and John’s Pass, Treasure Island, St. Pete Beach and Pass-a-Grille. Eastern time.
   - Crystal Coast (crystalcoast): Atlantic Beach, Pine Knoll Shores, Emerald Isle, Morehead City and Beaufort, NC. Eastern time.
   - Chicago Lakefront (chicago): Chicago, especially near the lakefront from Uptown to Hyde Park. Central time.
   - New York City & Long Island (newyork): Coney Island, Brighton Beach, Brooklyn, the Rockaways, Long Beach and Jones Beach. Eastern time.

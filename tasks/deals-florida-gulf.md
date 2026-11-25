@@ -3,6 +3,7 @@ Weekly Crazy Good Deals feed update for What's Good Local's Florida Gulf towns.
 1. Clone or pull github.com/MuppetPimpin/wgl-shows and read deals/CLAUDE.md in full. It is the rulebook: follow it exactly (no source, no listing; aggregators like Groupon, SweetDeals, SpotDeals, Valpak, Restaurant.com and Viator are hunting grounds only, and every deal must be confirmed on the business's own page, which is the `source`; categories Food, Drinks, Adventures only; never invent a deal, price, day or hour; neutral, factual wording; American spelling; no claims about paid versus unpaid placement).
 
 2. This task covers ONLY these files (other regions have their own tasks running at the same time, so never touch any other file; destin-deals.json has its own task):
+   - deals/tampa-deals.json  (Clearwater & St. Pete beaches)
    - deals/fortmyers-deals.json  (Fort Myers Beach & Sanibel)
    - deals/sarasota-deals.json  (Siesta Key & Sarasota)
    - deals/naples-deals.json  (Naples & Marco Island)
