@@ -19,6 +19,15 @@ deals. It never edits or removes a hand-picked deal.**
 | `gulfshores-deals.json` | https://whatsgoodlocal.com/gulf-shores/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `jacksonville-deals.json` | https://whatsgoodlocal.com/jacksonville/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `palmbeach-deals.json` | https://whatsgoodlocal.com/palm-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `miami-deals.json` | https://whatsgoodlocal.com/miami/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `fortlauderdale-deals.json` | https://whatsgoodlocal.com/fort-lauderdale/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `floridakeys-deals.json` | https://whatsgoodlocal.com/florida-keys/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `sarasota-deals.json` | https://whatsgoodlocal.com/sarasota/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `naples-deals.json` | https://whatsgoodlocal.com/naples/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `treasurecoast-deals.json` | https://whatsgoodlocal.com/treasure-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `naturecoast-deals.json` | https://whatsgoodlocal.com/nature-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `forgottencoast-deals.json` | https://whatsgoodlocal.com/forgotten-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `mscoast-deals.json` | https://whatsgoodlocal.com/mississippi-gulf-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -111,6 +120,15 @@ participating locations," confirm the Destin-area location takes part before lis
   - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
   - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
   - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
+  - Mississippi Gulf Coast: Bay St. Louis, Gulfport, Biloxi, Ocean Springs.
+  - Forgotten Coast: Mexico Beach, Port St. Joe, Apalachicola, St. George Island, Carrabelle.
+  - Nature Coast: Crystal River, Homosassa, Cedar Key.
+  - Treasure Coast: Vero Beach, Fort Pierce, Jensen Beach, Stuart.
+  - Naples & Marco Island: Naples, Vanderbilt Beach, Marco Island.
+  - Siesta Key & Sarasota: Anna Maria Island, Longboat Key, Lido Key, Siesta Key, Venice.
+  - Florida Keys: Key Largo, Islamorada, Marathon, Key West.
+  - Fort Lauderdale: Fort Lauderdale Beach, Las Olas, Lauderdale-by-the-Sea, Pompano Beach.
+  - Miami & Miami Beach: South Beach, North Beach, Key Biscayne, Little Havana, Wynwood.
   Set `town` to the business's own town.
 - Three categories only: `Food`, `Drinks`, `Adventures`.
 - Up to ~40 deals for Destin, ~25 for each other town. Prefer variety across towns and categories.

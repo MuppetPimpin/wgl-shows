@@ -22,6 +22,15 @@ edits a hand-picked show.**
 | `oceancitymd.json` | https://whatsgoodlocal.com/ocean-city-md/live-music/ | https://whatsgoodlocal.com/ocean-city-md/live-music/shows.json |
 | `jacksonville.json` | https://whatsgoodlocal.com/jacksonville/live-music/ | https://whatsgoodlocal.com/jacksonville/live-music/shows.json |
 | `palmbeach.json` | https://whatsgoodlocal.com/palm-beach/live-music/ | https://whatsgoodlocal.com/palm-beach/live-music/shows.json |
+| `miami.json` | https://whatsgoodlocal.com/miami/live-music/ | https://whatsgoodlocal.com/miami/live-music/shows.json |
+| `fortlauderdale.json` | https://whatsgoodlocal.com/fort-lauderdale/live-music/ | https://whatsgoodlocal.com/fort-lauderdale/live-music/shows.json |
+| `floridakeys.json` | https://whatsgoodlocal.com/florida-keys/live-music/ | https://whatsgoodlocal.com/florida-keys/live-music/shows.json |
+| `sarasota.json` | https://whatsgoodlocal.com/sarasota/live-music/ | https://whatsgoodlocal.com/sarasota/live-music/shows.json |
+| `naples.json` | https://whatsgoodlocal.com/naples/live-music/ | https://whatsgoodlocal.com/naples/live-music/shows.json |
+| `treasurecoast.json` | https://whatsgoodlocal.com/treasure-coast/live-music/ | https://whatsgoodlocal.com/treasure-coast/live-music/shows.json |
+| `naturecoast.json` | https://whatsgoodlocal.com/nature-coast/live-music/ | https://whatsgoodlocal.com/nature-coast/live-music/shows.json |
+| `forgottencoast.json` | https://whatsgoodlocal.com/forgotten-coast/live-music/ | https://whatsgoodlocal.com/forgotten-coast/live-music/shows.json |
+| `mscoast.json` | https://whatsgoodlocal.com/mississippi-gulf-coast/live-music/ | https://whatsgoodlocal.com/mississippi-gulf-coast/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -126,6 +135,35 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     West Palm Beach (Roxy's Pub, West Palm Beach Cowboy Club), Two George's Waterfront Grille, Boston's on the Beach and
     the Atlantic Avenue bars in Delray Beach, plus free waterfront concerts in West Palm Beach. Shows at the big
     amphitheater and Kravis Center sold through Ticketmaster are left out. Set `town` to the venue's town.
+  - Miami & Miami Beach: South Beach, North Beach, Key Biscayne, Little Havana and Wynwood. Check the venues' own
+    calendars every week: Ball & Chain (Calle Ocho), the Miami Beach and Wynwood bars with posted bands, and free
+    concerts at the Miami Beach bandshell and parks. Arena, Fillmore and other Ticketmaster shows are left out. Eastern
+    time. Set `town` to Miami Beach or Miami.
+  - Fort Lauderdale: Fort Lauderdale Beach, Las Olas, Lauderdale-by-the-Sea and Pompano Beach. Check the venues' own
+    calendars every week: Elbo Room, the A1A beach bars, Las Olas bars and free concerts at Esplanade Park and the
+    Pompano Beach amphitheater's free nights. Ticketmaster shows are left out. Eastern time. Set `town` to the venue's town.
+  - Florida Keys: Key Largo, Islamorada, Marathon and Key West. Check the venues' own calendars every week: Sloppy Joe's,
+    Green Parrot, Hog's Breath Saloon and the Duval Street bars in Key West, and Lorelei and the Islamorada waterfront
+    bars. Eastern time. Set `town` to the venue's town.
+  - Siesta Key & Sarasota: Anna Maria Island, Longboat Key, Lido Key, St. Armands, Siesta Key and Venice. Check the venues'
+    own calendars every week: Siesta Key Oyster Bar, Daiquiri Deck, Gilligan's and the Siesta Key Village bars, and the
+    Anna Maria Island beach bars. Van Wezel and other Ticketmaster shows are left out. Eastern time. Set `town` to the venue's town.
+  - Naples & Marco Island: Naples, Vanderbilt Beach and Marco Island. Check the venues' own calendars every week: the Fifth
+    Avenue South and Third Street South bars, Tin City and Marco Island waterfront bars, and free downtown concerts.
+    Eastern time. Set `town` to the venue's town.
+  - Treasure Coast: Vero Beach, Fort Pierce, Hutchinson Island, Jensen Beach and Stuart. Check the venues' own calendars
+    every week: Terra Fermata (Stuart), Sailfish Brewing and Archie's Seabreeze (Fort Pierce), and Jensen Beach bars.
+    Eastern time. Set `town` to the venue's town.
+  - Nature Coast: Crystal River, Homosassa and Cedar Key. Check the venues' own calendars every week: Crackers Bar & Grill
+    (Crystal River), the Homosassa river bars and the Cedar Key waterfront. An empty week is normal. Eastern time. Set `town`
+    to the venue's town.
+  - Forgotten Coast: Mexico Beach, Port St. Joe, Apalachicola, St. George Island and Carrabelle. Check the venues' own
+    calendars every week: Paddy's Raw Bar and Blue Parrot (St. George Island), Apalachicola's waterfront bars, and Indian
+    Pass Raw Bar. An empty week is normal. Eastern time (Mexico Beach and Port St. Joe are Central; set times by the venue's
+    town). Set `town` to the venue's town.
+  - Mississippi Gulf Coast: Bay St. Louis, Pass Christian, Gulfport, Biloxi and Ocean Springs. Check the venues' own
+    calendars every week: Shaggy's, the Ocean Springs Government Street bars and Bay St. Louis's Old Town bars. Casino
+    shows are covered by the casinos feed and left out here. Central time. Set `town` to the venue's town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
