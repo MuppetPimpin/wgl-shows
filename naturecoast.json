@@ -1,5 +1,55 @@
 {
   "_readme": "What's Good Local weekly show feed for the Nature Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Bo Bice",
+      "venue": "KC Wine Bistro",
+      "town": "Crystal River",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T22:00",
+      "address": "564 N Citrus Ave, Crystal River, FL 34428",
+      "tag": "Acoustic set",
+      "source": "https://www.discovercrystalriverfl.com/events/bo-bice-live-and-acoustic/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Jo Jo & Jay",
+      "venue": "KC Wine Bistro",
+      "town": "Crystal River",
+      "when": "Fri Dec 4 · 6 PM",
+      "start": "2026-12-04T18:00",
+      "end": "2026-12-04T21:00",
+      "address": "564 N Citrus Ave, Crystal River, FL 34428",
+      "tag": "Rock and Christmas songs",
+      "source": "https://www.discovercrystalriverfl.com/events/jo-jo-jay-live-kc-wine-bistro/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Shawn Manley",
+      "venue": "KC Wine Bistro",
+      "town": "Crystal River",
+      "when": "Fri Dec 11 · 6 PM",
+      "start": "2026-12-11T18:00",
+      "end": "2026-12-11T21:00",
+      "address": "564 N Citrus Ave, Crystal River, FL 34428",
+      "source": "https://www.discovercrystalriverfl.com/events/shawn-manley-kc-wine-bistro/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Nature Coast Winds",
+      "venue": "Heritage Park",
+      "town": "Homosassa",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T21:00",
+      "tag": "Christmas Music in the Park",
+      "source": "https://homosassacivicclubinc.org/events/"
+    }
+  ]
 }

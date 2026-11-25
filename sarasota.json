@@ -1,5 +1,182 @@
 {
   "_readme": "What's Good Local weekly show feed for Siesta Key & Sarasota. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Always the Villian",
+      "venue": "Gilligan's Island Bar",
+      "town": "Siesta Key",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T22:00",
+      "address": "5253 Ocean Blvd, Siesta Key, FL 34242",
+      "source": "https://calendar.google.com/calendar/embed?src=gilligansislandbar%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://www.gilligansislandbar.com/"
+    },
+    {
+      "kind": "free",
+      "band": "Deep Blu",
+      "venue": "Sharky's on the Pier",
+      "town": "Venice",
+      "when": "Sat Nov 28 · 7 PM",
+      "start": "2026-11-28T19:00",
+      "end": "2026-11-28T23:00",
+      "address": "1600 Harbor Dr S, Venice, FL 34285",
+      "source": "https://www.sharkysonthepier.com/live-music"
+    },
+    {
+      "kind": "free",
+      "band": "Soul Purpose IV",
+      "venue": "Freckled Fin Irish Pub",
+      "town": "Holmes Beach",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:59",
+      "address": "5337 Gulf Dr N, Holmes Beach, FL 34217",
+      "source": "https://annamariaislandchamber.org/event/soul-purpose-iv-5/2026-11-28/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Head Above Water",
+      "venue": "Gilligan's Island Bar",
+      "town": "Siesta Key",
+      "when": "Sun Nov 29 · 6 PM",
+      "start": "2026-11-29T18:00",
+      "end": "2026-11-29T22:00",
+      "address": "5253 Ocean Blvd, Siesta Key, FL 34242",
+      "source": "https://calendar.google.com/calendar/embed?src=gilligansislandbar%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://www.gilligansislandbar.com/"
+    },
+    {
+      "kind": "free",
+      "band": "Doug Deming & The Jewel Tones",
+      "venue": "Island Time Bar & Grill",
+      "town": "Bradenton Beach",
+      "when": "Sun Nov 29 · 6:30 PM",
+      "start": "2026-11-29T18:30",
+      "end": "2026-11-29T21:30",
+      "address": "111 Gulf Dr S, Bradenton Beach, FL 34217",
+      "source": "https://calendar.google.com/calendar/embed?src=musicandeventsit%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://islandtimebarandgrill.com/music/"
+    },
+    {
+      "kind": "free",
+      "band": "Saint Tone",
+      "venue": "Gilligan's Island Bar",
+      "town": "Siesta Key",
+      "when": "Wed Dec 2 · 6 PM",
+      "start": "2026-12-02T18:00",
+      "end": "2026-12-02T22:00",
+      "address": "5253 Ocean Blvd, Siesta Key, FL 34242",
+      "source": "https://calendar.google.com/calendar/embed?src=gilligansislandbar%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://www.gilligansislandbar.com/"
+    },
+    {
+      "kind": "free",
+      "band": "Cam Stockton",
+      "venue": "Island Time Bar & Grill",
+      "town": "Bradenton Beach",
+      "when": "Thu Dec 3 · 7 PM",
+      "start": "2026-12-03T19:00",
+      "end": "2026-12-03T22:00",
+      "address": "111 Gulf Dr S, Bradenton Beach, FL 34217",
+      "source": "https://calendar.google.com/calendar/embed?src=musicandeventsit%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://islandtimebarandgrill.com/music/"
+    },
+    {
+      "kind": "free",
+      "band": "Vince Berardi & The Chill",
+      "venue": "Sharky's on the Pier",
+      "town": "Venice",
+      "when": "Fri Dec 4 · 6 PM",
+      "start": "2026-12-04T18:00",
+      "end": "2026-12-04T22:00",
+      "address": "1600 Harbor Dr S, Venice, FL 34285",
+      "source": "https://www.sharkysonthepier.com/live-music"
+    },
+    {
+      "kind": "free",
+      "band": "Weekend Agenda",
+      "venue": "Island Time Bar & Grill",
+      "town": "Bradenton Beach",
+      "when": "Sat Dec 5 · 7 PM",
+      "start": "2026-12-05T19:00",
+      "end": "2026-12-05T22:00",
+      "address": "111 Gulf Dr S, Bradenton Beach, FL 34217",
+      "source": "https://calendar.google.com/calendar/embed?src=musicandeventsit%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://islandtimebarandgrill.com/music/"
+    },
+    {
+      "kind": "free",
+      "band": "Northstar",
+      "venue": "Freckled Fin Irish Pub",
+      "town": "Holmes Beach",
+      "when": "Sat Dec 5 · 7:30 PM",
+      "start": "2026-12-05T19:30",
+      "end": "2026-12-05T23:30",
+      "address": "5337 Gulf Dr N, Holmes Beach, FL 34217",
+      "source": "https://annamariaislandchamber.org/event/northstar-7/2026-12-05/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Trinidudes",
+      "venue": "Sharky's on the Pier",
+      "town": "Venice",
+      "when": "Sun Dec 6 · 6 PM",
+      "start": "2026-12-06T18:00",
+      "end": "2026-12-06T22:00",
+      "address": "1600 Harbor Dr S, Venice, FL 34285",
+      "source": "https://www.sharkysonthepier.com/live-music"
+    },
+    {
+      "kind": "free",
+      "band": "Eric Von",
+      "venue": "Freckled Fin Irish Pub",
+      "town": "Holmes Beach",
+      "when": "Thu Dec 10 · 7:30 PM",
+      "start": "2026-12-10T19:30",
+      "end": "2026-12-10T23:30",
+      "address": "5337 Gulf Dr N, Holmes Beach, FL 34217",
+      "source": "https://annamariaislandchamber.org/event/eric-von-7/2026-12-10/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Latitude 26",
+      "venue": "Sharky's on the Pier",
+      "town": "Venice",
+      "when": "Fri Dec 11 · 6 PM",
+      "start": "2026-12-11T18:00",
+      "end": "2026-12-11T22:00",
+      "address": "1600 Harbor Dr S, Venice, FL 34285",
+      "source": "https://www.sharkysonthepier.com/live-music"
+    },
+    {
+      "kind": "free",
+      "band": "Jah Movement",
+      "venue": "Island Time Bar & Grill",
+      "town": "Bradenton Beach",
+      "when": "Fri Dec 11 · 7 PM",
+      "start": "2026-12-11T19:00",
+      "end": "2026-12-11T22:00",
+      "address": "111 Gulf Dr S, Bradenton Beach, FL 34217",
+      "source": "https://calendar.google.com/calendar/embed?src=musicandeventsit%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://islandtimebarandgrill.com/music/"
+    },
+    {
+      "kind": "free",
+      "band": "Ted Stevens & Doo-Shots",
+      "venue": "Gilligan's Island Bar",
+      "town": "Siesta Key",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T22:00",
+      "address": "5253 Ocean Blvd, Siesta Key, FL 34242",
+      "source": "https://calendar.google.com/calendar/embed?src=gilligansislandbar%40gmail.com&ctz=America%2FNew_York",
+      "url": "https://www.gilligansislandbar.com/"
+    }
+  ]
 }

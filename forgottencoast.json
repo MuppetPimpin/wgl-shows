@@ -1,5 +1,19 @@
 {
   "_readme": "What's Good Local weekly show feed for the Forgotten Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Bay Area Choral Society",
+      "venue": "Trinity Episcopal Church",
+      "town": "Apalachicola",
+      "when": "Sun Dec 13 · 4 PM",
+      "start": "2026-12-13T16:00",
+      "end": "2026-12-13T17:30",
+      "address": "79 6th Street, Apalachicola, FL 32320",
+      "tag": "Christmas concert",
+      "details": "\"Jingle All the Way,\" sacred and secular music with Florida State University musicians. Admission $5–$20.",
+      "source": "https://www.apalachicolabay.org/event/bay-area-choral-societys-2026-christmas-concert-jingle-all-the-way/"
+    }
+  ]
 }

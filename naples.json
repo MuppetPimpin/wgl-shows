@@ -1,5 +1,176 @@
 {
   "_readme": "What's Good Local weekly show feed for Naples & Marco Island. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Earworms",
+      "venue": "Snook Inn",
+      "town": "Marco Island",
+      "when": "Wed Nov 25 · 6 PM",
+      "start": "2026-11-25T18:00",
+      "end": "2026-11-25T22:00",
+      "address": "1215 Bald Eagle Drive, Marco Island, FL 34145",
+      "source": "https://snookinn.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Paul Dever Band",
+      "venue": "Zeppe's Tavern",
+      "town": "Naples",
+      "when": "Fri Nov 27 · 5 PM",
+      "start": "2026-11-27T17:00",
+      "end": "2026-11-27T20:00",
+      "address": "895 Wiggins Pass Rd, Naples, FL 34110",
+      "source": "https://zeppestavern.com/naples/"
+    },
+    {
+      "kind": "free",
+      "band": "Boz",
+      "venue": "Paddy Murphy's Irish Pub",
+      "town": "Marco Island",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T21:00",
+      "source": "https://paddymurphys.com/marco-island-paddy-murphys-irish-pub-events"
+    },
+    {
+      "kind": "free",
+      "band": "Mark Nabozny Band",
+      "venue": "Zeppe's Tavern",
+      "town": "Naples",
+      "when": "Sat Nov 28 · 5 PM",
+      "start": "2026-11-28T17:00",
+      "end": "2026-11-28T20:00",
+      "address": "895 Wiggins Pass Rd, Naples, FL 34110",
+      "source": "https://zeppestavern.com/naples/"
+    },
+    {
+      "kind": "free",
+      "band": "Paul Duffy",
+      "venue": "Paddy Murphy's Irish Pub",
+      "town": "Marco Island",
+      "when": "Sat Nov 28 · 6 PM",
+      "start": "2026-11-28T18:00",
+      "end": "2026-11-28T21:00",
+      "source": "https://paddymurphys.com/marco-island-paddy-murphys-irish-pub-events"
+    },
+    {
+      "kind": "free",
+      "band": "Vybe Shifters",
+      "venue": "Snook Inn",
+      "town": "Marco Island",
+      "when": "Sat Nov 28 · 6 PM",
+      "start": "2026-11-28T18:00",
+      "end": "2026-11-28T22:00",
+      "address": "1215 Bald Eagle Drive, Marco Island, FL 34145",
+      "source": "https://snookinn.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Coral Stone Band",
+      "venue": "Snook Inn",
+      "town": "Marco Island",
+      "when": "Sun Nov 29 · 6 PM",
+      "start": "2026-11-29T18:00",
+      "end": "2026-11-29T22:00",
+      "address": "1215 Bald Eagle Drive, Marco Island, FL 34145",
+      "source": "https://snookinn.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Matty Jollie",
+      "venue": "Celebration Park",
+      "town": "Naples",
+      "when": "Wed Dec 2 · 6 PM",
+      "start": "2026-12-02T18:00",
+      "end": "2026-12-02T21:00",
+      "address": "2880 Becca Ave, Naples, FL 34112",
+      "source": "https://www.visitnaplesfl.com/event/matty-jollie-520e84ed"
+    },
+    {
+      "kind": "free",
+      "band": "Jimmy Keys",
+      "venue": "Barbatella",
+      "town": "Naples",
+      "when": "Wed Dec 2 · 8:30 PM",
+      "start": "2026-12-02T20:30",
+      "end": "2026-12-02T22:30",
+      "address": "1290 Third Street South, Naples, FL 34102",
+      "source": "https://www.visitnaplesfl.com/event/jimmy-keys-rocks-third-street-south-barbatella-2ff9fbcc",
+      "tag": "Third Street South",
+      "details": "Dinner reservations recommended; seating starts at 7:45 PM."
+    },
+    {
+      "kind": "free",
+      "band": "Empire Strikes Brass",
+      "venue": "Mercato (Piazza)",
+      "town": "Naples",
+      "when": "Thu Dec 3 · 6:30 PM",
+      "start": "2026-12-03T18:30",
+      "end": "2026-12-03T20:30",
+      "address": "9110 Strada Place, Naples, FL 34108",
+      "source": "https://experiencemercato.com/events/mercato-nights-music-series-ft-empire-strikes-brass/",
+      "tag": "Mercato Nights Music Series",
+      "details": "Free to attend. Lawn chairs welcome; outside drinks and coolers not permitted.",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Parks & Wreck",
+      "venue": "Seed to Table",
+      "town": "Naples",
+      "when": "Thu Dec 3 · 7 PM",
+      "start": "2026-12-03T19:00",
+      "end": "2026-12-03T22:00",
+      "address": "4835 Immokalee Rd, Naples, FL 34110",
+      "source": "https://www.gulfsider.com/events/24385/"
+    },
+    {
+      "kind": "free",
+      "band": "Tim Hammond Band",
+      "venue": "Zeppe's Tavern",
+      "town": "Naples",
+      "when": "Fri Dec 4 · 5 PM",
+      "start": "2026-12-04T17:00",
+      "end": "2026-12-04T20:00",
+      "address": "895 Wiggins Pass Rd, Naples, FL 34110",
+      "source": "https://zeppestavern.com/naples/"
+    },
+    {
+      "kind": "free",
+      "band": "Naples Concert Band",
+      "venue": "Cambier Park",
+      "town": "Naples",
+      "when": "Sun Dec 6 · 2 PM",
+      "start": "2026-12-06T14:00",
+      "end": "2026-12-06T15:00",
+      "address": "755 8th Ave S, Naples, FL 34102",
+      "source": "https://www.fifthavenuesouth.com/events-calendar/category/entertainment",
+      "tag": "Holiday concert",
+      "details": "Program: Travel, Tradition and Timeless Holiday Favorites, with vocalist Gerritt VanderMeer."
+    },
+    {
+      "kind": "free",
+      "band": "Stardust Memories Big Band",
+      "venue": "Cambier Park Bandshell",
+      "town": "Naples",
+      "when": "Mon Dec 7 · 7 PM",
+      "start": "2026-12-07T19:00",
+      "end": "2026-12-07T21:00",
+      "address": "755 8th Ave S, Naples, FL 34102",
+      "source": "https://www.fifthavenuesouth.com/events-calendar/category/entertainment"
+    },
+    {
+      "kind": "free",
+      "band": "Naples Big Band",
+      "venue": "Cambier Park Bandshell",
+      "town": "Naples",
+      "when": "Mon Dec 14 · 7 PM",
+      "start": "2026-12-14T19:00",
+      "end": "2026-12-14T21:00",
+      "address": "755 8th Ave S, Naples, FL 34102",
+      "source": "https://www.fifthavenuesouth.com/events-calendar/category/entertainment"
+    }
+  ]
 }

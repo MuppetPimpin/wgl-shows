@@ -1,5 +1,177 @@
 {
   "_readme": "What's Good Local weekly show feed for Fort Myers Beach & Sanibel. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Joe Yeoman Band",
+      "venue": "License to Chill Theatre, Margaritaville Beach Resort",
+      "town": "Fort Myers Beach",
+      "when": "Fri Nov 27 · 7 PM",
+      "start": "2026-11-27T19:00",
+      "end": "2026-11-27T22:00",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/things-to-do/entertainment-schedule"
+    },
+    {
+      "kind": "free",
+      "band": "Crossroads",
+      "venue": "Doc Ford's Rum Bar & Grille",
+      "town": "Fort Myers Beach",
+      "when": "Sat Nov 28 · 5:30 PM",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T20:30",
+      "address": "708 Fishermans Wharf, Fort Myers Beach, FL 33931",
+      "source": "https://docfords.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Soapy Tuna",
+      "venue": "Bayside Park",
+      "town": "Fort Myers Beach",
+      "when": "Sun Nov 29 · 4 PM",
+      "start": "2026-11-29T16:00",
+      "end": "2026-11-29T19:00",
+      "tag": "Bayside Park concert series",
+      "free": true,
+      "source": "https://www.fortmyersbeach.org/bayside-park-concert-series/"
+    },
+    {
+      "kind": "free",
+      "band": "Steve Farst",
+      "venue": "Dixie Fish Co.",
+      "town": "Fort Myers Beach",
+      "when": "Tue Dec 1 · 5:30 PM",
+      "start": "2026-12-01T17:30",
+      "end": "2026-12-01T21:00",
+      "address": "714 Fishermans Wharf, Fort Myers Beach, FL 33931",
+      "source": "https://dixiefishfmb.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Shawn Russell",
+      "venue": "Nervous Nellie's",
+      "town": "Fort Myers Beach",
+      "when": "Thu Dec 3 · 4:30 PM",
+      "start": "2026-12-03T16:30",
+      "end": "2026-12-03T20:30",
+      "address": "1131 First St, Fort Myers Beach, FL 33931",
+      "source": "https://www.nervousnellies.net/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "GMB",
+      "venue": "Doc Ford's Rum Bar & Grille",
+      "town": "Fort Myers Beach",
+      "when": "Fri Dec 4 · 6 PM",
+      "start": "2026-12-04T18:00",
+      "end": "2026-12-04T21:00",
+      "address": "708 Fishermans Wharf, Fort Myers Beach, FL 33931",
+      "source": "https://docfords.com/live-music/"
+    },
+    {
+      "kind": "concert",
+      "band": "Ben Allen Band",
+      "venue": "'Tween Waters Island Resort",
+      "town": "Captiva",
+      "when": "Sat Dec 5 · 5:30 PM",
+      "start": "2026-12-05T17:30",
+      "end": "2026-12-05T21:30",
+      "address": "15951 Captiva Dr, Captiva, FL 33924",
+      "tag": "Jog N Jam beach concert",
+      "details": "$75 per person. Fundraiser for FISH of SanCap. Two sets with fireworks at intermission.",
+      "tickets": "https://jamwithfish2026.rsvpify.com/",
+      "source": "https://sanibel-island.sanibel-captiva.org/events/details/jog-n-jam-concert-on-the-beach-with-fireworks-a-fundraiser-for-fish-of-sancap-12-05-2026-51848"
+    },
+    {
+      "kind": "free",
+      "band": "Simply-Fi",
+      "venue": "Bayside Park",
+      "town": "Fort Myers Beach",
+      "when": "Sun Dec 6 · 4 PM",
+      "start": "2026-12-06T16:00",
+      "end": "2026-12-06T19:00",
+      "tag": "Bayside Park concert series",
+      "free": true,
+      "source": "https://www.fortmyersbeach.org/bayside-park-concert-series/"
+    },
+    {
+      "kind": "concert",
+      "band": "Mark Moultrup Trio",
+      "venue": "Music & Arts Community Center (MACC)",
+      "town": "Fort Myers",
+      "when": "Sun Dec 6 · 7 PM",
+      "start": "2026-12-06T19:00",
+      "end": "2026-12-06T22:00",
+      "with": "James Suggs",
+      "tag": "Christmas Time This Year",
+      "tickets": "https://my.gulfcoastsymphony.org/2293",
+      "source": "https://gulfcoastsymphony.org/concert/moultrup-trio-christmas-time-this-year/"
+    },
+    {
+      "kind": "free",
+      "band": "Sam DeArmond",
+      "venue": "Doc Ford's Rum Bar & Grille",
+      "town": "Fort Myers Beach",
+      "when": "Wed Dec 9 · 5:30 PM",
+      "start": "2026-12-09T17:30",
+      "end": "2026-12-09T20:30",
+      "address": "708 Fishermans Wharf, Fort Myers Beach, FL 33931",
+      "source": "https://docfords.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Rock Republic",
+      "venue": "License to Chill, Margaritaville Beach Resort",
+      "town": "Fort Myers Beach",
+      "when": "Fri Dec 11 · 7 PM",
+      "start": "2026-12-11T19:00",
+      "end": "2026-12-11T22:00",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/things-to-do/entertainment-schedule"
+    },
+    {
+      "kind": "concert",
+      "band": "Svetlana",
+      "venue": "Music & Arts Community Center (MACC)",
+      "town": "Fort Myers",
+      "when": "Fri Dec 11 · 7:30 PM",
+      "start": "2026-12-11T19:30",
+      "end": "2026-12-11T22:30",
+      "tag": "Holiday Swing",
+      "tickets": "https://my.gulfcoastsymphony.org/2298",
+      "source": "https://gulfcoastsymphony.org/concert/svetlana-holiday-swing/"
+    },
+    {
+      "kind": "free",
+      "band": "Mark Wesley",
+      "venue": "Dixie Fish Co.",
+      "town": "Fort Myers Beach",
+      "when": "Sat Dec 12 · 5:30 PM",
+      "start": "2026-12-12T17:30",
+      "end": "2026-12-12T21:30",
+      "address": "714 Fishermans Wharf, Fort Myers Beach, FL 33931",
+      "source": "https://dixiefishfmb.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "22N Ultimate Party Band",
+      "venue": "License to Chill Theatre, Margaritaville Beach Resort",
+      "town": "Fort Myers Beach",
+      "when": "Sat Dec 12 · 7 PM",
+      "start": "2026-12-12T19:00",
+      "end": "2026-12-12T22:00",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/things-to-do/entertainment-schedule"
+    },
+    {
+      "kind": "free",
+      "band": "Limited Edition",
+      "venue": "Bayside Park",
+      "town": "Fort Myers Beach",
+      "when": "Sun Dec 13 · 4 PM",
+      "start": "2026-12-13T16:00",
+      "end": "2026-12-13T19:00",
+      "tag": "Bayside Park concert series",
+      "free": true,
+      "source": "https://www.fortmyersbeach.org/bayside-park-concert-series/"
+    }
+  ]
 }
