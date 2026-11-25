@@ -1,5 +1,119 @@
 {
   "_readme": "What's Good Local weekly show feed for Galveston. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "concert",
+      "band": "Walt Wilkins & Austin Mayse",
+      "venue": "Old Quarter Acoustic Cafe",
+      "town": "Galveston",
+      "when": "Fri Nov 27 · 8:30 PM",
+      "start": "2026-11-27T20:30",
+      "end": "2026-11-27T23:30",
+      "address": "413 20th St, Galveston, TX 77550",
+      "source": "https://www.prekindle.com/event/32669-walt-wilkins-and-austin-mayse-galveston",
+      "tickets": "https://www.prekindle.com/event/32669-walt-wilkins-and-austin-mayse-galveston",
+      "details": "Doors 8 PM. $30 advance; $10 more at the door. All ages."
+    },
+    {
+      "kind": "free",
+      "band": "The Line Up",
+      "venue": "B. Jigger's Lounge",
+      "town": "Galveston",
+      "when": "Fri Nov 27 · 9 PM",
+      "start": "2026-11-27T21:00",
+      "end": "2026-11-28T01:00",
+      "address": "5002 Seawall Blvd, Galveston, TX 77551",
+      "source": "https://www.galvestonholidayinn.com/live-music-calendar",
+      "details": "At the Holiday Inn Resort Galveston on the Beach."
+    },
+    {
+      "kind": "concert",
+      "band": "KC & The Sunshine Band",
+      "venue": "The Grand 1894 Opera House",
+      "town": "Galveston",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:00",
+      "address": "2020 Postoffice St, Galveston, TX 77550",
+      "source": "https://www.thegrand.com/shows/kc-the-sunshine-band/",
+      "tickets": "https://www.thegrand.com/shows/kc-the-sunshine-band/"
+    },
+    {
+      "kind": "free",
+      "band": "The Fuse",
+      "venue": "B. Jigger's Lounge",
+      "town": "Galveston",
+      "when": "Sat Nov 28 · 9 PM",
+      "start": "2026-11-28T21:00",
+      "end": "2026-11-29T01:00",
+      "address": "5002 Seawall Blvd, Galveston, TX 77551",
+      "source": "https://www.galvestonholidayinn.com/live-music-calendar",
+      "details": "At the Holiday Inn Resort Galveston on the Beach."
+    },
+    {
+      "kind": "free",
+      "band": "The Line Up",
+      "venue": "Yaga's Cafe",
+      "town": "Galveston",
+      "when": "Sat Nov 28 · 10 PM",
+      "start": "2026-11-28T22:00",
+      "end": "2026-11-29T01:00",
+      "address": "2314 Strand, Galveston, TX 77550",
+      "source": "https://yagascafe.com/concert-calendar/"
+    },
+    {
+      "kind": "concert",
+      "band": "An Evening with Verlon Thompson",
+      "venue": "Old Quarter Acoustic Cafe",
+      "town": "Galveston",
+      "when": "Wed Dec 2 · 8:30 PM",
+      "start": "2026-12-02T20:30",
+      "end": "2026-12-02T23:30",
+      "address": "413 20th St, Galveston, TX 77550",
+      "source": "https://www.prekindle.com/event/48219-an-evening-with-verlon-thompson-galveston",
+      "tickets": "https://www.prekindle.com/event/48219-an-evening-with-verlon-thompson-galveston",
+      "details": "Doors 8 PM. $25 advance; $10 more at the door. 18 and up."
+    },
+    {
+      "kind": "concert",
+      "band": "JuBellaté Ringers",
+      "venue": "1859 St. Joseph's Church",
+      "town": "Galveston",
+      "when": "Fri Dec 4 · 6:30 PM",
+      "start": "2026-12-04T18:30",
+      "end": "2026-12-04T19:30",
+      "address": "2202 Avenue K, Galveston, TX 77550",
+      "source": "https://www.galvestonhistory.org/event/jubilation-ringers-handbell-concert-at-the-1859-st-josephs-church/2026-12-04/2",
+      "tickets": "https://www.eventbrite.com/e/jubilation-ringers-handbell-concert-at-the-1859-st-josephs-church-tickets-2001885694000",
+      "tag": "Dickens on The Strand",
+      "details": "Handbell concert, $25. Also at 5 PM and 8 PM. Seating is limited."
+    },
+    {
+      "kind": "concert",
+      "band": "Ian Moore Annual Holiday Show",
+      "venue": "Old Quarter Acoustic Cafe",
+      "town": "Galveston",
+      "when": "Thu Dec 10 · 8:30 PM",
+      "start": "2026-12-10T20:30",
+      "end": "2026-12-10T23:30",
+      "address": "413 20th St, Galveston, TX 77550",
+      "source": "https://www.prekindle.com/event/44563-ian-moore-annual-holiday-show-galveston",
+      "tickets": "https://www.prekindle.com/event/44563-ian-moore-annual-holiday-show-galveston",
+      "details": "Doors 8 PM. $50 advance; $10 more at the door. All ages."
+    },
+    {
+      "kind": "concert",
+      "band": "Jason Eady & Abe Partridge",
+      "venue": "Old Quarter Acoustic Cafe",
+      "town": "Galveston",
+      "when": "Sun Dec 13 · 3 PM",
+      "start": "2026-12-13T15:00",
+      "end": "2026-12-13T18:00",
+      "address": "413 20th St, Galveston, TX 77550",
+      "source": "https://www.prekindle.com/event/14198-jason-eady-and-abe-partridge-galveston",
+      "tickets": "https://www.prekindle.com/event/14198-jason-eady-and-abe-partridge-galveston",
+      "details": "Matinee. Doors 2:30 PM. $30 advance; $10 more at the door. 18 and up."
+    }
+  ]
 }

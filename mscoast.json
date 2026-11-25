@@ -1,5 +1,135 @@
 {
   "_readme": "What's Good Local weekly show feed for the Mississippi Gulf Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Gram Rea",
+      "venue": "Capone's Speakeasy Lounge at Gulf Hills Golf Club",
+      "town": "Ocean Springs",
+      "when": "Wed Nov 25 · 5 PM",
+      "start": "2026-11-25T17:00",
+      "end": "2026-11-25T20:00",
+      "address": "13700 Paso Road, Ocean Springs, MS 39564",
+      "source": "https://happeningnext.com/event/gram-rea-capones-speakeasy-11-25-eid3a0e9u2ch5"
+    },
+    {
+      "kind": "free",
+      "band": "Stephen Wade Scott",
+      "venue": "Murky Waters BBQ",
+      "town": "Gulfport",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T21:00",
+      "address": "1320 27th Ave, Gulfport, MS 39501",
+      "source": "https://www.murkywatersbbq.com/events"
+    },
+    {
+      "kind": "concert",
+      "band": "Change To Eden",
+      "venue": "Ground Zero Blues Club Biloxi",
+      "town": "Biloxi",
+      "when": "Fri Nov 27 · 7 PM",
+      "start": "2026-11-27T19:00",
+      "end": "2026-11-27T22:00",
+      "address": "814 Howard Ave, Biloxi, MS 39530",
+      "source": "https://www.groundzerobiloxi.com/event-details/change-to-eden",
+      "tickets": "https://www.groundzerobiloxi.com/event-details/change-to-eden"
+    },
+    {
+      "kind": "free",
+      "band": "Kerry Thibodaux Band",
+      "venue": "Dan B. Murphy's Restaurant & Bar",
+      "town": "Bay St. Louis",
+      "when": "Fri Nov 27 · 8 PM",
+      "start": "2026-11-27T20:00",
+      "end": "2026-11-28T00:00",
+      "address": "109 S Beach Blvd, Bay St. Louis, MS 39520",
+      "source": "https://happeningnext.com/event/ktb-dan-b’s-on-black-friday-eid3a0ec08661"
+    },
+    {
+      "kind": "concert",
+      "band": "Bonerama",
+      "venue": "Ground Zero Blues Club Biloxi",
+      "town": "Biloxi",
+      "when": "Sat Nov 28 · 7 PM",
+      "start": "2026-11-28T19:00",
+      "end": "2026-11-28T22:00",
+      "address": "814 Howard Ave, Biloxi, MS 39530",
+      "source": "https://www.groundzerobiloxi.com/event-details/bonerama-2",
+      "tickets": "https://www.groundzerobiloxi.com/event-details/bonerama-2"
+    },
+    {
+      "kind": "concert",
+      "band": "Eric Johanson",
+      "venue": "Ground Zero Blues Club Biloxi",
+      "town": "Biloxi",
+      "when": "Fri Dec 4 · 7 PM",
+      "start": "2026-12-04T19:00",
+      "end": "2026-12-04T22:00",
+      "address": "814 Howard Ave, Biloxi, MS 39530",
+      "source": "https://www.groundzerobiloxi.com/event-details/eric-johanson-the-open-bayou-tour",
+      "tickets": "https://www.groundzerobiloxi.com/event-details/eric-johanson-the-open-bayou-tour",
+      "details": "The Open Bayou Tour"
+    },
+    {
+      "kind": "free",
+      "band": "Love Story's End",
+      "venue": "The Juke Joint",
+      "town": "Ocean Springs",
+      "when": "Sat Dec 5 · 2 PM",
+      "start": "2026-12-05T14:00",
+      "end": "2026-12-05T17:00",
+      "source": "https://www.reverbnation.com/lovestorysend/events"
+    },
+    {
+      "kind": "free",
+      "band": "Side Piece",
+      "venue": "Glory Bound Gyro Co.",
+      "town": "Ocean Springs",
+      "when": "Sat Dec 5 · 8 PM",
+      "start": "2026-12-05T20:00",
+      "end": "2026-12-06T00:00",
+      "address": "1107 Government St, Ocean Springs, MS 39564",
+      "source": "https://happeningnext.com/event/side-piece-live-at-glory-bound-ocean-springs-saturday-december-5th-8-00pm-eid3a0ebpjl48"
+    },
+    {
+      "kind": "concert",
+      "band": "Jonathan Ellison Band",
+      "venue": "Ground Zero Blues Club Biloxi",
+      "town": "Biloxi",
+      "when": "Fri Dec 11 · 7 PM",
+      "start": "2026-12-11T19:00",
+      "end": "2026-12-11T22:00",
+      "address": "814 Howard Ave, Biloxi, MS 39530",
+      "source": "https://www.groundzerobiloxi.com/event-details/jonathan-ellison-band-1",
+      "tickets": "https://www.groundzerobiloxi.com/event-details/jonathan-ellison-band-1"
+    },
+    {
+      "kind": "free",
+      "band": "Meryl Zimmerman & The Miracles",
+      "venue": "100 Men Hall",
+      "town": "Bay St. Louis",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T20:00",
+      "address": "303 Union St, Bay St. Louis, MS 39520",
+      "source": "https://happeningnext.com/event/the-matzo-ball-with-meryl-zimmerman-andamp-the-miracles-eid3a0e3s3drj",
+      "free": true,
+      "tag": "The Matzo Ball",
+      "details": "Seventh annual Matzo Ball on the eighth night of Hanukkah. Free admission; cash bar."
+    },
+    {
+      "kind": "free",
+      "band": "Cooper Cross",
+      "venue": "The Roost Boutique Hotel",
+      "town": "Ocean Springs",
+      "when": "Wed Dec 16 · 5:30 PM",
+      "start": "2026-12-16T17:30",
+      "end": "2026-12-16T20:30",
+      "address": "604 Porter Ave, Ocean Springs, MS 39564",
+      "source": "https://happeningnext.com/event/cooper-cross-live-at-the-roost-after-the-clydesdales-parade-eid3a0e8l5g69",
+      "details": "Follows the Budweiser Clydesdales parade through downtown Ocean Springs."
+    }
+  ]
 }

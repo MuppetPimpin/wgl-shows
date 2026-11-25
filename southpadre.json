@@ -1,5 +1,152 @@
 {
   "_readme": "What's Good Local weekly show feed for South Padre Island. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-25",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Danica",
+      "venue": "Mariluna Beach Bar",
+      "town": "South Padre Island",
+      "when": "Wed Nov 25 · 2 PM",
+      "start": "2026-11-25T14:00",
+      "end": "2026-11-25T17:00",
+      "address": "6700 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://info.enjoyspi.com/event/danica-live-at-mariluna-beach-bar-2-2/2026-11-25/",
+      "free": true,
+      "details": "Beach bar behind Bar Louie."
+    },
+    {
+      "kind": "free",
+      "band": "Albert Hill",
+      "venue": "Mariluna Beach Bar",
+      "town": "South Padre Island",
+      "when": "Thu Nov 26 · 2 PM",
+      "start": "2026-11-26T14:00",
+      "end": "2026-11-26T17:00",
+      "address": "6700 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://info.enjoyspi.com/event/albert-hill-live-at-mariluna-beach-bar/2026-11-26/",
+      "details": "Beach bar behind Bar Louie."
+    },
+    {
+      "kind": "free",
+      "band": "Danica",
+      "venue": "Barry's Beach Bar",
+      "town": "South Padre Island",
+      "when": "Thu Nov 26 · 2 PM",
+      "start": "2026-11-26T14:00",
+      "end": "2026-11-26T17:00",
+      "address": "7010 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://www.reverbnation.com/danica/events"
+    },
+    {
+      "kind": "free",
+      "band": "Charlie Garcia",
+      "venue": "Hopper Haus Bar & Grill",
+      "town": "Port Isabel",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T21:00",
+      "address": "418 E Queen Isabella Blvd, Port Isabel, TX 78578",
+      "source": "https://allevents.in/port-isabel/charlie-garcia/200031096105421",
+      "details": "On the Starbase Brewing stage."
+    },
+    {
+      "kind": "free",
+      "band": "Aché de Barrio",
+      "venue": "Bar Louie South Padre Island",
+      "town": "South Padre Island",
+      "when": "Fri Nov 27 · 8 PM",
+      "start": "2026-11-27T20:00",
+      "end": "2026-11-27T23:00",
+      "address": "6700 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://info.enjoyspi.com/event/ache-de-barrio-bar-louie-5-2/2026-11-27/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Jewel Marie and Emilio Crixell",
+      "venue": "Hopper Haus Bar & Grill",
+      "town": "Port Isabel",
+      "when": "Sat Nov 28 · 6 PM",
+      "start": "2026-11-28T18:00",
+      "end": "2026-11-28T21:00",
+      "address": "418 E Queen Isabella Blvd, Port Isabel, TX 78578",
+      "source": "https://allevents.in/port-isabel/jewel-marie-and-emilio-crixell/200031103883118",
+      "details": "On the Starbase Brewing stage."
+    },
+    {
+      "kind": "free",
+      "band": "Aché de Barrio",
+      "venue": "Bar Louie South Padre Island",
+      "town": "South Padre Island",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:00",
+      "address": "6700 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://info.enjoyspi.com/event/ache-de-barrio-bar-louie-5-2/2026-11-28/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Danica",
+      "venue": "Barry's Beach Bar",
+      "town": "South Padre Island",
+      "when": "Thu Dec 3 · 2 PM",
+      "start": "2026-12-03T14:00",
+      "end": "2026-12-03T17:00",
+      "address": "7010 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://www.reverbnation.com/danica/events"
+    },
+    {
+      "kind": "free",
+      "band": "Danica",
+      "venue": "Barry's Beach Bar",
+      "town": "South Padre Island",
+      "when": "Thu Dec 10 · 2 PM",
+      "start": "2026-12-10T14:00",
+      "end": "2026-12-10T17:00",
+      "address": "7010 Padre Blvd, South Padre Island, TX 78597",
+      "source": "https://www.reverbnation.com/danica/events"
+    },
+    {
+      "kind": "concert",
+      "band": "Jenni Dale Lord and Jenuine Cello",
+      "venue": "Co•Lab Lounge",
+      "town": "South Padre Island",
+      "when": "Thu Dec 10 · 7 PM",
+      "start": "2026-12-10T19:00",
+      "end": "2026-12-10T21:00",
+      "address": "33256 State Park Rd 100 #102, South Padre Island, TX 78597",
+      "source": "https://thelisteningsessions.ticketspice.com/the-listening-sessions-season-five",
+      "tickets": "https://thelisteningsessions.ticketspice.com/the-listening-sessions-season-five",
+      "tag": "The Listening Sessions holiday show",
+      "details": "Doors 6 PM, pre-concert artist chat 6:30 PM. $35 presale, $40 at the door."
+    },
+    {
+      "kind": "concert",
+      "band": "Jenni Dale Lord and Jenuine Cello",
+      "venue": "Co•Lab Lounge",
+      "town": "South Padre Island",
+      "when": "Fri Dec 11 · 7 PM",
+      "start": "2026-12-11T19:00",
+      "end": "2026-12-11T21:00",
+      "address": "33256 State Park Rd 100 #102, South Padre Island, TX 78597",
+      "source": "https://thelisteningsessions.ticketspice.com/the-listening-sessions-season-five",
+      "tickets": "https://thelisteningsessions.ticketspice.com/the-listening-sessions-season-five",
+      "tag": "The Listening Sessions holiday show",
+      "details": "Doors 6 PM, pre-concert artist chat 6:30 PM. $35 presale, $40 at the door."
+    },
+    {
+      "kind": "free",
+      "band": "Chorus of the Rio Grande Valley",
+      "venue": "Chapel by the Sea",
+      "town": "South Padre Island",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T21:00",
+      "source": "https://allevents.in/south-padre-island/comfort-and-joy-south-padre-island/200031060366652",
+      "tag": "Comfort & Joy holiday concert",
+      "details": "$25 general admission at the door."
+    }
+  ]
 }
