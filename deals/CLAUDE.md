@@ -16,6 +16,9 @@ deals. It never edits or removes a hand-picked deal.**
 | `outerbanks-deals.json` | https://whatsgoodlocal.com/outer-banks/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `virginiabeach-deals.json` | https://whatsgoodlocal.com/virginia-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `oceancitymd-deals.json` | https://whatsgoodlocal.com/ocean-city-md/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `gulfshores-deals.json` | https://whatsgoodlocal.com/gulf-shores/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `jacksonville-deals.json` | https://whatsgoodlocal.com/jacksonville/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `palmbeach-deals.json` | https://whatsgoodlocal.com/palm-beach/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -105,6 +108,9 @@ participating locations," confirm the Destin-area location takes part before lis
   - Outer Banks: Corolla, Duck, Kitty Hawk, Kill Devil Hills, Nags Head, Manteo, Hatteras Island, Ocracoke.
   - Virginia Beach: the Oceanfront, the North End, Sandbridge, Chicks Beach.
   - Ocean City, MD: Ocean City, West Ocean City, Fenwick Island, Berlin.
+  - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
+  - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
+  - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
   Set `town` to the business's own town.
 - Three categories only: `Food`, `Drinks`, `Adventures`.
 - Up to ~40 deals for Destin, ~25 for each other town. Prefer variety across towns and categories.

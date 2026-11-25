@@ -20,6 +20,8 @@ edits a hand-picked show.**
 | `outerbanks.json` | https://whatsgoodlocal.com/outer-banks/live-music/ | https://whatsgoodlocal.com/outer-banks/live-music/shows.json |
 | `virginiabeach.json` | https://whatsgoodlocal.com/virginia-beach/live-music/ | https://whatsgoodlocal.com/virginia-beach/live-music/shows.json |
 | `oceancitymd.json` | https://whatsgoodlocal.com/ocean-city-md/live-music/ | https://whatsgoodlocal.com/ocean-city-md/live-music/shows.json |
+| `jacksonville.json` | https://whatsgoodlocal.com/jacksonville/live-music/ | https://whatsgoodlocal.com/jacksonville/live-music/shows.json |
+| `palmbeach.json` | https://whatsgoodlocal.com/palm-beach/live-music/ | https://whatsgoodlocal.com/palm-beach/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -114,6 +116,16 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
     Seacrets (bands nightly in season), Fager's Island, Coconuts Beach Bar, BJ's on the Water, Purple Moose Saloon,
     Bourbon Street on the Beach, and the town's free concerts at Sunset Park and Northside Park. Set `town` to the
     venue's town.
+  - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Mayport and Fernandina Beach
+    on Amelia Island. Check the venues' own calendars every week: the Beaches Town Center bars (Atlantic Beach and
+    Neptune Beach), Lynch's Irish Pub, Ink Factory Brewing, the Jacksonville Beach oceanfront bars, and Fernandina's
+    Centre Street bars. Shows at the Jacksonville amphitheaters and arenas sold through Ticketmaster are left out.
+    Set `town` to the venue's town.
+  - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach and Delray Beach.
+    Check the venues' own calendars every week: Guanabanas and Square Grouper (Jupiter), the Clematis Street bars in
+    West Palm Beach (Roxy's Pub, West Palm Beach Cowboy Club), Two George's Waterfront Grille, Boston's on the Beach and
+    the Atlantic Avenue bars in Delray Beach, plus free waterfront concerts in West Palm Beach. Shows at the big
+    amphitheater and Kravis Center sold through Ticketmaster are left out. Set `town` to the venue's town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -166,7 +178,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach and Ocean City, MD. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach, Ocean City, MD, Jacksonville and the Palm Beaches. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
