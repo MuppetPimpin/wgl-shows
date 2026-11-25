@@ -28,6 +28,14 @@ deals. It never edits or removes a hand-picked deal.**
 | `naturecoast-deals.json` | https://whatsgoodlocal.com/nature-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `forgottencoast-deals.json` | https://whatsgoodlocal.com/forgotten-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 | `mscoast-deals.json` | https://whatsgoodlocal.com/mississippi-gulf-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `portaransas-deals.json` | https://whatsgoodlocal.com/port-aransas/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `southpadre-deals.json` | https://whatsgoodlocal.com/south-padre-island/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `sandiego-deals.json` | https://whatsgoodlocal.com/san-diego/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `orangecounty-deals.json` | https://whatsgoodlocal.com/orange-county/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `losangeles-deals.json` | https://whatsgoodlocal.com/los-angeles/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `santabarbara-deals.json` | https://whatsgoodlocal.com/santa-barbara/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `centralcoast-deals.json` | https://whatsgoodlocal.com/central-coast/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
+| `monterey-deals.json` | https://whatsgoodlocal.com/monterey-santa-cruz/crazy-good-deals/ | the `LOCAL_DEALS` list inside that page |
 
 Destin is refreshed by the Tuesday Destin deals task. The five other towns are refreshed by the Tuesday
 "Atlantic & Texas deals" task. Every rule below applies to every town file.
@@ -120,6 +128,14 @@ participating locations," confirm the Destin-area location takes part before lis
   - Gulf Shores & Orange Beach: Gulf Shores, Orange Beach, Fort Morgan, Foley.
   - Jacksonville Beach & Amelia Island: Jacksonville Beach, Neptune Beach, Atlantic Beach, Fernandina Beach.
   - The Palm Beaches: Jupiter, Juno Beach, Palm Beach, West Palm Beach, Lake Worth Beach, Boynton Beach, Delray Beach.
+  - Monterey & Santa Cruz: Santa Cruz, Capitola, Monterey, Pacific Grove, Carmel.
+  - Central Coast: Pismo Beach, Avila Beach, San Luis Obispo, Morro Bay, Cayucos.
+  - Santa Barbara: Santa Barbara, Montecito, Carpinteria, Goleta.
+  - Los Angeles Beaches: Malibu, Santa Monica, Venice, Manhattan Beach, Hermosa Beach, Redondo Beach.
+  - Orange County: Huntington Beach, Newport Beach, Laguna Beach, Dana Point, San Clemente.
+  - San Diego: La Jolla, Pacific Beach, Mission Beach, Ocean Beach, Coronado, Solana Beach.
+  - South Padre Island: South Padre Island, Port Isabel.
+  - Port Aransas: Port Aransas, Mustang Island, North Padre Island.
   - Mississippi Gulf Coast: Bay St. Louis, Gulfport, Biloxi, Ocean Springs.
   - Forgotten Coast: Mexico Beach, Port St. Joe, Apalachicola, St. George Island, Carrabelle.
   - Nature Coast: Crystal River, Homosassa, Cedar Key.

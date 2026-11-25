@@ -31,6 +31,14 @@ edits a hand-picked show.**
 | `naturecoast.json` | https://whatsgoodlocal.com/nature-coast/live-music/ | https://whatsgoodlocal.com/nature-coast/live-music/shows.json |
 | `forgottencoast.json` | https://whatsgoodlocal.com/forgotten-coast/live-music/ | https://whatsgoodlocal.com/forgotten-coast/live-music/shows.json |
 | `mscoast.json` | https://whatsgoodlocal.com/mississippi-gulf-coast/live-music/ | https://whatsgoodlocal.com/mississippi-gulf-coast/live-music/shows.json |
+| `portaransas.json` | https://whatsgoodlocal.com/port-aransas/live-music/ | https://whatsgoodlocal.com/port-aransas/live-music/shows.json |
+| `southpadre.json` | https://whatsgoodlocal.com/south-padre-island/live-music/ | https://whatsgoodlocal.com/south-padre-island/live-music/shows.json |
+| `sandiego.json` | https://whatsgoodlocal.com/san-diego/live-music/ | https://whatsgoodlocal.com/san-diego/live-music/shows.json |
+| `orangecounty.json` | https://whatsgoodlocal.com/orange-county/live-music/ | https://whatsgoodlocal.com/orange-county/live-music/shows.json |
+| `losangeles.json` | https://whatsgoodlocal.com/los-angeles/live-music/ | https://whatsgoodlocal.com/los-angeles/live-music/shows.json |
+| `santabarbara.json` | https://whatsgoodlocal.com/santa-barbara/live-music/ | https://whatsgoodlocal.com/santa-barbara/live-music/shows.json |
+| `centralcoast.json` | https://whatsgoodlocal.com/central-coast/live-music/ | https://whatsgoodlocal.com/central-coast/live-music/shows.json |
+| `monterey.json` | https://whatsgoodlocal.com/monterey-santa-cruz/live-music/ | https://whatsgoodlocal.com/monterey-santa-cruz/live-music/shows.json |
 
 The `football/` folder is a separate feed (the weekly football schedule) with its own rules in
 `football/CLAUDE.md`. The live music task never touches it.
@@ -164,6 +172,28 @@ confirmed on that page, leave the show out. A wrong show is worse than a missing
   - Mississippi Gulf Coast: Bay St. Louis, Pass Christian, Gulfport, Biloxi and Ocean Springs. Check the venues' own
     calendars every week: Shaggy's, the Ocean Springs Government Street bars and Bay St. Louis's Old Town bars. Casino
     shows are covered by the casinos feed and left out here. Central time. Set `town` to the venue's town.
+  - Port Aransas: Port Aransas, Mustang Island and North Padre Island. Check the venues' own calendars every week: Shorty's
+    Place, The Gaff and the Port Aransas bars with posted bands. Central time. Set `town` to Port Aransas.
+  - South Padre Island: South Padre Island and Port Isabel. Check the venues' own calendars every week: Clayton's Beach
+    Bar, Louie's Backyard, Laguna Bob and the bay bars. Central time. Set `town` to the venue's town.
+  - San Diego: La Jolla, Pacific Beach, Mission Beach, Ocean Beach, Coronado and Solana Beach. Check the venues' own
+    calendars every week: Belly Up Tavern (Solana Beach), The Casbah, and the Pacific Beach and Ocean Beach bars with posted
+    bands. Ticketmaster shows are left out. Pacific time. Set `town` to the venue's town.
+  - Orange County: Huntington Beach, Newport Beach, Laguna Beach, Dana Point and San Clemente. Check the venues' own
+    calendars every week: The Coach House (San Juan Capistrano), Main Street bars in Huntington Beach, and Laguna Beach and
+    Newport bars with posted bands. Ticketmaster shows are left out. Pacific time. Set `town` to the venue's town.
+  - Los Angeles Beaches: Malibu, Santa Monica, Venice, Manhattan Beach, Hermosa Beach and Redondo Beach. Check the venues'
+    own calendars every week: Harvelle's (Santa Monica), Malibu Inn, the Santa Monica Pier summer concerts, and Hermosa and
+    Redondo bars with posted bands. Ticketmaster shows are left out. Pacific time. Set `town` to the venue's town.
+  - Santa Barbara: Santa Barbara, Montecito, Carpinteria and Goleta. Check the venues' own calendars every week: SOhO
+    Music Club, the Funk Zone tasting rooms with live music, and State Street bars. Ticketmaster shows (including the Bowl)
+    are left out. Pacific time. Set `town` to the venue's town.
+  - Central Coast: Pismo Beach, Avila Beach, San Luis Obispo, Morro Bay and Cayucos. Check the venues' own calendars every
+    week: SLO Brew Rock, the Pismo Beach and Morro Bay bars, and Avila Beach summer concerts. Pacific time. Set `town` to
+    the venue's town.
+  - Monterey & Santa Cruz: Santa Cruz, Capitola, Monterey, Pacific Grove and Carmel. Check the venues' own calendars every
+    week: Moe's Alley and the Crow's Nest (Santa Cruz), Sly McFly's (Cannery Row), and Capitola Village bars. Ticketmaster
+    shows are left out. Pacific time. Set `town` to the venue's town.
 - Bar and restaurant gigs, free concert series, festivals, local bands with dated shows.
 - Up to 15 shows per city. Prefer variety (different venues and nights) over many shows at one bar.
 - **No more than 4 shows at any one venue** per city file.
@@ -216,7 +246,7 @@ mention Okaloosa County's text-alert service.
 - **Required:** `band`, `venue`, `town`, `when`, `start`, `end`, `source`. The page drops a show
   that's missing any of these.
 - `start` and `end` use local time in the format `YYYY-MM-DDTHH:MM`. Central time for Destin,
-  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach, Ocean City, MD, Jacksonville and the Palm Beaches. If the source gives no end time, use start + 3 hours.
+  Pensacola, Panama City, Gulf Shores and Galveston; Eastern for Tampa, Daytona Beach, St. Augustine, Fort Myers, the Space Coast, Myrtle Beach, the Outer Banks, Virginia Beach, Ocean City, MD, Jacksonville and the Palm Beaches. Central for Port Aransas, South Padre Island and the Mississippi Gulf Coast; Pacific for the California towns. If the source gives no end time, use start + 3 hours.
   If the source gives no start time, leave the show out.
 - `kind`: `"concert"` only when the show needs a ticket bought in advance; everything else is `"free"`.
   The page shows a "🎸 Live music" label on these. Add `"free": true` only when the source says there's no cover.
