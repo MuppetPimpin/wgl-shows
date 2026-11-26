@@ -1,5 +1,185 @@
 {
   "_readme": "What's Good Local weekly show feed for the Florida Keys. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-26",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Ajeva",
+      "venue": "Green Parrot Bar",
+      "town": "Key West",
+      "when": "Fri Nov 27 · 5:30 PM",
+      "start": "2026-11-27T17:30",
+      "end": "2026-11-28T00:30",
+      "address": "601 Whitehead St, Key West, FL 33040",
+      "source": "https://www.greenparrot.com/key-west-live-music",
+      "details": "Three sets: 5:30, 9:00 and 11:00 PM",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Riptide Riot",
+      "venue": "Irish Kevin's",
+      "town": "Key West",
+      "when": "Fri Nov 27 · 10:30 PM",
+      "start": "2026-11-27T22:30",
+      "end": "2026-11-28T02:30",
+      "address": "211 Duval St, Key West, FL 33040",
+      "source": "https://irishkevins.com/event/riptide-riot/2026-11-27/"
+    },
+    {
+      "kind": "free",
+      "band": "Abstract Radio",
+      "venue": "Lorelei Restaurant & Cabana Bar",
+      "town": "Islamorada",
+      "when": "Sat Nov 28 · 5 PM",
+      "start": "2026-11-28T17:00",
+      "end": "2026-11-28T21:00",
+      "address": "81924 Overseas Hwy, Islamorada, FL 33036",
+      "source": "https://www.loreleicabanabar.com/entertainment/abstract-radio-15/"
+    },
+    {
+      "kind": "free",
+      "band": "Jerico",
+      "venue": "Sloppy Joe's Bar",
+      "town": "Key West",
+      "when": "Sat Nov 28 · 5:30 PM",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T21:30",
+      "address": "201 Duval St, Key West, FL 33040",
+      "source": "https://events.sloppyjoes.com/event/78180462/20261128173000"
+    },
+    {
+      "kind": "concert",
+      "band": "Peter Mayer: A Stars & Promises Christmas",
+      "venue": "Key West Theater",
+      "town": "Key West",
+      "when": "Sun Nov 29 · 8 PM",
+      "start": "2026-11-29T20:00",
+      "end": "2026-11-29T23:00",
+      "address": "512 Eaton St, Key West, FL 33040",
+      "source": "https://www.thekeywesttheater.com/",
+      "tickets": "https://www.axs.com/events/1611240/peter-mayer-a-stars-promises-christmas-this-town-tickets?skin=ramsheadpresents",
+      "details": "Doors 7 PM"
+    },
+    {
+      "kind": "free",
+      "band": "Burning Bridges",
+      "venue": "Sloppy Joe's Bar",
+      "town": "Key West",
+      "when": "Tue Dec 1 · 5:30 PM",
+      "start": "2026-12-01T17:30",
+      "end": "2026-12-01T21:30",
+      "address": "201 Duval St, Key West, FL 33040",
+      "source": "https://events.sloppyjoes.com/event/77494834/20261201173000"
+    },
+    {
+      "kind": "free",
+      "band": "The Skank",
+      "venue": "Green Parrot Bar",
+      "town": "Key West",
+      "when": "Thu Dec 3 · 5:30 PM",
+      "start": "2026-12-03T17:30",
+      "end": "2026-12-04T00:00",
+      "address": "601 Whitehead St, Key West, FL 33040",
+      "source": "https://www.greenparrot.com/key-west-live-music",
+      "details": "Three sets: 5:30, 8:30 and 10:30 PM",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Jade Storm",
+      "venue": "Lorelei Restaurant & Cabana Bar",
+      "town": "Islamorada",
+      "when": "Fri Dec 4 · 5 PM",
+      "start": "2026-12-04T17:00",
+      "end": "2026-12-04T21:00",
+      "address": "81924 Overseas Hwy, Islamorada, FL 33036",
+      "source": "https://www.loreleicabanabar.com/entertainment/jade-storm-15/"
+    },
+    {
+      "kind": "free",
+      "band": "New Normal",
+      "venue": "Sloppy Joe's Bar",
+      "town": "Key West",
+      "when": "Fri Dec 4 · 10 PM",
+      "start": "2026-12-04T22:00",
+      "end": "2026-12-05T01:00",
+      "address": "201 Duval St, Key West, FL 33040",
+      "source": "https://events.sloppyjoes.com/event/77889305/20261204220000"
+    },
+    {
+      "kind": "free",
+      "band": "Banshee Tree",
+      "venue": "Green Parrot Bar",
+      "town": "Key West",
+      "when": "Tue Dec 8 · 5:30 PM",
+      "start": "2026-12-08T17:30",
+      "end": "2026-12-09T00:30",
+      "address": "601 Whitehead St, Key West, FL 33040",
+      "source": "https://www.greenparrot.com/key-west-live-music",
+      "details": "Three sets starting 5:30 PM",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "Shaun Cassidy: Unwrapped, Songs & Stories for the Holidays",
+      "venue": "Key West Theater",
+      "town": "Key West",
+      "when": "Thu Dec 10 · 8 PM",
+      "start": "2026-12-10T20:00",
+      "end": "2026-12-10T23:00",
+      "address": "512 Eaton St, Key West, FL 33040",
+      "source": "https://www.thekeywesttheater.com/",
+      "tickets": "https://www.thekeywesttheater.com/e/?event=1526203",
+      "details": "Doors 7 PM"
+    },
+    {
+      "kind": "free",
+      "band": "ShinDig",
+      "venue": "Lorelei Restaurant & Cabana Bar",
+      "town": "Islamorada",
+      "when": "Fri Dec 11 · 5 PM",
+      "start": "2026-12-11T17:00",
+      "end": "2026-12-11T21:00",
+      "address": "81924 Overseas Hwy, Islamorada, FL 33036",
+      "source": "https://www.loreleicabanabar.com/entertainment/shindig-18/"
+    },
+    {
+      "kind": "free",
+      "band": "Tim Palmieri & Friends",
+      "venue": "Green Parrot Bar",
+      "town": "Key West",
+      "when": "Sat Dec 12 · 5:30 PM",
+      "start": "2026-12-12T17:30",
+      "end": "2026-12-13T00:30",
+      "address": "601 Whitehead St, Key West, FL 33040",
+      "source": "https://www.greenparrot.com/key-west-live-music",
+      "details": "Three sets: 5:30, 9:00 and 11:00 PM",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "The Broken Hearts: A Tribute to Tom Petty & The Heartbreakers",
+      "venue": "Key West Theater",
+      "town": "Key West",
+      "when": "Sat Dec 12 · 8 PM",
+      "start": "2026-12-12T20:00",
+      "end": "2026-12-12T23:00",
+      "address": "512 Eaton St, Key West, FL 33040",
+      "source": "https://www.thekeywesttheater.com/",
+      "tickets": "https://www.axs.com/events/1542160/the-broken-hearts-a-tribute-to-tom-petty-the-heartbreakers-tickets?skin=ramsheadpresents",
+      "details": "Doors 7 PM"
+    },
+    {
+      "kind": "free",
+      "band": "Crownz",
+      "venue": "Sloppy Joe's Bar",
+      "town": "Key West",
+      "when": "Thu Dec 17 · 10 PM",
+      "start": "2026-12-17T22:00",
+      "end": "2026-12-18T01:00",
+      "address": "201 Duval St, Key West, FL 33040",
+      "source": "https://events.sloppyjoes.com/event/77668997/20261217220000"
+    }
+  ]
 }
