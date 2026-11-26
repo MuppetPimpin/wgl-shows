@@ -1,5 +1,164 @@
 {
   "_readme": "What's Good Local weekly show feed for Cocoa Beach & the Space Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "shows": []
+  "updated": "2026-11-26",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Syndicate",
+      "venue": "Coconuts on the Beach",
+      "town": "Cocoa Beach",
+      "when": "Fri Nov 27 · 5 PM",
+      "start": "2026-11-27T17:00",
+      "end": "2026-11-27T21:00",
+      "address": "2 Minutemen Cswy, Cocoa Beach, FL 32931",
+      "source": "https://coconutsonthebeach.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Over/Under Band",
+      "venue": "Grills Seafood Deck & Tiki Bar (Portside)",
+      "town": "Cape Canaveral",
+      "when": "Fri Nov 27 · 6:30 PM",
+      "start": "2026-11-27T18:30",
+      "end": "2026-11-27T22:30",
+      "address": "500 Glen Cheek Dr, Cape Canaveral, FL 32920",
+      "source": "https://grillsseafood.com/events/over-under-band-at-portside-19/"
+    },
+    {
+      "kind": "free",
+      "band": "Vintage",
+      "venue": "Sandbar Sports Grill",
+      "town": "Cocoa Beach",
+      "when": "Fri Nov 27 · 8 PM",
+      "start": "2026-11-27T20:00",
+      "end": "2026-11-27T23:00",
+      "address": "4301 Ocean Beach Blvd, Cocoa Beach, FL 32931",
+      "source": "https://www.sandbarsportsgrill.net/calendar"
+    },
+    {
+      "kind": "free",
+      "band": "Adam Sean",
+      "venue": "Coconuts on the Beach",
+      "town": "Cocoa Beach",
+      "when": "Sat Nov 28 · 5 PM",
+      "start": "2026-11-28T17:00",
+      "end": "2026-11-28T21:00",
+      "address": "2 Minutemen Cswy, Cocoa Beach, FL 32931",
+      "source": "https://coconutsonthebeach.com/live-music/"
+    },
+    {
+      "kind": "free",
+      "band": "Love Valley",
+      "venue": "Sandbar Sports Grill",
+      "town": "Cocoa Beach",
+      "when": "Sat Nov 28 · 9 PM",
+      "start": "2026-11-28T21:00",
+      "end": "2026-11-29T00:00",
+      "address": "4301 Ocean Beach Blvd, Cocoa Beach, FL 32931",
+      "source": "https://www.sandbarsportsgrill.net/calendar"
+    },
+    {
+      "kind": "free",
+      "band": "Delgado Trio",
+      "venue": "Grills Seafood Deck & Tiki Bar (Riverside)",
+      "town": "Melbourne",
+      "when": "Sun Nov 29 · 2 PM",
+      "start": "2026-11-29T14:00",
+      "end": "2026-11-29T18:00",
+      "address": "6075 N US Hwy 1, Melbourne, FL 32940",
+      "source": "https://grillsseafood.com/events/delgad-band-at-riverside/"
+    },
+    {
+      "kind": "free",
+      "band": "For Pete's Sake",
+      "venue": "Coconuts on the Beach",
+      "town": "Cocoa Beach",
+      "when": "Sun Nov 29 · 3 PM",
+      "start": "2026-11-29T15:00",
+      "end": "2026-11-29T19:00",
+      "address": "2 Minutemen Cswy, Cocoa Beach, FL 32931",
+      "source": "https://coconutsonthebeach.com/live-music/"
+    },
+    {
+      "kind": "concert",
+      "band": "Kat Riggins",
+      "venue": "Heidi's Jazz Club",
+      "town": "Cocoa Beach",
+      "when": "Wed Dec 2 · 7 PM",
+      "start": "2026-12-02T19:00",
+      "end": "2026-12-02T22:00",
+      "address": "7 N Orlando Ave, Cocoa Beach, FL 32931",
+      "source": "https://www.eventbrite.com/e/kat-riggins-live-at-heidis-jazz-club-tickets-2001670903556",
+      "tickets": "https://www.eventbrite.com/e/kat-riggins-live-at-heidis-jazz-club-tickets-2001670903556"
+    },
+    {
+      "kind": "free",
+      "band": "Angel City",
+      "venue": "Grills Seafood Deck & Tiki Bar (Portside)",
+      "town": "Cape Canaveral",
+      "when": "Fri Dec 4 · 6:30 PM",
+      "start": "2026-12-04T18:30",
+      "end": "2026-12-04T22:30",
+      "address": "500 Glen Cheek Dr, Cape Canaveral, FL 32920",
+      "source": "https://grillsseafood.com/events/angel-city-at-portside-9/"
+    },
+    {
+      "kind": "free",
+      "band": "WhichDoctors",
+      "venue": "Sandbar Sports Grill",
+      "town": "Cocoa Beach",
+      "when": "Fri Dec 4 · 8 PM",
+      "start": "2026-12-04T20:00",
+      "end": "2026-12-05T00:00",
+      "address": "4301 Ocean Beach Blvd, Cocoa Beach, FL 32931",
+      "source": "https://www.sandbarsportsgrill.net/calendar"
+    },
+    {
+      "kind": "concert",
+      "band": "Mike Zito",
+      "venue": "Heidi's Jazz Club",
+      "town": "Cocoa Beach",
+      "when": "Sat Dec 5 · 7 PM",
+      "start": "2026-12-05T19:00",
+      "end": "2026-12-05T22:00",
+      "address": "7 N Orlando Ave, Cocoa Beach, FL 32931",
+      "source": "https://www.eventbrite.com/e/mike-zito-tickets-2001670948691",
+      "tickets": "https://www.eventbrite.com/e/mike-zito-tickets-2001670948691"
+    },
+    {
+      "kind": "concert",
+      "band": "Sugaray Rayford",
+      "venue": "Heidi's Jazz Club",
+      "town": "Cocoa Beach",
+      "when": "Wed Dec 9 · 7 PM",
+      "start": "2026-12-09T19:00",
+      "end": "2026-12-09T22:00",
+      "address": "7 N Orlando Ave, Cocoa Beach, FL 32931",
+      "source": "https://www.eventbrite.com/e/sugaray-rayford-a-night-of-soul-blues-rb-gospel-funk-tickets-1999945967225",
+      "tickets": "https://www.eventbrite.com/e/sugaray-rayford-a-night-of-soul-blues-rb-gospel-funk-tickets-1999945967225"
+    },
+    {
+      "kind": "concert",
+      "band": "Selwyn Birchwood",
+      "venue": "Heidi's Jazz Club",
+      "town": "Cocoa Beach",
+      "when": "Thu Dec 10 · 6:30 PM",
+      "start": "2026-12-10T18:30",
+      "end": "2026-12-10T21:30",
+      "address": "7 N Orlando Ave, Cocoa Beach, FL 32931",
+      "source": "https://www.eventbrite.com/e/selwyn-birchwood-tickets-1999941152825",
+      "tickets": "https://www.eventbrite.com/e/selwyn-birchwood-tickets-1999941152825"
+    },
+    {
+      "kind": "free",
+      "band": "Electric Frogs",
+      "venue": "Grills Seafood Deck & Tiki Bar (Portside)",
+      "town": "Cape Canaveral",
+      "when": "Fri Dec 11 · 6:30 PM",
+      "start": "2026-12-11T18:30",
+      "end": "2026-12-11T22:30",
+      "address": "500 Glen Cheek Dr, Cape Canaveral, FL 32920",
+      "source": "https://grillsseafood.com/events/electric-frogs-at-portside-9/"
+    }
+  ]
 }

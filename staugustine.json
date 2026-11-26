@@ -1,5 +1,180 @@
 {
   "_readme": "What's Good Local weekly show feed for St. Augustine. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-23",
-  "shows": []
+  "updated": "2026-11-26",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "New Guys on the Dock",
+      "venue": "O.C. White's Restaurant",
+      "town": "St. Augustine",
+      "when": "Fri Nov 27 · 6:30 PM",
+      "start": "2026-11-27T18:30",
+      "end": "2026-11-27T21:30",
+      "address": "118 Avenida Menendez, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/new-guys-dock"
+    },
+    {
+      "kind": "concert",
+      "band": "Remedy Tree",
+      "venue": "Café Eleven",
+      "town": "St. Augustine Beach",
+      "when": "Fri Nov 27 · 8 PM",
+      "start": "2026-11-27T20:00",
+      "end": "2026-11-27T22:00",
+      "address": "501 A1A Beach Blvd, St. Augustine, FL 32080",
+      "source": "https://visitstaugustine.com/event/remedy-tree-0",
+      "tickets": "https://www.eventbrite.com/e/remedy-tree-tickets-2000053264153",
+      "details": "Listening room show. Doors 7 PM. Tickets from $32."
+    },
+    {
+      "kind": "free",
+      "band": "Landfall",
+      "venue": "Conch House Marina Resort",
+      "town": "St. Augustine",
+      "when": "Sat Nov 28 · 2 PM",
+      "start": "2026-11-28T14:00",
+      "end": "2026-11-28T18:00",
+      "address": "57 Comares Ave, St. Augustine, FL 32080",
+      "source": "https://visitstaugustine.com/musician/landfall"
+    },
+    {
+      "kind": "free",
+      "band": "Cortnie Frazier",
+      "venue": "Prohibition Kitchen",
+      "town": "St. Augustine",
+      "when": "Sat Nov 28 · 6 PM",
+      "start": "2026-11-28T18:00",
+      "end": "2026-11-28T21:00",
+      "address": "119 St. George St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/cortnie-frazier"
+    },
+    {
+      "kind": "free",
+      "band": "Beau and the Burners",
+      "venue": "Mill Top Tavern",
+      "town": "St. Augustine",
+      "when": "Sat Nov 28 · 9 PM",
+      "start": "2026-11-28T21:00",
+      "end": "2026-11-29T00:00",
+      "address": "19 1/2 St. George St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/beau-and-burners",
+      "details": "Rockabilly trio."
+    },
+    {
+      "kind": "concert",
+      "band": "Beach Fly",
+      "venue": "Colonial Oak Music Park",
+      "town": "St. Augustine",
+      "when": "Sun Nov 29 · 6 PM",
+      "start": "2026-11-29T18:00",
+      "end": "2026-11-29T22:00",
+      "address": "27 St. George St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/event/beach-fly-colonial-oak-music-park",
+      "tickets": "https://www.eventbrite.com/e/beach-fly-st-augustine-tickets-1996908393761"
+    },
+    {
+      "kind": "free",
+      "band": "Fond Kiser",
+      "venue": "Harry's Seafood Bar & Grille",
+      "town": "St. Augustine",
+      "when": "Sun Nov 29 · 6 PM",
+      "start": "2026-11-29T18:00",
+      "end": "2026-11-29T22:00",
+      "address": "46 Avenida Menendez, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/fond-kiser"
+    },
+    {
+      "kind": "free",
+      "band": "Ancient City Rock",
+      "venue": "Tradewinds Lounge",
+      "town": "St. Augustine",
+      "when": "Tue Dec 1 · 9 PM",
+      "start": "2026-12-01T21:00",
+      "end": "2026-12-02T01:00",
+      "address": "124 Charlotte St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/ancient-city-rock"
+    },
+    {
+      "kind": "concert",
+      "band": "Selwyn Birchwood",
+      "venue": "Café Eleven",
+      "town": "St. Augustine Beach",
+      "when": "Thu Dec 3 · 8 PM",
+      "start": "2026-12-03T20:00",
+      "end": "2026-12-03T22:00",
+      "address": "501 A1A Beach Blvd, St. Augustine, FL 32080",
+      "source": "https://visitstaugustine.com/event/selwyn-birchwood",
+      "tickets": "https://www.eventbrite.com/e/selwyn-birchwood-tickets-1998910888276",
+      "details": "Listening room show. Doors 7 PM. Tickets from $44."
+    },
+    {
+      "kind": "free",
+      "band": "Airtight",
+      "venue": "Pesca Vilano by Michael Lugo",
+      "town": "Vilano Beach",
+      "when": "Fri Dec 4 · 6 PM",
+      "start": "2026-12-04T18:00",
+      "end": "2026-12-04T22:00",
+      "address": "117 Vilano Rd, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/airtight"
+    },
+    {
+      "kind": "free",
+      "band": "Hudson Vance",
+      "venue": "Meehan's Irish Pub & Seafood House",
+      "town": "St. Augustine",
+      "when": "Sat Dec 5 · 7 PM",
+      "start": "2026-12-05T19:00",
+      "end": "2026-12-05T22:00",
+      "address": "20 Avenida Menendez, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/hudson-vance"
+    },
+    {
+      "kind": "concert",
+      "band": "The Original Wailers featuring Al Anderson",
+      "venue": "Colonial Oak Music Park",
+      "town": "St. Augustine",
+      "when": "Sun Dec 6 · 6 PM",
+      "start": "2026-12-06T18:00",
+      "end": "2026-12-06T22:00",
+      "address": "27 St. George St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/event/original-wailers-colonial-oak-music-park",
+      "tickets": "https://www.eventbrite.com/e/the-original-wailers-feat-al-anderson-st-augustine-tickets-2003243683784"
+    },
+    {
+      "kind": "free",
+      "band": "Jeremy Price",
+      "venue": "V Pizza & Julep — Palm Valley",
+      "town": "Ponte Vedra Beach",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T21:00",
+      "address": "154 Canal Blvd, Ponte Vedra Beach, FL 32082",
+      "source": "https://visitstaugustine.com/musician/jeremy-price"
+    },
+    {
+      "kind": "concert",
+      "band": "Mike Zito",
+      "venue": "Café Eleven",
+      "town": "St. Augustine Beach",
+      "when": "Sun Dec 13 · 8 PM",
+      "start": "2026-12-13T20:00",
+      "end": "2026-12-13T22:00",
+      "address": "501 A1A Beach Blvd, St. Augustine, FL 32080",
+      "source": "https://visitstaugustine.com/event/mike-zito",
+      "tickets": "https://www.eventbrite.com/e/mike-zito-sunday-night-1-tickets-1998433553555",
+      "details": "Listening room show; also plays Mon Dec 14. Doors 7 PM. Tickets from $38."
+    },
+    {
+      "kind": "free",
+      "band": "Contact Buzz",
+      "venue": "Tradewinds Lounge",
+      "town": "St. Augustine",
+      "when": "Thu Dec 17 · 9 PM",
+      "start": "2026-12-17T21:00",
+      "end": "2026-12-18T01:00",
+      "address": "124 Charlotte St, St. Augustine, FL 32084",
+      "source": "https://visitstaugustine.com/musician/contact-buzz"
+    }
+  ]
 }
