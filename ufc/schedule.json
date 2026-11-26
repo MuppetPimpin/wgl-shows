@@ -3,22 +3,6 @@
   "updated": "2026-11-19",
   "events": [
     {
-      "date": "2026-11-21",
-      "event": "UFC Fight Night",
-      "kind": "fight_night",
-      "main": "Jiří Procházka vs. Navajo Stirling",
-      "main_short": "Procházka vs. Stirling",
-      "title_fight": null,
-      "co_main": "Aljamain Sterling vs. Kevin Vallejos",
-      "venue": "ABHA Arena",
-      "city": "Doha, Qatar",
-      "early_prelims": null,
-      "prelims": "09:00",
-      "main_card": "12:00",
-      "tv": "Paramount+",
-      "source": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
-    },
-    {
       "date": "2026-12-05",
       "event": "UFC Fight Night",
       "kind": "fight_night",
