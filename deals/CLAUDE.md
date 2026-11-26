@@ -205,6 +205,7 @@ Carry `partner` and `go` across every weekly refresh (match on the business if a
 | Sandestin Golf | `sandestingolf` |
 | Baytowne on Ice | `baytowne` |
 | Wednesday Night Concert Series | `baytowneconcerts` |
+| Crispy Cones | `crispyconesapp` (app deals) · `crispyconesorder` (online ordering) |
 
 New partners: add the business's `go.php` `$DEST` code, then set `partner`/`go` here. Do not invent a
 `go` code that isn't in go.php — an unknown code redirects to the go.php default, not the business.
