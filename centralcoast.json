@@ -1,5 +1,146 @@
 {
   "_readme": "What's Good Local weekly show feed for the Central Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-27",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Night Ridge",
+      "venue": "Mulligans Bar + Grill at The Avila",
+      "town": "Avila Beach",
+      "when": "Fri Nov 27 · 5 PM",
+      "start": "2026-11-27T17:00",
+      "end": "2026-11-27T19:00",
+      "address": "6464 Ana Bay Rd, Avila Beach, CA 93424",
+      "source": "https://theavilaca.com/event/live-at-mulligans-night-ridge/"
+    },
+    {
+      "kind": "free",
+      "band": "Fuse",
+      "venue": "Mulligans Bar + Grill at The Avila",
+      "town": "Avila Beach",
+      "when": "Sat Nov 28 · 4 PM",
+      "start": "2026-11-28T16:00",
+      "end": "2026-11-28T18:00",
+      "address": "6464 Ana Bay Rd, Avila Beach, CA 93424",
+      "source": "https://theavilaca.com/event/live-at-mulligans-fuse/"
+    },
+    {
+      "kind": "free",
+      "band": "Hazard Canyon",
+      "venue": "The Siren",
+      "town": "Morro Bay",
+      "when": "Sat Nov 28 · 7:30 PM",
+      "start": "2026-11-28T19:30",
+      "end": "2026-11-28T22:30",
+      "address": "900 Main St, Morro Bay, CA 93442",
+      "source": "https://thesirenmorrobay.com/event/hazard-canyon-free-show/",
+      "details": "Free show. 21+.",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Electric Lavender Train",
+      "venue": "Mulligans Bar + Grill at The Avila",
+      "town": "Avila Beach",
+      "when": "Sun Nov 29 · 2 PM",
+      "start": "2026-11-29T14:00",
+      "end": "2026-11-29T16:00",
+      "address": "6464 Ana Bay Rd, Avila Beach, CA 93424",
+      "source": "https://theavilaca.com/event/live-at-mulligans-electric-lavender-train/"
+    },
+    {
+      "kind": "free",
+      "band": "Bodhi Corbett & His Trio",
+      "venue": "The Siren",
+      "town": "Morro Bay",
+      "when": "Tue Dec 1 · 7 PM",
+      "start": "2026-12-01T19:00",
+      "end": "2026-12-01T21:00",
+      "address": "900 Main St, Morro Bay, CA 93442",
+      "source": "https://thesirenmorrobay.com/event/bodhi-corbett-his-trio-a-free-rockabilly-dance-show/",
+      "details": "Rockabilly dance show. Free. 21+.",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "Afroman",
+      "venue": "Libertine Brewing Company",
+      "town": "San Luis Obispo",
+      "when": "Thu Dec 3 · 8 PM",
+      "start": "2026-12-03T20:00",
+      "end": "2026-12-03T23:30",
+      "address": "1234 Broad St, San Luis Obispo, CA 93401",
+      "source": "https://my805tix.com/e/afroman-libertine-slo",
+      "tickets": "https://my805tix.com/e/afroman-libertine-slo",
+      "details": "21+."
+    },
+    {
+      "kind": "free",
+      "band": "Five Parts Devil",
+      "venue": "The Siren",
+      "town": "Morro Bay",
+      "when": "Sat Dec 5 · 7:30 PM",
+      "start": "2026-12-05T19:30",
+      "end": "2026-12-05T22:30",
+      "address": "900 Main St, Morro Bay, CA 93442",
+      "source": "https://thesirenmorrobay.com/event/five-parts-devil/",
+      "details": "Free show. 21+.",
+      "free": true
+    },
+    {
+      "kind": "concert",
+      "band": "BloodSugar",
+      "with": "Big Sierra, Jesse Detor, Joone",
+      "venue": "The Bunker SLO",
+      "town": "San Luis Obispo",
+      "when": "Sun Dec 6 · 6 PM",
+      "start": "2026-12-06T18:00",
+      "end": "2026-12-06T21:45",
+      "address": "810 Orcutt Rd, San Luis Obispo, CA 93401",
+      "source": "https://my805tix.com/e/the-bunker-slo-presents-bloodsugar",
+      "tickets": "https://my805tix.com/e/the-bunker-slo-presents-bloodsugar",
+      "details": "All ages."
+    },
+    {
+      "kind": "concert",
+      "band": "Laurence Juber's Airfoil",
+      "venue": "The Siren",
+      "town": "Morro Bay",
+      "when": "Sun Dec 6 · 7 PM",
+      "start": "2026-12-06T19:00",
+      "end": "2026-12-06T21:00",
+      "address": "900 Main St, Morro Bay, CA 93442",
+      "source": "https://thesirenmorrobay.com/event/laurence-jubers-airfoil-the-rockin-side-of-wings/",
+      "tickets": "https://www.tixr.com/groups/thesiren/events/laurence-juber-s-airfoil-the-rockin-side-of-wings--210356",
+      "details": "Doors 6:30 PM. $38 to $55. 21+."
+    },
+    {
+      "kind": "concert",
+      "band": "Buck Meek",
+      "with": "Kisser",
+      "venue": "SLO Brew Rock",
+      "town": "San Luis Obispo",
+      "when": "Wed Dec 9 · 8 PM",
+      "start": "2026-12-09T20:00",
+      "end": "2026-12-09T23:00",
+      "address": "855 Aerovista Pl, San Luis Obispo, CA 93401",
+      "source": "https://my805tix.com/e/buckmeek-2",
+      "tickets": "https://my805tix.com/e/buckmeek-2",
+      "details": "Doors 7 PM. $25 advance, $30 at the door. 18+."
+    },
+    {
+      "kind": "concert",
+      "band": "Orgone",
+      "with": "Partita",
+      "venue": "SLO Brew Rock",
+      "town": "San Luis Obispo",
+      "when": "Sun Dec 13 · 8 PM",
+      "start": "2026-12-13T20:00",
+      "end": "2026-12-13T23:00",
+      "address": "855 Aerovista Pl, San Luis Obispo, CA 93401",
+      "source": "https://my805tix.com/e/orgone",
+      "tickets": "https://my805tix.com/e/orgone",
+      "details": "Doors 7 PM. $25 advance, $30 at the door. All ages."
+    }
+  ]
 }
