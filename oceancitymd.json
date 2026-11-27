@@ -1,5 +1,162 @@
 {
   "_readme": "What's Good Local weekly show feed for Ocean City, MD. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-27",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Great Train Robbery",
+      "venue": "Fager's Island",
+      "town": "Ocean City",
+      "when": "Fri Nov 27 · 5:30 PM",
+      "start": "2026-11-27T17:30",
+      "end": "2026-11-27T21:30",
+      "address": "201 60th St, Ocean City, MD 21842",
+      "source": "https://www.fagers.com/entertainment/t8v0p0kq724h1sor4vkah0vrelfhy0-4bkwh-h4n3r-87c68-3l3wm-mck49-ya8kr-aas7r-3y4pz-x42mj-ltn7k-4thds-bb69k-kydfj-6yrmn-ztfsr-lbwp2-2dj43-58lbp-xchn9-gmzla-betlw-9t4r9"
+    },
+    {
+      "kind": "free",
+      "band": "Vertigo Red",
+      "venue": "Seacrets",
+      "town": "Ocean City",
+      "when": "Fri Nov 27 · 9 PM",
+      "start": "2026-11-27T21:00",
+      "end": "2026-11-28T01:00",
+      "tag": "Tiki Stage",
+      "source": "https://seacrets.com/event/vertigo-red-2/2026-11-27/"
+    },
+    {
+      "kind": "free",
+      "band": "Tranzfusion",
+      "venue": "Fager's Island",
+      "town": "Ocean City",
+      "when": "Sat Nov 28 · 5:30 PM",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T21:30",
+      "address": "201 60th St, Ocean City, MD 21842",
+      "source": "https://www.fagers.com/entertainment/t8v0p0kq724h1sor4vkah0vrelfhy0-4bkwh-85ayh-6jb22-wkyby-9rgyt-mk3lj-378k5-3aket-nb3gg"
+    },
+    {
+      "kind": "free",
+      "band": "Rockoholics",
+      "venue": "Bourbon Street on the Beach",
+      "town": "Ocean City",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:00",
+      "address": "12601 Coastal Hwy, Ocean City, MD 21842",
+      "source": "https://tockify.com/bourbon.street.on.the.beach/detail/477/1795914000000"
+    },
+    {
+      "kind": "free",
+      "band": "Hot Sauce Band",
+      "venue": "Bourbon Street on the Beach",
+      "town": "Ocean City",
+      "when": "Sun Nov 29 · 5 PM",
+      "start": "2026-11-29T17:00",
+      "end": "2026-11-29T20:00",
+      "address": "12601 Coastal Hwy, Ocean City, MD 21842",
+      "source": "https://tockify.com/bourbon.street.on.the.beach/detail/478/1795989600000"
+    },
+    {
+      "kind": "free",
+      "band": "John McNutt Duo",
+      "venue": "Seacrets",
+      "town": "Ocean City",
+      "when": "Fri Dec 4 · 5 PM",
+      "start": "2026-12-04T17:00",
+      "end": "2026-12-04T21:00",
+      "tag": "Tiki Stage",
+      "source": "https://seacrets.com/event/john-mcnutt-duo/2026-12-04/"
+    },
+    {
+      "kind": "free",
+      "band": "The John Frase Project",
+      "venue": "Fager's Island",
+      "town": "Ocean City",
+      "when": "Fri Dec 4 · 5:30 PM",
+      "start": "2026-12-04T17:30",
+      "end": "2026-12-04T21:30",
+      "address": "201 60th St, Ocean City, MD 21842",
+      "source": "https://www.fagers.com/entertainment/yl8ncw22zs8jjp6"
+    },
+    {
+      "kind": "free",
+      "band": "Risky Business",
+      "venue": "Bourbon Street on the Beach",
+      "town": "Ocean City",
+      "when": "Sat Dec 5 · 8 PM",
+      "start": "2026-12-05T20:00",
+      "end": "2026-12-05T23:00",
+      "address": "12601 Coastal Hwy, Ocean City, MD 21842",
+      "source": "https://tockify.com/bourbon.street.on.the.beach/detail/481/1796518800000"
+    },
+    {
+      "kind": "free",
+      "band": "Barry & the Bashers",
+      "venue": "Bourbon Street on the Beach",
+      "town": "Ocean City",
+      "when": "Thu Dec 10 · 7 PM",
+      "start": "2026-12-10T19:00",
+      "end": "2026-12-10T22:00",
+      "address": "12601 Coastal Hwy, Ocean City, MD 21842",
+      "source": "https://tockify.com/bourbon.street.on.the.beach/detail/483/1796947200000"
+    },
+    {
+      "kind": "free",
+      "band": "Opposite Directions",
+      "venue": "Seacrets",
+      "town": "Ocean City",
+      "when": "Fri Dec 11 · 5 PM",
+      "start": "2026-12-11T17:00",
+      "end": "2026-12-11T21:00",
+      "tag": "Tiki Stage",
+      "source": "https://seacrets.com/event/opposite-directions-3/2026-12-11/"
+    },
+    {
+      "kind": "free",
+      "band": "HFS",
+      "venue": "Purple Moose Saloon",
+      "town": "Ocean City",
+      "when": "Fri Dec 11 · 9:30 PM",
+      "start": "2026-12-11T21:30",
+      "end": "2026-12-12T00:30",
+      "address": "Boardwalk at Talbot & Caroline St, Ocean City, MD 21842",
+      "tag": "SantaCon pre-party",
+      "source": "https://purplemoosesaloon.com/event/hfs/"
+    },
+    {
+      "kind": "free",
+      "band": "Hits Different",
+      "venue": "Purple Moose Saloon",
+      "town": "Ocean City",
+      "when": "Sat Dec 12 · 3 PM",
+      "start": "2026-12-12T15:00",
+      "end": "2026-12-12T19:00",
+      "address": "Boardwalk at Talbot & Caroline St, Ocean City, MD 21842",
+      "tag": "SantaCon",
+      "source": "https://purplemoosesaloon.com/event/santacon-with-hits-different-taking-the-stage/"
+    },
+    {
+      "kind": "free",
+      "band": "The Betty White Stripes",
+      "venue": "Fager's Island",
+      "town": "Ocean City",
+      "when": "Sat Dec 12 · 5:30 PM",
+      "start": "2026-12-12T17:30",
+      "end": "2026-12-12T21:30",
+      "address": "201 60th St, Ocean City, MD 21842",
+      "source": "https://www.fagers.com/entertainment/t8v0p0kq724h1sor4vkah0vrelfhy0-4bkwh-h4n3r-87c68-3l3wm-h3rp2-hsf9k-mnn5z-hm84h-haww6-z73dz-48wxz-67c63-scdek-bzdty-7b3l7-cnsc5-2zccp-639aa-cdlmc-8bc3m-ztcn5-6ds8d"
+    },
+    {
+      "kind": "free",
+      "band": "Anger Management",
+      "venue": "Seacrets",
+      "town": "Ocean City",
+      "when": "Fri Dec 18 · 5 PM",
+      "start": "2026-12-18T17:00",
+      "end": "2026-12-18T21:00",
+      "tag": "Tiki Stage",
+      "source": "https://seacrets.com/event/anger-management/"
+    }
+  ]
 }

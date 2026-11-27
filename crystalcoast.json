@@ -1,5 +1,182 @@
 {
   "_readme": "What's Good Local weekly show feed for the Crystal Coast. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-27",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Barefoot Wade",
+      "venue": "Gaffer's",
+      "town": "Emerald Isle",
+      "when": "Fri Nov 27 · 6 PM",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-27T21:00",
+      "address": "9106-A Coast Guard Rd, Emerald Isle, NC 28594",
+      "source": "https://www.crystalcoastnc.org/event/barefoot-wade-live-%40-gaffers/32219/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Cecil Gillikin",
+      "venue": "Cru Wine Bar",
+      "town": "Beaufort",
+      "when": "Fri Nov 27 · 8 PM",
+      "start": "2026-11-27T20:00",
+      "end": "2026-11-27T23:00",
+      "address": "120 Turner St, Beaufort, NC 28516",
+      "source": "https://www.crystalcoastnc.org/event/cecil-gillikin-live-%40-cru-wine-bar/32777/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Shambles",
+      "venue": "Jack's Waterfront Bar",
+      "town": "Morehead City",
+      "when": "Fri Nov 27 · 9 PM",
+      "start": "2026-11-27T21:00",
+      "end": "2026-11-28T00:00",
+      "address": "513 Evans St, Morehead City, NC 28557",
+      "source": "https://www.crystalcoastnc.org/event/shambles-live-%40-jacks-waterfront-bar/32798/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Donivan Carter Band",
+      "venue": "Gaffer's",
+      "town": "Emerald Isle",
+      "when": "Sat Nov 28 · 6 PM",
+      "start": "2026-11-28T18:00",
+      "end": "2026-11-28T21:00",
+      "address": "9106-A Coast Guard Rd, Emerald Isle, NC 28594",
+      "source": "https://www.crystalcoastnc.org/event/donivan-carter-band-%40-gaffers/31457/"
+    },
+    {
+      "kind": "free",
+      "band": "Gary Dudley & The Maxxtones",
+      "venue": "Cru Wine Bar",
+      "town": "Beaufort",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:00",
+      "address": "120 Turner St, Beaufort, NC 28516",
+      "source": "https://www.crystalcoastnc.org/event/gary-dudley-%26-the-maxxtones-live-%40-cru-wine-bar/32792/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Barry Charlton",
+      "venue": "Southern Salt Seafood Company",
+      "town": "Morehead City",
+      "when": "Sun Nov 29 · 12 PM",
+      "start": "2026-11-29T12:00",
+      "end": "2026-11-29T15:00",
+      "address": "701 Evans St, Morehead City, NC 28557",
+      "source": "https://www.crystalcoastnc.org/event/barry-charlton-live-%40-southern-salt/32737/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Wes Rider & Friends",
+      "venue": "Mug Shot Lounge",
+      "town": "Morehead City",
+      "when": "Tue Dec 1 · 6 PM",
+      "start": "2026-12-01T18:00",
+      "end": "2026-12-01T21:00",
+      "address": "2302 Arendell St, Suite G, Morehead City, NC 28557",
+      "source": "https://www.crystalcoastnc.org/event/wes-rider-%26-friends-live-%40-mug-shot-lounge/32829/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Donnie Lane",
+      "venue": "NC Beaufort Bar",
+      "town": "Beaufort",
+      "when": "Fri Dec 4 · 9 PM",
+      "start": "2026-12-04T21:00",
+      "end": "2026-12-05T00:00",
+      "address": "410 Live Oak St, Beaufort, NC 28516",
+      "source": "https://www.crystalcoastnc.org/event/donnie-lane-live-%40-nc-beaufort-bar/31039/"
+    },
+    {
+      "kind": "free",
+      "band": "Jimmy Parker",
+      "venue": "Mill Whistle Brewing",
+      "town": "Beaufort",
+      "when": "Sat Dec 5 · 4 PM",
+      "start": "2026-12-05T16:00",
+      "end": "2026-12-05T18:00",
+      "address": "1354 Lennoxville Rd, Beaufort, NC 28516",
+      "source": "https://www.crystalcoastnc.org/event/jimmy-parker-live-%40-mill-whistle-brewing/32718/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Tidal Blues",
+      "venue": "Cru Wine Bar",
+      "town": "Beaufort",
+      "when": "Sat Dec 5 · 8 PM",
+      "start": "2026-12-05T20:00",
+      "end": "2026-12-05T23:00",
+      "address": "120 Turner St, Beaufort, NC 28516",
+      "source": "https://www.crystalcoastnc.org/event/tidal-blues-live-%40-cru-bar/32753/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "The Lost Artists",
+      "venue": "Emerald Club",
+      "town": "Emerald Isle",
+      "when": "Sat Dec 5 · 9:30 PM",
+      "start": "2026-12-05T21:30",
+      "end": "2026-12-06T00:30",
+      "address": "8102 Emerald Dr, Emerald Isle, NC 28594",
+      "source": "https://www.crystalcoastnc.org/event/the-lost-artists-live-%40-emerald-club/30632/"
+    },
+    {
+      "kind": "free",
+      "band": "Sean Mills",
+      "venue": "Gaffer's",
+      "town": "Emerald Isle",
+      "when": "Sun Dec 6 · 1 PM",
+      "start": "2026-12-06T13:00",
+      "end": "2026-12-06T16:00",
+      "address": "9106-A Coast Guard Rd, Emerald Isle, NC 28594",
+      "source": "https://www.crystalcoastnc.org/event/sean-mills-live-%40-gaffers/32794/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Jimmy Parker",
+      "venue": "Catch 109",
+      "town": "Morehead City",
+      "when": "Thu Dec 10 · 6:30 PM",
+      "start": "2026-12-10T18:30",
+      "end": "2026-12-10T21:30",
+      "address": "109 S 6th St, Morehead City, NC 28557",
+      "source": "https://www.crystalcoastnc.org/event/jimmy-parker-live-%40-catch-109/32312/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Brian Felton",
+      "venue": "Gaffer's",
+      "town": "Emerald Isle",
+      "when": "Fri Dec 11 · 6 PM",
+      "start": "2026-12-11T18:00",
+      "end": "2026-12-11T21:00",
+      "address": "9106-A Coast Guard Rd, Emerald Isle, NC 28594",
+      "source": "https://www.crystalcoastnc.org/event/brian-felton-live-%40-gaffers/32305/",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Sheldon Benton",
+      "venue": "Jack's Waterfront Bar",
+      "town": "Morehead City",
+      "when": "Sun Dec 13 · 2 PM",
+      "start": "2026-12-13T14:00",
+      "end": "2026-12-13T17:00",
+      "address": "513 Evans St, Morehead City, NC 28557",
+      "source": "https://www.crystalcoastnc.org/event/sheldon-benton-live-%40-jacks-on-the-waterfront/28752/"
+    }
+  ]
 }

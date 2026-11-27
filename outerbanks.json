@@ -1,5 +1,182 @@
 {
   "_readme": "What's Good Local weekly show feed for the Outer Banks. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-27",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Noel Beckwith",
+      "venue": "Fish Heads Bar & Grill",
+      "town": "Nags Head",
+      "when": "Fri Nov 27 · 5 PM",
+      "start": "2026-11-27T17:00",
+      "end": "2026-11-27T20:00",
+      "address": "8901 S Old Oregon Inlet Rd, Nags Head, NC 27959",
+      "source": "https://outerbanksthisweek.com/fishheads/events/noel-beckwith"
+    },
+    {
+      "kind": "free",
+      "band": "Phil Watson",
+      "venue": "Outer Banks Brewing Station",
+      "town": "Kill Devil Hills",
+      "when": "Fri Nov 27 · 5:30 PM",
+      "start": "2026-11-27T17:30",
+      "end": "2026-11-27T20:30",
+      "address": "600 S Croatan Hwy, Kill Devil Hills, NC 27948",
+      "tag": "12 Bars of Christmas",
+      "source": "https://www.obbrewing.com/events/12-bars-of-christmas-opening-night-with-phil-watson"
+    },
+    {
+      "kind": "free",
+      "band": "Atomic Zen Dogs",
+      "venue": "Old Tom's Beer, Wine & Provisions",
+      "town": "Manteo",
+      "when": "Fri Nov 27 · 7 PM",
+      "start": "2026-11-27T19:00",
+      "end": "2026-11-27T22:00",
+      "address": "107 Budleigh St, Manteo, NC 27954",
+      "source": "https://outerbanksthisweek.com/oldtoms/events/live-music-atomic-zen-dogs",
+      "free": true
+    },
+    {
+      "kind": "free",
+      "band": "Butch Burrows",
+      "venue": "Whalehead Brewery",
+      "town": "Corolla",
+      "when": "Sat Nov 28 · 5 PM",
+      "start": "2026-11-28T17:00",
+      "end": "2026-11-28T20:00",
+      "address": "887 Albacore St, Corolla, NC 27927",
+      "source": "https://outerbanksthisweek.com/whaleheadbrewery/events/live-music-butch"
+    },
+    {
+      "kind": "free",
+      "band": "Bryan Campbell",
+      "venue": "Outer Banks Brewing Station",
+      "town": "Kill Devil Hills",
+      "when": "Sat Nov 28 · 5:30 PM",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T20:30",
+      "address": "600 S Croatan Hwy, Kill Devil Hills, NC 27948",
+      "tag": "12 Bars of Christmas",
+      "source": "https://www.obbrewing.com/events/live-music-with-bryan-campbell-at-christmas-vacation-station-2026-11-28-17-30"
+    },
+    {
+      "kind": "free",
+      "band": "Jeremy & The Generations",
+      "venue": "Jolly Roger Restaurant",
+      "town": "Kill Devil Hills",
+      "when": "Sat Nov 28 · 9 PM",
+      "start": "2026-11-28T21:00",
+      "end": "2026-11-29T00:00",
+      "address": "1836 N Virginia Dare Trail, Kill Devil Hills, NC 27948",
+      "source": "https://outerbanksthisweek.com/jollyroger/events/jeremy-generations"
+    },
+    {
+      "kind": "free",
+      "band": "Joe Mapp and the Coordinates",
+      "venue": "Rundown Cafe",
+      "town": "Kitty Hawk",
+      "when": "Mon Nov 30 · 7:30 PM",
+      "start": "2026-11-30T19:30",
+      "end": "2026-11-30T22:30",
+      "address": "5218 N Virginia Dare Trail, Kitty Hawk, NC 27949",
+      "tag": "Jazz Nights in the Lounge",
+      "source": "https://outerbanksthisweek.com/rundowncafe/events/jazz-night-lounge"
+    },
+    {
+      "kind": "free",
+      "band": "Kim Kalman",
+      "venue": "The Froggy Dog Restaurant & Pub",
+      "town": "Avon",
+      "when": "Wed Dec 2 · 5:30 PM",
+      "start": "2026-12-02T17:30",
+      "end": "2026-12-02T20:30",
+      "address": "40050 NC-12, Avon, NC 27915",
+      "source": "https://outerbanksthisweek.com/froggydog/events/kim-kalman-patio",
+      "drive": "Hatteras Island"
+    },
+    {
+      "kind": "free",
+      "band": "Harrison & Wentz",
+      "venue": "Rundown Cafe",
+      "town": "Kitty Hawk",
+      "when": "Thu Dec 3 · 8:30 PM",
+      "start": "2026-12-03T20:30",
+      "end": "2026-12-03T23:30",
+      "address": "5218 N Virginia Dare Trail, Kitty Hawk, NC 27949",
+      "source": "https://outerbanksthisweek.com/rundowncafe/events/harrison-wentz"
+    },
+    {
+      "kind": "free",
+      "band": "The Tillett Sisters",
+      "venue": "Dare County Arts Council",
+      "town": "Manteo",
+      "when": "Fri Dec 4 · 6:45 PM",
+      "start": "2026-12-04T18:45",
+      "end": "2026-12-04T21:45",
+      "address": "300 Queen Elizabeth Ave, Manteo, NC 27954",
+      "tag": "First Friday",
+      "source": "https://outerbanksthisweek.com/artscouncil/events/tillett-sisters"
+    },
+    {
+      "kind": "free",
+      "band": "Suzie Jacuzzi",
+      "venue": "Jack Brown's Beer & Burger Joint",
+      "town": "Kill Devil Hills",
+      "when": "Fri Dec 4 · 9 PM",
+      "start": "2026-12-04T21:00",
+      "end": "2026-12-05T00:00",
+      "address": "800 S Virginia Dare Trail, Kill Devil Hills, NC 27948",
+      "details": "$5 cover",
+      "source": "https://outerbanksthisweek.com/jackbrownskdh/events/suzie-jacuzzi"
+    },
+    {
+      "kind": "free",
+      "band": "The Ramble",
+      "venue": "Jack Brown's Beer & Burger Joint",
+      "town": "Kill Devil Hills",
+      "when": "Sat Dec 5 · 9 PM",
+      "start": "2026-12-05T21:00",
+      "end": "2026-12-06T00:00",
+      "address": "800 S Virginia Dare Trail, Kill Devil Hills, NC 27948",
+      "details": "$5 cover",
+      "source": "https://outerbanksthisweek.com/jackbrownskdh/events/ramble"
+    },
+    {
+      "kind": "free",
+      "band": "Trick Fly",
+      "venue": "Outer Banks Brewing Station",
+      "town": "Kill Devil Hills",
+      "when": "Fri Dec 11 · 10 PM",
+      "start": "2026-12-11T22:00",
+      "end": "2026-12-12T01:00",
+      "address": "600 S Croatan Hwy, Kill Devil Hills, NC 27948",
+      "details": "$5 cover",
+      "source": "https://outerbanksthisweek.com/brewing-station/events/trick-fly"
+    },
+    {
+      "kind": "concert",
+      "band": "Blazin' Keys",
+      "venue": "Outer Banks Brewing Station",
+      "town": "Kill Devil Hills",
+      "when": "Sat Dec 12 · 6 PM",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T21:00",
+      "address": "600 S Croatan Hwy, Kill Devil Hills, NC 27948",
+      "details": "Ticket purchase required",
+      "source": "https://outerbanksthisweek.com/brewing-station/events/blazin-keys"
+    },
+    {
+      "kind": "free",
+      "band": "Srch.",
+      "venue": "Jack Brown's Beer & Burger Joint",
+      "town": "Kill Devil Hills",
+      "when": "Sat Dec 12 · 10 PM",
+      "start": "2026-12-12T22:00",
+      "end": "2026-12-13T01:00",
+      "address": "800 S Virginia Dare Trail, Kill Devil Hills, NC 27948",
+      "details": "$5 cover",
+      "source": "https://outerbanksthisweek.com/jackbrownskdh/events/srch"
+    }
+  ]
 }

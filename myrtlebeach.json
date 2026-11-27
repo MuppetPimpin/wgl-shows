@@ -1,5 +1,134 @@
 {
   "_readme": "What's Good Local weekly show feed for Myrtle Beach & the Grand Strand. Written by the weekly scheduled task; see CLAUDE.md.",
-  "updated": "2026-11-24",
-  "shows": []
+  "updated": "2026-11-27",
+  "shows": [
+    {
+      "kind": "free",
+      "band": "Josh McCaa",
+      "venue": "Drunken Jack's",
+      "town": "Murrells Inlet",
+      "when": "Fri Nov 27 · 5 PM",
+      "start": "2026-11-27T17:00",
+      "end": "2026-11-27T20:00",
+      "address": "4031 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://drunkenjacks.com/murrells-inlet-drunken-jack-s-restaurant-and-lounge-events"
+    },
+    {
+      "kind": "free",
+      "band": "The Peoples Project",
+      "venue": "OD Arcade & Lounge",
+      "town": "North Myrtle Beach",
+      "when": "Fri Nov 27 · 7:30 PM",
+      "start": "2026-11-27T19:30",
+      "end": "2026-11-27T23:30",
+      "address": "100 S Ocean Blvd, North Myrtle Beach, SC 29582",
+      "source": "https://odarcade.com/north-myrtle-beach-ocean-drive-od-arcade-and-lounge-events"
+    },
+    {
+      "kind": "free",
+      "band": "City Lights",
+      "venue": "Dead Dog Saloon",
+      "town": "Murrells Inlet",
+      "when": "Sat Nov 28 · 8 PM",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:30",
+      "address": "4079 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://www.deaddogsaloon.com/events"
+    },
+    {
+      "kind": "free",
+      "band": "Lost Remotes",
+      "venue": "The Wicked Tuna",
+      "town": "Murrells Inlet",
+      "when": "Sun Nov 29 · 1 PM",
+      "start": "2026-11-29T13:00",
+      "end": "2026-11-29T16:00",
+      "address": "4123 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://thewickedtuna.com/events"
+    },
+    {
+      "kind": "free",
+      "band": "Suavacado",
+      "venue": "Dead Dog Saloon",
+      "town": "Murrells Inlet",
+      "when": "Fri Dec 4 · 8 PM",
+      "start": "2026-12-04T20:00",
+      "end": "2026-12-04T23:30",
+      "address": "4079 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://www.deaddogsaloon.com/events"
+    },
+    {
+      "kind": "free",
+      "band": "Matt Parker & The Deacons",
+      "venue": "OD Arcade & Lounge",
+      "town": "North Myrtle Beach",
+      "when": "Sat Dec 5 · 7:30 PM",
+      "start": "2026-12-05T19:30",
+      "end": "2026-12-05T23:30",
+      "address": "100 S Ocean Blvd, North Myrtle Beach, SC 29582",
+      "source": "https://odarcade.com/north-myrtle-beach-ocean-drive-od-arcade-and-lounge-events"
+    },
+    {
+      "kind": "free",
+      "band": "Josh McCaa",
+      "venue": "The Wicked Tuna",
+      "town": "Murrells Inlet",
+      "when": "Tue Dec 8 · 5 PM",
+      "start": "2026-12-08T17:00",
+      "end": "2026-12-08T21:00",
+      "address": "4123 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://thewickedtuna.com/events"
+    },
+    {
+      "kind": "free",
+      "band": "Bailey Road",
+      "venue": "OD Arcade & Lounge",
+      "town": "North Myrtle Beach",
+      "when": "Sat Dec 12 · 7:30 PM",
+      "start": "2026-12-12T19:30",
+      "end": "2026-12-12T23:30",
+      "address": "100 S Ocean Blvd, North Myrtle Beach, SC 29582",
+      "source": "https://odarcade.com/north-myrtle-beach-ocean-drive-od-arcade-and-lounge-events"
+    },
+    {
+      "kind": "free",
+      "band": "Crashbox",
+      "venue": "Dead Dog Saloon",
+      "town": "Murrells Inlet",
+      "when": "Sat Dec 12 · 8 PM",
+      "start": "2026-12-12T20:00",
+      "end": "2026-12-12T23:30",
+      "address": "4079 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://www.deaddogsaloon.com/events"
+    },
+    {
+      "kind": "free",
+      "band": "Smoke & Mirrors",
+      "venue": "OD Arcade & Lounge",
+      "town": "North Myrtle Beach",
+      "when": "Fri Dec 18 · 7:30 PM",
+      "start": "2026-12-18T19:30",
+      "end": "2026-12-18T23:30",
+      "address": "100 S Ocean Blvd, North Myrtle Beach, SC 29582",
+      "source": "https://odarcade.com/north-myrtle-beach-ocean-drive-od-arcade-and-lounge-events"
+    },
+    {
+      "kind": "free",
+      "band": "Painted Man",
+      "venue": "Dead Dog Saloon",
+      "town": "Murrells Inlet",
+      "when": "Fri Dec 18 · 8 PM",
+      "start": "2026-12-18T20:00",
+      "end": "2026-12-18T23:30",
+      "address": "4079 US-17 Business, Murrells Inlet, SC 29576",
+      "tag": "MarshWalk",
+      "source": "https://www.deaddogsaloon.com/events"
+    }
+  ]
 }
